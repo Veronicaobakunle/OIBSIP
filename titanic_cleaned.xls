@@ -1,0 +1,888 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+21,1,1,"Brown, Mrs. Ellen",Female,16.1,0,0,A/5 174239,78.38742500000001,B72,S
+516,1,3,"Phillips, Col. Alfred",Male,3.9,0,0,PC 250492,11.1378,Unknown,S
+427,1,1,"Stewart, Mrs. Rose",Female,23.2,4,0,A/5 80051,78.38742500000001,B88,S
+14,1,1,"Phillips, Mr. Herbert",Male,3.2,0,2,STON/O 337048,78.38742500000001,C112,S
+147,0,3,"Mitchell, Mr. Herbert",Male,44.4,1,0,A/5 95589,4.3798,Unknown,Q
+64,1,3,"Clark, Mlle. Ellen",Female,47.8,0,0,STON/O 351682,6.5688,Unknown,Q
+692,1,3,"Johnson, Col. Arthur",Male,29.4,1,0,C.A. 239044,24.6399,Unknown,S
+481,0,2,"Wright, Mr. Samuel",Male,22.1,1,2,SC/PARIS 197586,1.7576,Unknown,S
+233,1,3,"Nelson, Rev. Thomas",Male,22.4,0,0,STON/O 64897,4.9966,Unknown,C
+110,1,1,"Allen, Rev. Thomas",Male,44.1,0,0,STON/O 354557,73.4806,Unknown,S
+795,0,3,"Taylor, Mlle. Annie",Female,29.7,0,1,STON/O 361210,25.5865,Unknown,C
+672,0,2,"Smith, Dr. Harry",Male,28.6,1,0,C.A. 90549,14.0686,Unknown,S
+54,0,1,"Young, Major. Edward",Male,27.1,1,0,A/5 129368,78.38742500000001,Unknown,S
+595,0,2,"Morris, Rev. Harry",Male,42.1,0,0,STON/O 217186,4.3802,Unknown,S
+871,0,3,"Smith, Col. James",Male,23.2,2,0,PC 207022,19.2028,Unknown,S
+160,0,3,"Taylor, Master. Charles",Male,7.9,0,0,PC 399571,18.0188,Unknown,S
+284,1,1,"Carter, Col. Walter",Male,35.6,0,0,A/5 109610,5.1551,G102,S
+61,1,3,"Scott, Mr. Henry",Male,13.1,0,0,A/5 109440,12.0045,Unknown,S
+563,0,3,"Smith, Mr. Arthur",Male,22.4,0,0,STON/O 151346,9.1224,Unknown,S
+389,0,2,"Wilson, Dr. Frank",Male,64.3,0,0,STON/O 312443,35.2699,Unknown,C
+257,0,3,"Collins, Dr. Herbert",Male,30.3,1,0,STON/O 99818,26.6625,Unknown,C
+99,1,3,"Johnson, Mlle. Ida",Female,11.1,4,1,232756,1.8241,Unknown,Q
+500,1,1,"Parker, Rev. Henry",Male,28.5,0,0,A/5 266907,16.1233,Unknown,S
+736,0,2,"Clark, Mme. Elizabeth",Female,27.3,0,0,C.A. 116690,2.1331,E125,S
+378,0,3,"Baker, Master. Arthur",Male,9.5,1,0,PC 11448,15.2912,Unknown,Q
+410,0,2,"Edwards, Lady. Anna",Female,7.7,0,1,C.A. 72119,6.3476,Unknown,S
+492,0,3,"Parker, Major. Henry",Male,14.2,0,0,269725,6.1243,Unknown,S
+664,1,1,"Allen, Miss. Sarah",Female,9.3,0,0,STON/O 232271,78.38742500000001,Unknown,S
+464,0,3,"Allen, Mlle. Bertha",Female,21.2,4,0,PC 217397,47.9142,Unknown,S
+845,0,3,"Phillips, Col. Albert",Male,15.8,0,0,PC 170473,40.4054,Unknown,S
+172,0,1,"Anderson, Master. Henry",Male,23.2,0,0,SC/PARIS 283995,78.38742500000001,Unknown,S
+707,1,3,"Anderson, Col. James",Male,34.3,4,0,SC/PARIS 97871,4.2212,Unknown,S
+129,1,3,"Taylor, Major. Robert",Male,17.3,0,0,A/5 362905,28.3441,Unknown,Q
+740,0,3,"Nelson, Lady. Florence",Female,23.2,1,0,C.A. 114478,5.5542,Unknown,S
+885,0,2,"Morris, Miss. Ida",Female,33.2,0,0,343098,25.486,Unknown,S
+822,0,1,"Turner, Mrs. Annie",Female,31.5,0,0,85192,69.57,E61,S
+352,1,1,"Clark, Mr. John",Male,23.2,2,0,PC 19540,14.0686,F108,C
+337,0,3,"Carter, Col. James",Male,23.2,0,2,112702,10.3339,Unknown,S
+366,1,3,"Stewart, Dr. William",Male,29.5,0,0,A/5 243243,28.1009,Unknown,S
+26,0,3,"Nelson, Major. John",Male,27.0,0,0,PC 214078,16.1292,Unknown,S
+854,0,3,"Morris, Mr. Robert",Male,27.4,0,0,295049,0.0033,Unknown,S
+25,0,3,"Hall, Miss. Helen",Female,15.2,0,2,C.A. 289528,12.7752,Unknown,S
+759,0,2,"Nelson, Major. Frank",Male,23.2,0,0,350362,29.642,Unknown,C
+254,1,3,"Morris, Mme. Helen",Female,45.1,1,0,C.A. 43074,0.9238,Unknown,S
+741,0,1,"Hall, Mlle. Kate",Female,1.8,0,0,PC 172597,78.38742500000001,B39,S
+676,1,1,"Phillips, Master. Edward",Male,23.2,0,0,SC/PARIS 256134,12.0285,E119,S
+205,1,3,"Evans, Dr. Alfred",Male,21.7,0,0,STON/O 337770,5.8198,Unknown,Q
+583,0,3,"Young, Dr. Charles",Male,11.3,0,0,A/5 335509,3.6656,Unknown,C
+27,0,3,"Stewart, Master. Thomas",Male,9.5,0,1,A/5 205693,14.6838,Unknown,S
+47,1,3,"Taylor, Mr. Walter",Male,16.3,0,0,C.A. 318828,13.5822,Unknown,C
+665,0,1,"Hall, Miss. Alice",Female,9.7,0,2,SC/PARIS 54674,6.337,C141,S
+786,0,3,"Campbell, Mlle. Margaret",Female,21.1,0,1,C.A. 398061,11.3144,Unknown,S
+271,0,3,"King, Master. Fred",Male,7.1,0,0,77505,0.171,Unknown,S
+454,1,2,"Green, Dr. James",Male,45.1,1,2,C.A. 166707,4.1093,D5,S
+615,1,2,"Morris, Col. Samuel",Male,52.2,0,0,A/5 149904,19.2046,Unknown,Q
+400,1,3,"Moore, Miss. Florence",Female,9.5,1,1,A/5 359154,9.0937,Unknown,S
+579,0,2,"Nelson, Major. Charles",Male,0.4,0,0,STON/O 293736,25.368,Unknown,S
+286,0,2,"Johnson, Mme. Rose",Female,23.2,0,0,STON/O 318282,8.9858,Unknown,S
+180,0,3,"Allen, Mrs. Ellen",Female,23.2,1,1,STON/O 77571,7.8359,Unknown,C
+710,0,2,"Wilson, Rev. Walter",Male,18.4,4,1,SC/PARIS 206853,6.6112,Unknown,S
+610,0,3,"Moore, Rev. Albert",Male,26.2,0,0,STON/O 89738,31.1934,Unknown,S
+515,0,3,"Carter, Col. Harry",Male,35.9,1,1,A/5 9683,11.9872,Unknown,C
+485,0,3,"Green, Mr. Charles",Male,24.5,0,0,A/5 94319,4.3396,Unknown,C
+720,1,1,"Allen, Mr. Fred",Male,23.2,0,2,PC 343805,34.3207,Unknown,Q
+506,0,2,"Wright, Mme. Rose",Female,21.1,1,0,A/5 341013,0.0006,Unknown,S
+488,0,1,"Carter, Major. James",Male,23.2,0,0,SC/PARIS 56645,42.1529,F78,S
+169,0,3,"Brown, Rev. Charles",Male,23.4,0,0,STON/O 344961,2.5487,Unknown,S
+767,1,3,"Moore, Dr. Alfred",Male,27.1,1,0,A/5 350577,3.1863,Unknown,S
+849,1,3,"Wilson, Rev. Frank",Male,25.7,0,0,PC 48001,14.0686,Unknown,S
+526,0,3,"Wright, Master. John",Male,23.2,2,0,C.A. 315701,78.38742500000001,Unknown,Q
+839,0,3,"King, Dr. James",Male,23.2,0,0,PC 11870,39.2936,Unknown,Q
+221,0,2,"Wright, Mrs. Sarah",Female,12.4,0,0,SC/PARIS 357724,21.594,Unknown,C
+756,1,3,"Scott, Mme. Rose",Female,10.8,0,0,C.A. 312090,2.1562,Unknown,S
+217,0,3,"Baker, Miss. Emily",Female,15.3,1,0,C.A. 13151,4.0268,Unknown,C
+724,0,3,"Edwards, Mrs. Ellen",Female,2.8,0,0,211768,30.5507,Unknown,S
+660,1,3,"Green, Mr. Henry",Male,37.5,3,2,PC 100725,3.8981,Unknown,S
+777,0,3,"King, Mrs. Kate",Female,23.2,0,0,PC 305954,8.33,Unknown,S
+159,0,3,"Brown, Miss. Annie",Female,35.6,0,1,PC 184173,1.144,Unknown,C
+58,1,3,"Green, Col. Robert",Male,13.2,3,0,C.A. 136891,47.9846,Unknown,S
+149,1,3,"Adams, Major. James",Male,32.5,0,0,PC 195014,6.9435,Unknown,S
+141,1,3,"Morris, Mlle. Helen",Female,23.2,0,1,C.A. 219098,28.1467,Unknown,S
+644,1,3,"Wilson, Mrs. Emily",Female,17.8,0,0,PC 18003,1.8933,Unknown,S
+335,1,1,"Campbell, Dr. George",Male,45.7,0,0,A/5 384130,78.38742500000001,Unknown,S
+743,1,2,"Edwards, Mlle. Edith",Female,23.2,0,0,C.A. 127097,28.5,G4,S
+265,0,3,"Clark, Dr. Charles",Male,23.2,1,0,C.A. 195551,2.6335,Unknown,C
+62,0,3,"Campbell, Lady. Edith",Female,16.2,0,0,C.A. 251074,23.0284,Unknown,S
+223,1,1,"Johnson, Mr. Alfred",Male,46.3,0,0,SC/PARIS 240593,3.6,E36,Q
+95,0,3,"Johnson, Col. Walter",Male,23.2,1,0,232855,16.22,Unknown,S
+886,1,1,"Moore, Lady. Florence",Female,4.2,0,1,C.A. 68683,6.9356,B126,S
+706,0,2,"Mitchell, Mr. John",Male,23.0,0,1,PC 315250,5.3584,Unknown,S
+511,1,1,"Wilson, Col. Henry",Male,43.3,1,1,A/5 68048,58.2175,B35,C
+650,1,3,"Mitchell, Col. Alfred",Male,3.6,0,0,C.A. 273475,4.4816,Unknown,S
+552,1,1,"Evans, Miss. Nellie",Female,19.2,0,2,C.A. 387151,76.3294,A98,C
+245,0,3,"Hall, Mr. Edward",Male,35.9,0,1,STON/O 159306,0.9261,Unknown,S
+505,0,3,"Evans, Master. John",Male,3.4,0,1,PC 23443,34.3308,Unknown,S
+109,0,3,"Rogers, Lady. Elizabeth",Female,19.3,0,0,81929,4.753,Unknown,C
+867,1,1,"Phillips, Major. Edward",Male,26.2,1,2,340332,44.0426,C120,S
+586,1,3,"Scott, Rev. Arthur",Male,23.2,0,0,35959,5.2917,Unknown,S
+680,1,3,"Morris, Major. Henry",Male,34.7,0,2,STON/O 228922,0.3419,Unknown,S
+467,1,1,"Campbell, Col. Alfred",Male,23.2,1,0,SC/PARIS 252852,40.2894,F107,C
+860,0,3,"Johnson, Mme. Mary",Female,32.3,0,0,385994,1.7474,Unknown,C
+701,1,3,"Anderson, Mme. Kate",Female,6.0,0,0,C.A. 201280,30.36,Unknown,S
+35,0,3,"Green, Master. Arthur",Male,23.2,0,0,278317,8.5845,Unknown,S
+295,1,3,"Young, Miss. Elizabeth",Female,23.2,0,0,C.A. 173774,2.389,Unknown,S
+823,1,1,"Anderson, Mrs. Ellen",Female,43.1,0,3,C.A. 255480,78.38742500000001,D109,S
+328,1,1,"Allen, Dr. Harry",Male,16.0,0,0,A/5 384218,43.5121,Unknown,S
+797,0,3,"Phillips, Mr. Frank",Male,37.4,0,2,SC/PARIS 346268,35.7063,Unknown,S
+272,1,3,"Rogers, Col. Walter",Male,23.2,0,0,PC 103860,0.676,Unknown,C
+587,0,1,"Stewart, Master. Charles",Male,23.2,0,2,A/5 17681,23.83,G100,C
+880,1,3,"Smith, Rev. John",Male,4.6,0,0,C.A. 260891,17.1828,Unknown,Q
+100,0,3,"Nelson, Rev. Henry",Male,22.4,0,0,C.A. 64662,5.5932,Unknown,C
+238,0,3,"Turner, Dr. Thomas",Male,24.0,0,0,STON/O 339636,7.798,Unknown,S
+557,0,3,"Rogers, Mrs. Elizabeth",Female,11.3,1,0,C.A. 275717,3.6,Unknown,C
+532,0,3,"Young, Col. James",Male,41.5,0,0,STON/O 183177,12.7033,Unknown,C
+466,0,3,"Campbell, Lady. Emily",Female,48.5,0,0,PC 373452,6.169,Unknown,C
+154,0,3,"Smith, Mr. Fred",Male,23.2,0,0,C.A. 280226,8.9572,Unknown,S
+772,0,1,"Turner, Dr. William",Male,40.5,0,0,C.A. 373373,37.4125,B52,S
+592,0,1,"Wright, Col. Edward",Male,5.7,0,2,SC/PARIS 328850,12.7863,Unknown,C
+636,0,3,"Wright, Master. Herbert",Male,4.2,1,3,C.A. 310495,6.4874,Unknown,C
+111,0,3,"Campbell, Major. Fred",Male,14.8,0,0,A/5 324726,13.4063,Unknown,S
+681,1,3,"Smith, Lady. Margaret",Female,30.3,0,0,STON/O 33721,14.3899,Unknown,Q
+438,0,3,"Phillips, Dr. Arthur",Male,23.2,0,2,SC/PARIS 368382,2.6437,Unknown,S
+535,0,1,"Baker, Col. Samuel",Male,51.0,1,0,242550,78.38742500000001,Unknown,S
+685,0,1,"Smith, Miss. Alice",Female,23.2,1,2,C.A. 345943,50.0715,B22,S
+281,0,3,"Stewart, Major. James",Male,23.2,0,0,C.A. 198745,1.66,Unknown,S
+126,0,3,"Mitchell, Mr. Thomas",Male,37.7,1,0,PC 340556,12.426,Unknown,S
+869,0,3,"Johnson, Lady. Sarah",Female,17.4,0,0,A/5 268728,5.37,Unknown,Q
+693,1,3,"Parker, Col. Thomas",Male,5.9,2,0,STON/O 88822,11.878,Unknown,S
+863,0,3,"Wright, Master. Henry",Male,11.7,0,0,PC 64230,5.6017,Unknown,C
+865,0,1,"Adams, Mme. Elizabeth",Female,19.2,0,0,C.A. 141760,78.38742500000001,D24,S
+135,0,3,"Wilson, Mr. Fred",Male,42.5,1,0,SC/PARIS 60584,23.1792,Unknown,S
+206,1,3,"Phillips, Dr. Harry",Male,14.2,1,2,309169,9.1461,Unknown,S
+659,1,1,"Baker, Mr. Robert",Male,32.0,1,0,PC 276303,8.1485,A96,S
+262,1,2,"Phillips, Major. Frank",Male,23.2,1,0,352976,8.8571,Unknown,S
+165,1,3,"Mitchell, Mme. Emily",Female,21.8,0,0,C.A. 55264,33.3534,Unknown,S
+725,0,2,"Nelson, Lady. Elizabeth",Female,45.1,1,0,A/5 311947,5.4624,Unknown,S
+49,0,2,"King, Miss. Nellie",Female,33.1,1,0,SC/PARIS 165582,27.7957,Unknown,C
+75,1,3,"Green, Mlle. Nellie",Female,14.9,1,2,STON/O 129710,0.8634,Unknown,S
+620,1,1,"Phillips, Mme. Mary",Female,24.8,0,0,SC/PARIS 145639,22.6788,Unknown,S
+616,0,3,"Green, Mrs. Bertha",Female,40.8,0,0,STON/O 348593,78.38742500000001,Unknown,S
+325,1,3,"Rogers, Mlle. Alice",Female,32.7,0,0,PC 368749,2.0122,Unknown,S
+879,0,3,"Smith, Dr. Thomas",Male,16.7,0,1,STON/O 299545,8.3486,Unknown,S
+59,0,3,"Baker, Lady. Bertha",Female,25.3,3,0,150803,13.6,Unknown,S
+805,1,3,"Wright, Mr. Robert",Male,37.4,1,0,C.A. 19864,1.7125,Unknown,S
+329,1,1,"Wright, Col. James",Male,29.3,0,0,C.A. 141790,78.38742500000001,C87,C
+98,1,3,"Taylor, Mme. Bertha",Female,25.7,0,0,A/5 345803,12.7851,Unknown,S
+529,0,2,"Stewart, Master. William",Male,4.3,0,2,PC 18620,9.6647,Unknown,S
+345,0,2,"Brown, Mme. Alice",Female,19.9,0,0,PC 282222,13.11,Unknown,S
+627,1,2,"Clark, Lady. Ellen",Female,35.1,0,0,250876,66.3106,G121,S
+128,0,3,"King, Mlle. Edith",Female,12.4,0,0,C.A. 308935,0.3384,Unknown,C
+319,1,2,"Clark, Mme. Anna",Female,17.4,0,0,SC/PARIS 390293,36.9935,Unknown,S
+603,0,3,"Stewart, Mr. Robert",Male,0.4,1,0,A/5 333339,19.6762,Unknown,C
+861,0,3,"Stewart, Miss. Alice",Female,24.4,0,1,A/5 390965,1.9239,Unknown,S
+81,0,2,"Hall, Mme. Bertha",Female,7.8,0,0,A/5 390483,5.6461,Unknown,S
+356,1,3,"Parker, Miss. Kate",Female,9.9,1,0,PC 4343,4.9439,Unknown,S
+558,1,1,"Mitchell, Rev. George",Male,42.1,1,0,STON/O 121248,78.38742500000001,C114,S
+778,1,1,"Green, Rev. Charles",Male,19.4,1,0,A/5 143957,34.6958,F92,Q
+448,0,1,"Phillips, Col. Thomas",Male,80.0,0,0,SC/PARIS 16108,4.2745,Unknown,C
+807,0,1,"Campbell, Rev. Charles",Male,26.7,1,1,258191,23.9206,Unknown,S
+479,1,3,"Young, Rev. Fred",Male,14.8,4,0,C.A. 295301,12.6746,Unknown,S
+588,1,3,"Campbell, Col. Alfred",Male,40.9,0,1,SC/PARIS 377357,37.4041,Unknown,C
+578,1,3,"Baker, Miss. Ellen",Female,23.2,0,0,A/5 32339,0.959,Unknown,C
+617,0,3,"Young, Mr. George",Male,23.2,0,1,C.A. 267621,2.8156,Unknown,S
+331,1,1,"Taylor, Mr. Harry",Male,30.3,0,0,A/5 225290,0.11,F34,S
+512,0,1,"Anderson, Col. John",Male,42.8,0,0,SC/PARIS 213575,78.38742500000001,E5,C
+675,1,1,"Allen, Mr. Samuel",Male,32.6,0,0,C.A. 298382,63.1912,Unknown,S
+472,0,2,"Johnson, Col. Fred",Male,21.6,0,0,C.A. 119252,1.4537,Unknown,S
+780,1,2,"Allen, Col. Frank",Male,33.0,0,0,STON/O 143322,27.1453,Unknown,S
+810,1,1,"Collins, Miss. Anna",Female,34.4,0,0,A/5 328760,34.649,A110,C
+643,0,2,"Scott, Mlle. Kate",Female,32.8,0,0,PC 287964,71.4008,Unknown,S
+456,1,3,"King, Mme. Ida",Female,9.1,1,0,STON/O 294680,11.8161,Unknown,C
+243,1,3,"Allen, Major. William",Male,23.2,1,0,PC 321316,12.9079,Unknown,S
+553,0,3,"Turner, Mlle. Sarah",Female,7.5,0,0,STON/O 222153,3.884,Unknown,S
+388,0,1,"Green, Miss. Ellen",Female,23.2,1,1,A/5 168099,78.38742500000001,A19,S
+432,0,1,"Anderson, Rev. Albert",Male,15.5,1,0,PC 35229,35.2406,Unknown,S
+385,1,3,"Anderson, Dr. George",Male,6.6,1,0,STON/O 89021,8.0059,Unknown,S
+16,0,2,"Mitchell, Lady. Sarah",Female,38.6,1,0,SC/PARIS 279058,14.2975,Unknown,S
+363,1,2,"Green, Master. George",Male,8.1,0,0,STON/O 109861,36.5267,Unknown,S
+726,0,1,"Anderson, Rev. George",Male,19.9,1,2,SC/PARIS 87510,35.1034,E11,S
+455,0,1,"Johnson, Dr. Samuel",Male,33.2,0,2,SC/PARIS 335253,78.38742500000001,E144,S
+733,1,3,"Turner, Mr. John",Male,27.8,0,2,STON/O 324390,10.0088,Unknown,S
+832,1,1,"Wright, Col. Walter",Male,14.4,2,1,64991,78.38742500000001,B114,S
+309,1,3,"Nelson, Miss. Rose",Female,33.4,1,0,PC 213361,19.1814,Unknown,C
+510,1,2,"Campbell, Col. Albert",Male,0.4,0,0,STON/O 378621,7.5737,F123,S
+633,1,3,"Wright, Col. John",Male,23.2,0,1,PC 153661,1.9662,Unknown,Q
+148,1,3,"King, Rev. Arthur",Male,23.2,1,0,A/5 75383,3.42,Unknown,S
+187,0,2,"Parker, Master. Albert",Male,3.0,0,0,397717,3.9971,Unknown,S
+465,0,1,"Collins, Rev. Alfred",Male,23.6,0,0,291236,24.486,Unknown,S
+298,0,3,"Wright, Mme. Ellen",Female,29.8,1,0,A/5 296620,4.9322,Unknown,S
+300,0,2,"Anderson, Mlle. Helen",Female,23.2,1,0,PC 375989,16.8505,Unknown,S
+260,1,1,"Anderson, Mrs. Emily",Female,47.4,0,0,SC/PARIS 168197,1.0658,G83,S
+471,0,2,"Adams, Master. Samuel",Male,9.5,1,0,349386,9.35,D100,S
+139,0,3,"Allen, Major. Herbert",Male,23.2,1,0,C.A. 266054,15.5256,Unknown,S
+55,1,1,"Scott, Mlle. Margaret",Female,10.2,1,2,202315,78.38742500000001,B38,C
+327,0,2,"Brown, Dr. Samuel",Male,23.2,0,1,C.A. 271329,0.296,Unknown,S
+353,0,2,"Scott, Miss. Annie",Female,34.8,0,1,SC/PARIS 196458,15.4912,F14,S
+52,0,2,"Collins, Lady. Edith",Female,23.2,1,1,SC/PARIS 344254,31.1766,Unknown,S
+654,1,3,"Moore, Master. William",Male,7.7,0,0,C.A. 249774,7.1278,Unknown,S
+278,0,3,"Nelson, Mr. William",Male,23.2,0,0,145043,6.1539,Unknown,S
+23,0,2,"Taylor, Mr. Henry",Male,23.2,1,0,C.A. 383245,15.0856,F26,S
+840,0,2,"Mitchell, Major. Herbert",Male,23.2,0,0,PC 138249,46.2043,Unknown,Q
+559,1,3,"Collins, Col. Charles",Male,6.5,3,0,STON/O 250642,37.3513,Unknown,S
+628,1,1,"Baker, Mlle. Florence",Female,65.6,2,0,A/5 215218,11.32,Unknown,S
+835,1,1,"Campbell, Mme. Helen",Female,23.2,0,0,PC 367205,21.6018,A91,Q
+66,0,3,"Turner, Mrs. Mary",Female,16.2,2,1,A/5 137396,3.8929,Unknown,S
+591,0,3,"Parker, Mr. Alfred",Male,23.2,0,0,SC/PARIS 51918,42.6841,Unknown,Q
+170,0,3,"Campbell, Col. Charles",Male,30.2,0,0,173216,16.81,Unknown,S
+297,0,3,"Allen, Mlle. Emily",Female,22.6,0,0,STON/O 386285,10.6804,Unknown,S
+490,0,1,"Anderson, Master. Herbert",Male,7.4,0,0,STON/O 333422,18.0576,F96,S
+210,0,3,"Phillips, Master. Charles",Male,9.7,1,3,SC/PARIS 22597,3.745,Unknown,S
+609,1,3,"Allen, Mlle. Bertha",Female,8.7,1,0,217836,18.0015,Unknown,C
+143,1,1,"Parker, Mr. Robert",Male,31.5,0,0,A/5 308476,78.38742500000001,Unknown,S
+51,0,3,"Phillips, Dr. Henry",Male,28.2,2,0,SC/PARIS 299375,13.6895,Unknown,S
+730,0,1,"Baker, Major. Frank",Male,23.2,0,0,STON/O 220564,1.4376,B50,Q
+493,1,1,"Clark, Miss. Florence",Female,23.2,1,0,PC 352785,52.9631,Unknown,S
+758,0,2,"Young, Mme. Kate",Female,32.2,0,0,STON/O 240036,59.0751,Unknown,S
+573,1,1,"Johnson, Major. Edward",Male,34.5,0,0,SC/PARIS 350179,35.4257,Unknown,S
+884,1,1,"Parker, Mme. Florence",Female,53.7,1,0,SC/PARIS 116187,78.38742500000001,F87,C
+82,1,2,"Parker, Master. Henry",Male,7.7,1,0,SC/PARIS 149372,14.8682,Unknown,S
+419,0,3,"Campbell, Major. Walter",Male,23.2,2,2,PC 272210,5.7322,Unknown,S
+548,1,2,"Anderson, Miss. Edith",Female,9.9,0,0,A/5 93593,23.7458,Unknown,S
+651,1,1,"Morris, Master. Thomas",Male,7.5,0,0,A/5 62974,7.6426,F31,S
+834,1,1,"Turner, Dr. Frank",Male,23.2,2,2,C.A. 18763,14.2993,A126,S
+614,0,3,"Evans, Lady. Nellie",Female,23.2,0,0,PC 365417,0.7435,Unknown,C
+67,0,3,"Green, Master. Fred",Male,8.1,0,0,STON/O 395269,1.6514,Unknown,S
+656,1,2,"Young, Lady. Anna",Female,32.8,0,0,SC/PARIS 10813,8.5223,Unknown,S
+866,0,3,"Wilson, Col. Albert",Male,29.0,0,2,SC/PARIS 180172,13.0201,Unknown,S
+10,0,1,"Wright, Rev. John",Male,37.0,0,1,165981,78.38742500000001,D102,S
+663,0,3,"Green, Rev. James",Male,51.2,4,0,164829,15.6653,Unknown,S
+229,0,3,"Adams, Dr. Henry",Male,40.1,1,0,33653,12.2265,Unknown,S
+836,1,3,"Allen, Major. Herbert",Male,0.4,0,0,337379,4.4093,Unknown,C
+509,0,1,"Morris, Lady. Mary",Female,47.4,1,3,SC/PARIS 338367,73.4147,B48,C
+816,0,2,"Wright, Lady. Sarah",Female,35.4,0,0,304139,8.67,C70,S
+677,1,1,"Collins, Mr. Herbert",Male,0.4,0,0,A/5 314660,78.38742500000001,G98,C
+718,1,3,"Moore, Major. Harry",Male,14.5,0,0,SC/PARIS 126034,13.5034,Unknown,S
+114,1,3,"Anderson, Mlle. Clara",Female,23.3,0,0,PC 90120,4.3549,Unknown,S
+508,0,2,"Wright, Rev. Alfred",Male,27.7,0,0,STON/O 181896,1.9956,Unknown,S
+670,1,2,"Collins, Mrs. Alice",Female,21.6,0,0,C.A. 163734,25.967,Unknown,S
+442,0,1,"Phillips, Lady. Elizabeth",Female,22.3,0,0,A/5 380355,78.38742500000001,Unknown,S
+65,1,3,"Rogers, Dr. Frank",Male,23.2,0,1,C.A. 311322,22.9628,Unknown,Q
+596,0,3,"Clark, Col. Fred",Male,28.9,1,0,134215,23.8004,Unknown,S
+673,0,1,"Taylor, Col. Charles",Male,16.8,0,0,STON/O 292582,25.0783,Unknown,S
+827,0,2,"Baker, Rev. Alfred",Male,21.7,4,0,STON/O 173640,8.7706,Unknown,S
+468,1,2,"Edwards, Dr. Arthur",Male,0.4,0,2,PC 28821,2.5259,Unknown,Q
+348,0,2,"Adams, Col. Albert",Male,39.1,2,0,STON/O 67548,14.1027,Unknown,S
+398,0,1,"Scott, Col. Samuel",Male,30.1,1,0,SC/PARIS 124544,59.546,A102,S
+544,0,3,"Campbell, Mme. Ida",Female,23.2,0,0,A/5 171622,2.0661,Unknown,S
+504,0,1,"Wilson, Mlle. Alice",Female,42.8,0,0,PC 386833,1.3757,Unknown,C
+708,0,3,"Young, Rev. Frank",Male,16.6,1,0,C.A. 145904,51.9435,Unknown,Q
+420,0,3,"Wright, Lady. Anna",Female,23.2,0,1,A/5 344618,17.202,Unknown,S
+372,0,2,"Brown, Mrs. Kate",Female,25.4,1,0,276678,8.509,Unknown,S
+317,0,2,"Anderson, Dr. William",Male,17.0,0,0,SC/PARIS 343396,27.6178,Unknown,S
+358,0,3,"Moore, Mr. Arthur",Male,20.7,0,0,A/5 75644,2.5086,Unknown,C
+602,0,2,"Edwards, Major. John",Male,41.5,0,0,STON/O 183415,50.3176,Unknown,S
+601,0,2,"Wilson, Dr. Fred",Male,23.2,2,0,SC/PARIS 50998,18.1977,Unknown,C
+423,1,3,"Stewart, Mme. Rose",Female,19.6,0,1,PC 155027,12.8894,Unknown,S
+527,1,3,"Hall, Mr. James",Male,29.7,0,2,202497,15.2824,Unknown,S
+761,1,1,"Allen, Major. John",Male,22.3,0,2,SC/PARIS 86247,67.8434,A7,S
+189,0,3,"Brown, Master. Frank",Male,23.2,2,0,STON/O 106691,23.4311,Unknown,C
+252,0,3,"Parker, Mme. Ida",Female,35.8,0,0,115243,21.1402,Unknown,S
+783,0,2,"Nelson, Major. Herbert",Male,23.2,0,0,C.A. 41055,38.84,B5,S
+368,0,2,"Carter, Col. James",Male,23.2,0,0,A/5 104678,8.1308,Unknown,C
+324,1,1,"Hall, Lady. Clara",Female,36.8,0,1,STON/O 152693,78.38742500000001,G132,S
+541,0,1,"Johnson, Lady. Mary",Female,35.6,0,2,C.A. 302213,6.3433,Unknown,S
+716,0,3,"Evans, Dr. James",Male,17.3,0,0,SC/PARIS 21620,8.01,Unknown,C
+657,0,3,"Anderson, Mrs. Clara",Female,0.4,1,0,281113,3.4811,Unknown,S
+859,1,3,"Brown, Mr. Charles",Male,21.8,1,0,C.A. 330439,3.1462,Unknown,S
+514,0,3,"Collins, Col. Charles",Male,11.2,0,0,STON/O 88934,23.4979,Unknown,S
+631,0,3,"Mitchell, Dr. Fred",Male,19.3,0,3,SC/PARIS 337275,3.2138,Unknown,S
+749,1,1,"Evans, Major. Herbert",Male,46.6,0,0,SC/PARIS 60536,1.53,Unknown,S
+452,1,2,"Rogers, Major. William",Male,23.2,0,0,PC 40250,37.6919,Unknown,Q
+625,0,3,"Parker, Miss. Annie",Female,35.2,0,0,C.A. 160041,19.4252,Unknown,S
+415,1,1,"Scott, Major. Walter",Male,38.8,1,3,A/5 249563,23.2183,Unknown,S
+290,1,2,"Evans, Rev. Harry",Male,14.7,1,0,C.A. 236323,32.0274,Unknown,C
+841,0,3,"Mitchell, Mlle. Anna",Female,23.2,0,0,STON/O 90193,0.5277,Unknown,S
+652,1,3,"Johnson, Dr. Robert",Male,0.4,0,2,PC 6923,0.085,Unknown,C
+219,1,1,"Morris, Col. Thomas",Male,23.2,0,0,SC/PARIS 5287,3.5756,Unknown,S
+240,0,2,"Edwards, Dr. John",Male,50.1,0,0,A/5 5858,8.9957,Unknown,S
+453,0,3,"Hall, Rev. Edward",Male,35.4,4,0,C.A. 212433,5.69,Unknown,S
+460,1,1,"Green, Master. Samuel",Male,6.8,1,0,A/5 397964,78.38742500000001,F32,S
+193,1,3,"Collins, Col. Robert",Male,23.2,0,0,A/5 172924,60.3503,Unknown,S
+409,1,2,"Green, Master. James",Male,23.2,1,0,C.A. 399193,4.1631,Unknown,S
+192,1,1,"Wilson, Mme. Edith",Female,23.2,1,0,STON/O 44312,8.4513,Unknown,S
+828,1,2,"Moore, Mlle. Ellen",Female,23.2,1,2,C.A. 215106,32.7047,Unknown,C
+745,0,1,"Parker, Lady. Ida",Female,33.0,0,0,PC 369645,32.3,G95,C
+133,0,3,"Moore, Col. Henry",Male,26.2,0,0,SC/PARIS 2486,3.5926,Unknown,S
+376,1,3,"Rogers, Mme. Edith",Female,23.2,0,0,PC 311650,39.6702,Unknown,C
+253,0,1,"Scott, Mr. James",Male,30.6,0,1,A/5 248501,14.0686,D47,C
+619,0,3,"Clark, Mr. William",Male,0.4,2,0,C.A. 391275,11.0255,Unknown,C
+264,1,3,"Edwards, Miss. Sarah",Female,31.1,0,0,C.A. 293178,25.2309,Unknown,S
+71,1,2,"Taylor, Rev. Frank",Male,3.9,0,3,197768,13.5698,Unknown,S
+273,1,3,"Carter, Dr. Edward",Male,22.6,1,0,177980,11.9766,Unknown,Q
+436,0,3,"Turner, Mrs. Anna",Female,19.8,4,1,C.A. 233948,6.3618,Unknown,S
+116,1,3,"Morris, Mrs. Bertha",Female,1.9,0,0,SC/PARIS 83824,14.9842,Unknown,S
+612,1,3,"Stewart, Major. Charles",Male,0.4,0,0,SC/PARIS 78425,16.7994,Unknown,S
+306,0,2,"Young, Mrs. Kate",Female,23.2,1,0,75278,42.9912,Unknown,S
+572,0,3,"Collins, Rev. Henry",Male,28.3,0,2,PC 202744,4.8527,Unknown,C
+713,0,3,"Anderson, Rev. Samuel",Male,23.2,1,0,A/5 271209,12.7,Unknown,S
+373,0,1,"Edwards, Dr. William",Male,17.0,0,2,STON/O 297564,77.7357,D70,S
+697,0,3,"Hall, Master. Albert",Male,5.4,1,0,SC/PARIS 18348,14.64,Unknown,C
+279,0,1,"Adams, Mr. Arthur",Male,10.7,0,0,A/5 51496,19.4815,B50,S
+597,0,3,"Wright, Dr. Harry",Male,23.2,0,0,A/5 272376,5.2053,Unknown,S
+3,0,2,"Campbell, Master. Herbert",Male,0.8,0,0,C.A. 309944,6.9103,Unknown,S
+230,0,3,"Nelson, Miss. Rose",Female,24.3,1,0,C.A. 165496,19.62,Unknown,S
+678,1,1,"Phillips, Major. Thomas",Male,55.5,0,0,SC/PARIS 396831,12.2464,Unknown,S
+569,0,2,"Young, Mr. Frank",Male,28.3,0,0,A/5 123059,14.3125,A127,S
+791,1,3,"Smith, Lady. Florence",Female,10.6,0,0,SC/PARIS 372068,12.2985,Unknown,S
+200,1,1,"Evans, Rev. George",Male,17.2,0,3,STON/O 364845,78.38742500000001,Unknown,S
+458,1,3,"Collins, Rev. Fred",Male,46.7,0,0,SC/PARIS 197026,5.7364,Unknown,S
+533,0,1,"Moore, Lady. Ellen",Female,27.6,0,0,STON/O 92768,18.9853,A144,S
+397,1,3,"King, Major. James",Male,10.8,0,0,PC 291246,5.6347,Unknown,S
+473,1,1,"Moore, Lady. Nellie",Female,27.8,0,1,C.A. 94022,68.3993,Unknown,S
+684,0,3,"Anderson, Dr. Frank",Male,31.9,1,0,C.A. 81880,17.2126,Unknown,S
+404,1,3,"Evans, Lady. Elizabeth",Female,23.2,0,0,STON/O 216424,0.12,Unknown,S
+361,0,3,"Phillips, Mlle. Anna",Female,32.7,0,1,STON/O 207020,2.9758,Unknown,S
+424,0,3,"Parker, Miss. Kate",Female,28.5,0,0,176968,7.0415,Unknown,S
+274,1,3,"Turner, Major. Thomas",Male,21.8,1,0,STON/O 89743,1.6727,Unknown,S
+691,1,1,"Brown, Col. Alfred",Male,40.1,3,0,41937,17.0911,Unknown,S
+412,1,3,"Campbell, Mme. Anna",Female,12.4,1,1,SC/PARIS 209112,2.85,Unknown,S
+748,0,1,"Wright, Mr. John",Male,15.3,4,1,STON/O 92890,78.38742500000001,Unknown,S
+178,0,3,"Green, Rev. Frank",Male,23.2,0,0,A/5 117411,14.6931,Unknown,Q
+301,1,2,"Mitchell, Dr. James",Male,23.2,0,2,220310,48.0381,Unknown,C
+38,0,3,"Hall, Dr. Alfred",Male,26.8,0,1,223075,4.3272,Unknown,S
+203,0,2,"Clark, Col. Albert",Male,31.1,2,0,PC 260009,78.38742500000001,E147,C
+237,1,2,"Taylor, Mrs. Ellen",Female,15.4,0,0,73072,30.7328,E41,S
+150,0,2,"Mitchell, Lady. Annie",Female,24.7,0,0,SC/PARIS 27089,0.6326,Unknown,S
+218,0,3,"Green, Col. Samuel",Male,23.2,0,0,A/5 27497,30.8924,Unknown,S
+621,1,1,"Nelson, Mr. Samuel",Male,22.7,0,0,C.A. 345421,78.38742500000001,F98,S
+340,1,2,"Adams, Miss. Sarah",Female,22.5,0,2,STON/O 339779,78.38742500000001,G62,S
+715,0,2,"Allen, Rev. Herbert",Male,44.7,0,0,48535,0.4035,Unknown,S
+721,0,3,"Parker, Master. Herbert",Male,5.1,0,0,75234,8.1127,Unknown,C
+696,0,2,"Stewart, Rev. Walter",Male,23.2,0,3,PC 311257,6.9133,Unknown,S
+303,0,3,"Mitchell, Major. Frank",Male,23.2,0,1,210514,12.1726,Unknown,S
+790,1,1,"Carter, Lady. Ellen",Female,14.4,1,0,SC/PARIS 114769,78.38742500000001,Unknown,S
+844,1,1,"Wilson, Dr. Henry",Male,23.2,0,0,STON/O 124462,3.39,Unknown,S
+851,0,3,"Morris, Mme. Helen",Female,23.2,2,1,SC/PARIS 165107,25.3251,Unknown,S
+351,0,3,"Morris, Mr. Walter",Male,5.1,0,0,267770,5.5186,Unknown,C
+474,1,3,"Parker, Miss. Florence",Female,17.1,0,1,STON/O 292817,37.3012,Unknown,Q
+719,0,3,"Edwards, Mr. Samuel",Male,34.6,1,0,C.A. 9607,17.3761,Unknown,S
+194,0,2,"Mitchell, Dr. Arthur",Male,23.2,1,0,STON/O 235424,78.38742500000001,G91,S
+236,1,1,"Taylor, Master. Walter",Male,23.2,0,0,A/5 352185,14.0686,Unknown,S
+775,0,3,"Scott, Mme. Elizabeth",Female,14.5,0,3,PC 15912,12.4256,Unknown,S
+769,0,3,"Brown, Lady. Ida",Female,23.2,1,0,C.A. 232999,20.9268,Unknown,S
+56,1,1,"Clark, Mlle. Elizabeth",Female,10.7,0,0,C.A. 27328,78.38742500000001,G32,S
+391,1,1,"Scott, Master. Henry",Male,6.5,0,1,SC/PARIS 140075,78.38742500000001,Unknown,C
+97,1,1,"Allen, Master. George",Male,13.3,0,1,C.A. 399720,78.38742500000001,D23,S
+142,1,1,"Allen, Dr. Fred",Male,37.4,1,0,249652,78.38742500000001,G22,C
+700,1,1,"Wright, Dr. Frank",Male,17.1,2,1,PC 200124,36.7127,Unknown,S
+794,1,3,"Baker, Master. Alfred",Male,4.7,0,0,22290,0.1373,Unknown,S
+486,0,3,"Carter, Mr. Herbert",Male,29.8,0,1,C.A. 237519,22.44,Unknown,S
+524,0,3,"Carter, Rev. Walter",Male,37.4,0,0,PC 346654,2.25,Unknown,S
+121,0,3,"Turner, Major. George",Male,23.2,1,0,SC/PARIS 192292,4.35,Unknown,S
+658,1,1,"Mitchell, Miss. Edith",Female,40.6,0,0,165888,78.38742500000001,Unknown,S
+63,0,3,"Evans, Mme. Clara",Female,6.8,2,1,SC/PARIS 392913,0.6339,Unknown,S
+843,1,1,"Parker, Rev. Walter",Male,17.9,0,2,SC/PARIS 114018,78.38742500000001,Unknown,S
+447,1,3,"Campbell, Miss. Elizabeth",Female,30.6,0,0,A/5 219118,10.9749,Unknown,S
+4,0,3,"Scott, Major. Frank",Male,16.7,0,0,A/5 49625,0.6516,Unknown,S
+224,1,2,"Wright, Miss. Annie",Female,23.2,0,0,SC/PARIS 177356,27.5723,Unknown,C
+878,0,3,"Anderson, Mlle. Sarah",Female,60.7,2,0,PC 388334,1.995,Unknown,S
+102,0,3,"Turner, Mr. Harry",Male,25.0,0,0,STON/O 267795,7.4374,Unknown,Q
+789,1,1,"King, Major. Frank",Male,23.2,2,0,STON/O 304956,78.38742500000001,B129,S
+222,1,1,"King, Dr. George",Male,36.0,3,0,PC 105363,78.38742500000001,Unknown,S
+390,1,3,"Turner, Mlle. Mary",Female,40.2,0,0,A/5 54088,9.6514,Unknown,Q
+5,0,1,"Stewart, Mme. Elizabeth",Female,21.2,1,0,241870,10.9328,D21,S
+53,1,1,"Moore, Major. Harry",Male,23.2,0,0,PC 346427,12.9618,E86,C
+18,0,2,"Evans, Mr. Thomas",Male,31.3,0,0,C.A. 289255,0.7517,Unknown,S
+683,0,2,"Carter, Major. Robert",Male,28.6,0,0,C.A. 201049,1.3668,Unknown,Q
+307,0,3,"Adams, Miss. Ida",Female,23.8,1,0,366304,16.1576,Unknown,S
+156,0,3,"Rogers, Dr. William",Male,23.4,0,0,SC/PARIS 213034,9.9902,Unknown,S
+838,0,1,"Green, Rev. Robert",Male,33.0,0,1,PC 361430,47.9102,C73,S
+622,1,1,"Clark, Dr. Edward",Male,37.2,0,1,SC/PARIS 173640,10.5447,B53,S
+249,1,3,"Green, Col. James",Male,23.2,1,0,A/5 33379,10.1525,Unknown,S
+250,0,3,"Carter, Master. Alfred",Male,3.6,1,0,C.A. 61943,1.168,Unknown,S
+359,0,3,"Rogers, Mr. James",Male,32.5,0,0,196293,19.4948,Unknown,S
+734,1,2,"Parker, Mrs. Anna",Female,38.5,1,3,A/5 255311,13.9379,Unknown,S
+751,0,3,"Brown, Mr. Walter",Male,0.4,0,2,SC/PARIS 65335,11.8773,Unknown,S
+781,1,1,"Carter, Col. George",Male,39.8,4,0,SC/PARIS 148543,57.9207,D106,S
+31,1,2,"Clark, Lady. Elizabeth",Female,15.0,1,0,C.A. 345652,3.7144,Unknown,S
+450,0,1,"Evans, Lady. Mary",Female,14.3,0,2,178366,41.153,F25,S
+888,1,1,"Collins, Miss. Florence",Female,28.3,0,0,STON/O 226769,4.6255,B31,S
+118,0,2,"Taylor, Dr. Samuel",Male,26.3,0,0,STON/O 367623,7.0514,Unknown,S
+594,1,3,"Edwards, Master. George",Male,9.5,1,0,83930,5.58,Unknown,S
+117,0,2,"Carter, Rev. Harry",Male,17.9,0,0,STON/O 240513,1.73,Unknown,S
+446,0,2,"Wright, Mrs. Florence",Female,23.2,0,0,251738,4.5744,Unknown,S
+611,1,3,"Anderson, Col. Harry",Male,16.2,1,0,PC 360325,27.9142,Unknown,S
+292,0,1,"Scott, Rev. William",Male,6.3,0,2,PC 300871,35.6547,F98,S
+28,1,2,"Scott, Rev. Harry",Male,23.2,0,3,377652,9.9877,Unknown,C
+382,1,3,"Campbell, Miss. Annie",Female,15.0,0,2,STON/O 118040,24.9778,Unknown,C
+308,1,2,"Young, Mrs. Annie",Female,23.2,0,0,STON/O 340722,63.1406,G43,S
+545,1,2,"Nelson, Master. Walter",Male,3.1,0,0,STON/O 192849,59.626,Unknown,C
+201,0,3,"Anderson, Mr. Henry",Male,26.5,0,1,C.A. 47027,20.8704,Unknown,S
+831,0,3,"Morris, Major. William",Male,7.9,1,0,A/5 363116,0.1768,Unknown,C
+386,1,1,"Smith, Mlle. Annie",Female,38.0,0,0,STON/O 135562,1.8612,Unknown,S
+784,0,2,"Campbell, Rev. Albert",Male,26.3,2,1,SC/PARIS 180330,14.0686,Unknown,Q
+833,1,3,"Rogers, Mlle. Mary",Female,31.9,0,0,PC 156935,15.444,Unknown,S
+732,0,3,"Taylor, Master. John",Male,23.2,1,0,C.A. 93444,19.8486,Unknown,S
+735,0,1,"Green, Major. Edward",Male,17.7,0,1,355865,78.38742500000001,Unknown,S
+315,0,1,"Scott, Mlle. Rose",Female,0.4,0,0,PC 256155,6.2565,Unknown,S
+542,0,3,"Hall, Lady. Florence",Female,49.2,0,1,A/5 276636,24.3261,Unknown,S
+874,1,1,"Scott, Mrs. Bertha",Female,6.3,0,0,PC 344828,78.38742500000001,F104,S
+354,0,1,"Johnson, Col. Edward",Male,44.5,1,0,STON/O 163895,45.2612,E117,S
+842,1,1,"Campbell, Mr. George",Male,5.9,1,1,260076,55.4266,F53,S
+208,0,3,"Morris, Lady. Clara",Female,20.0,0,0,289799,9.6654,Unknown,S
+380,0,1,"Carter, Master. William",Male,4.9,0,0,SC/PARIS 192307,23.2765,Unknown,S
+703,0,2,"Hall, Mme. Annie",Female,23.2,2,0,C.A. 242753,19.9194,Unknown,S
+607,0,3,"Wright, Mr. Walter",Male,22.9,0,2,PC 253141,10.2003,Unknown,S
+729,0,3,"Adams, Mme. Alice",Female,23.2,1,1,SC/PARIS 363636,4.6757,Unknown,Q
+24,1,3,"Edwards, Mme. Edith",Female,8.0,0,0,SC/PARIS 236202,5.8851,Unknown,C
+341,1,3,"Clark, Mr. Samuel",Male,50.3,0,0,A/5 190319,54.4263,Unknown,S
+334,0,3,"Anderson, Mrs. Kate",Female,2.6,0,2,A/5 5227,1.077,Unknown,S
+155,0,3,"Collins, Lady. Rose",Female,11.4,0,3,23178,2.1061,Unknown,S
+792,1,1,"Carter, Major. Albert",Male,23.2,0,2,PC 187029,40.6454,Unknown,S
+669,1,3,"Allen, Rev. Albert",Male,26.0,0,0,SC/PARIS 42180,5.4739,Unknown,S
+494,1,2,"Turner, Dr. Herbert",Male,49.8,0,1,STON/O 52486,4.5011,Unknown,Q
+723,0,3,"Mitchell, Mlle. Elizabeth",Female,23.2,0,2,A/5 261646,2.6319,Unknown,S
+501,0,3,"Moore, Col. Samuel",Male,26.4,0,0,SC/PARIS 248518,0.9853,Unknown,S
+483,0,3,"Smith, Col. Herbert",Male,30.4,2,0,PC 360349,0.7117,Unknown,S
+883,0,3,"Baker, Mrs. Kate",Female,13.9,1,2,229710,1.7476,Unknown,S
+403,0,2,"Taylor, Mlle. Rose",Female,1.6,0,0,SC/PARIS 398608,9.3213,Unknown,S
+694,1,1,"Edwards, Major. Arthur",Male,42.7,0,2,SC/PARIS 89646,19.9832,F75,S
+263,0,2,"Scott, Major. Fred",Male,36.9,0,0,SC/PARIS 249260,3.0624,Unknown,S
+83,1,1,"King, Master. Arthur",Male,4.3,0,0,PC 144818,78.38742500000001,A142,S
+702,1,3,"Johnson, Major. Alfred",Male,33.9,1,0,C.A. 321070,53.5642,Unknown,Q
+408,0,3,"Young, Master. Edward",Male,23.2,0,0,STON/O 383100,17.2645,Unknown,S
+890,1,3,"Johnson, Major. George",Male,28.8,3,0,A/5 56517,9.157,Unknown,S
+499,0,3,"Nelson, Dr. Arthur",Male,34.1,0,0,STON/O 74401,0.19,Unknown,S
+39,1,1,"Allen, Mrs. Anna",Female,35.6,0,0,PC 389618,14.2901,F110,S
+418,0,3,"Phillips, Mme. Sarah",Female,23.2,0,0,171465,64.0544,Unknown,C
+164,1,2,"Mitchell, Lady. Margaret",Female,4.3,0,1,22507,17.287,Unknown,S
+11,1,2,"Anderson, Rev. Charles",Male,36.6,1,0,307491,2.5474,Unknown,S
+519,0,2,"Anderson, Dr. George",Male,23.2,4,0,STON/O 314677,8.7617,Unknown,S
+320,1,3,"Taylor, Col. Herbert",Male,20.1,1,0,STON/O 285186,45.5719,Unknown,S
+33,1,3,"Rogers, Mme. Ida",Female,38.1,0,0,SC/PARIS 296170,22.706,Unknown,C
+604,1,2,"Adams, Mme. Anna",Female,23.2,0,1,STON/O 264403,56.6018,Unknown,S
+808,0,3,"Nelson, Dr. Thomas",Male,29.2,0,0,STON/O 260360,17.7098,Unknown,S
+626,0,3,"Evans, Master. Walter",Male,1.8,0,2,SC/PARIS 324457,12.9128,Unknown,S
+383,0,3,"Young, Dr. Frank",Male,30.3,1,0,1942,10.0968,Unknown,S
+282,0,3,"Turner, Mr. Thomas",Male,23.2,1,3,174681,1.9314,Unknown,S
+554,0,3,"Brown, Mr. Samuel",Male,27.7,0,0,153754,1.2588,Unknown,S
+801,1,3,"Taylor, Mlle. Alice",Female,14.0,0,0,71573,2.3048,Unknown,S
+829,0,3,"Nelson, Dr. John",Male,2.8,0,0,SC/PARIS 223183,44.6619,Unknown,S
+624,1,1,"Turner, Master. Robert",Male,5.7,0,1,A/5 293206,78.38742500000001,F31,Q
+837,1,1,"Smith, Miss. Ida",Female,23.2,0,0,SC/PARIS 44113,14.0686,B133,Q
+379,1,1,"Allen, Mr. Thomas",Male,31.9,2,0,STON/O 376881,25.1467,G83,S
+568,1,2,"Campbell, Mme. Ida",Female,30.4,0,0,PC 27021,25.2791,Unknown,S
+793,0,3,"Clark, Col. Henry",Male,6.1,3,0,A/5 245266,6.3699,Unknown,S
+90,0,3,"Young, Major. Arthur",Male,18.4,1,0,PC 139702,6.4817,Unknown,S
+214,0,2,"Stewart, Mme. Alice",Female,35.9,0,0,C.A. 69559,4.8466,Unknown,S
+322,1,3,"King, Mme. Ida",Female,36.0,1,0,PC 111036,1.5253,Unknown,C
+771,1,2,"Young, Master. Charles",Male,2.4,0,2,A/5 310685,25.7134,Unknown,S
+134,1,1,"Nelson, Miss. Alice",Female,35.4,0,0,A/5 70102,78.38742500000001,G61,C
+347,1,2,"Phillips, Mme. Anna",Female,1.7,1,0,A/5 372143,16.6057,A42,S
+44,1,1,"Taylor, Major. Frank",Male,23.2,0,0,PC 105633,74.0332,Unknown,Q
+8,1,2,"King, Mme. Florence",Female,28.2,0,0,38435,15.6481,Unknown,S
+565,0,1,"Nelson, Mrs. Ellen",Female,30.9,0,0,C.A. 207963,78.38742500000001,F100,S
+321,1,3,"Moore, Col. Harry",Male,42.5,0,0,PC 157085,17.1035,Unknown,S
+717,1,3,"Campbell, Rev. Henry",Male,15.3,0,1,STON/O 256067,7.3599,Unknown,S
+188,0,3,"Allen, Lady. Clara",Female,36.2,0,0,C.A. 365584,4.0617,Unknown,Q
+593,1,3,"Parker, Dr. Herbert",Male,23.2,0,0,241501,2.1625,Unknown,Q
+123,0,3,"Parker, Mme. Kate",Female,31.3,1,1,A/5 74797,3.9352,Unknown,S
+41,1,2,"Scott, Master. Herbert",Male,9.8,0,0,STON/O 111140,0.9419,Unknown,S
+305,1,3,"Green, Dr. Albert",Male,23.2,0,2,PC 181862,3.0652,Unknown,S
+32,0,3,"Moore, Rev. Fred",Male,23.2,0,0,C.A. 69617,63.1648,Unknown,S
+674,1,3,"Wright, Mlle. Nellie",Female,16.7,1,0,SC/PARIS 84372,20.4892,Unknown,C
+173,0,3,"Morris, Mme. Anna",Female,25.0,0,0,PC 86064,59.1121,Unknown,Q
+285,0,1,"Carter, Master. Arthur",Male,23.2,0,0,284410,78.38742500000001,G36,S
+431,1,2,"Evans, Mme. Mary",Female,10.4,0,0,A/5 329564,5.9267,Unknown,S
+818,1,2,"Nelson, Major. Robert",Male,33.8,1,0,SC/PARIS 271201,7.2127,Unknown,S
+241,1,1,"Young, Mme. Elizabeth",Female,23.2,0,2,C.A. 71359,25.213,Unknown,S
+667,0,3,"Green, Col. Fred",Male,23.2,3,2,A/5 56536,22.0587,Unknown,S
+175,1,1,"Edwards, Major. Arthur",Male,23.2,0,0,C.A. 102720,78.38742500000001,E113,S
+566,1,2,"Brown, Mme. Ellen",Female,23.2,1,0,359948,60.8929,Unknown,S
+642,0,3,"Stewart, Mlle. Ida",Female,45.3,0,1,C.A. 125716,8.9736,Unknown,S
+246,1,1,"Turner, Mme. Mary",Female,18.6,0,0,A/5 245001,44.4773,D129,S
+57,0,1,"Phillips, Dr. Charles",Male,33.2,1,0,C.A. 322206,78.38742500000001,Unknown,S
+599,1,1,"Carter, Col. Alfred",Male,24.2,2,0,C.A. 187466,78.38742500000001,C94,S
+72,1,2,"Campbell, Col. James",Male,25.3,0,0,STON/O 359748,3.2952,Unknown,S
+768,0,2,"Campbell, Miss. Edith",Female,23.2,0,0,A/5 150238,9.8674,Unknown,Q
+146,0,3,"Taylor, Rev. Herbert",Male,26.5,1,3,SC/PARIS 326962,47.5367,Unknown,C
+91,0,3,"Taylor, Dr. Henry",Male,28.3,0,0,PC 38439,32.4621,Unknown,S
+167,0,3,"King, Rev. Frank",Male,23.7,0,1,314464,8.07,Unknown,S
+393,0,1,"Brown, Dr. William",Male,23.2,0,0,C.A. 105687,7.3292,B44,S
+661,0,3,"Stewart, Major. Thomas",Male,27.8,1,0,A/5 271609,18.2703,Unknown,S
+171,0,1,"Turner, Mrs. Rose",Female,24.8,1,1,STON/O 162934,73.9478,B88,C
+311,0,2,"Campbell, Mr. Samuel",Male,15.7,1,2,A/5 303696,1.5013,G138,Q
+362,0,3,"Hall, Mlle. Annie",Female,23.2,1,0,SC/PARIS 58133,11.3121,Unknown,Q
+360,0,3,"Taylor, Col. James",Male,4.5,2,1,A/5 311323,16.3676,Unknown,S
+94,0,3,"Hall, Col. Fred",Male,13.0,1,0,SC/PARIS 308821,25.6703,Unknown,S
+323,0,1,"Mitchell, Major. Albert",Male,29.0,0,0,PC 109497,19.682,Unknown,S
+421,1,3,"Rogers, Mme. Sarah",Female,10.2,2,0,SC/PARIS 372232,9.506,Unknown,S
+413,1,2,"King, Master. William",Male,7.0,0,0,SC/PARIS 290057,7.8025,Unknown,C
+752,1,1,"Collins, Major. Herbert",Male,62.1,0,0,STON/O 354006,78.38742500000001,Unknown,S
+802,1,3,"Johnson, Major. George",Male,9.3,0,0,PC 201609,0.08,Unknown,S
+687,0,3,"Nelson, Dr. Alfred",Male,31.2,0,1,PC 223702,7.8957,Unknown,S
+377,1,1,"Smith, Col. Albert",Male,42.6,0,0,SC/PARIS 75502,73.46,B127,S
+396,0,2,"Hall, Dr. Harry",Male,18.7,1,0,PC 395387,3.7675,Unknown,S
+244,0,3,"Allen, Lady. Helen",Female,18.1,0,0,PC 251323,4.5422,Unknown,S
+755,0,3,"Green, Dr. Albert",Male,16.1,0,0,A/5 12553,1.6943,Unknown,Q
+88,1,3,"Parker, Lady. Anna",Female,13.6,0,0,PC 139750,18.5141,Unknown,S
+215,0,3,"Allen, Mrs. Nellie",Female,23.8,0,0,PC 74860,8.2998,Unknown,C
+174,1,3,"Green, Major. Frank",Male,23.2,1,0,PC 233888,14.0686,Unknown,S
+426,1,3,"Johnson, Mlle. Elizabeth",Female,23.2,1,0,A/5 248579,3.2508,Unknown,C
+709,1,2,"Wilson, Rev. Fred",Male,36.5,0,0,C.A. 204733,8.3779,Unknown,Q
+119,0,3,"Carter, Mrs. Bertha",Female,12.8,0,0,SC/PARIS 391684,12.3856,Unknown,S
+120,0,3,"Mitchell, Master. Arthur",Male,8.1,1,0,SC/PARIS 132400,1.0701,Unknown,C
+582,1,3,"Green, Major. Fred",Male,23.2,4,0,PC 37111,3.9158,Unknown,S
+1,1,2,"Parker, Mrs. Elizabeth",Female,34.4,0,0,A/5 355785,1.1968,Unknown,C
+395,0,2,"Nelson, Major. James",Male,8.1,0,2,STON/O 98823,19.1579,Unknown,S
+402,0,3,"Nelson, Dr. Herbert",Male,23.2,0,2,A/5 368217,0.9437,Unknown,S
+405,1,3,"Baker, Major. Samuel",Male,31.8,0,0,STON/O 212274,19.9285,Unknown,S
+564,1,2,"Campbell, Mrs. Nellie",Female,32.0,1,0,STON/O 5788,39.1371,Unknown,C
+571,1,2,"Collins, Mrs. Annie",Female,18.6,0,1,C.A. 38426,0.9669,Unknown,Q
+163,0,1,"Adams, Mme. Anna",Female,25.7,1,0,A/5 194324,78.38742500000001,Unknown,S
+115,0,1,"Stewart, Col. James",Male,34.3,0,1,SC/PARIS 76034,19.421,F66,S
+151,0,3,"Scott, Major. Harry",Male,28.5,1,1,PC 396807,19.6101,Unknown,S
+668,0,2,"Scott, Mr. John",Male,23.2,0,1,362824,39.0841,Unknown,C
+531,0,3,"King, Dr. Walter",Male,30.1,0,2,SC/PARIS 9056,10.6717,Unknown,S
+369,1,1,"Morris, Mrs. Alice",Female,22.0,1,0,A/5 242694,4.893,E111,S
+478,1,3,"Scott, Miss. Rose",Female,25.9,0,0,PC 112858,5.8136,Unknown,S
+487,1,3,"Smith, Mme. Helen",Female,22.6,0,1,378637,1.1949,Unknown,S
+543,1,2,"Johnson, Lady. Kate",Female,32.5,0,0,PC 240702,10.8949,Unknown,S
+876,0,2,"Anderson, Miss. Margaret",Female,14.0,1,0,99682,51.0783,Unknown,S
+259,1,2,"Johnson, Col. George",Male,26.3,3,0,PC 389256,78.38742500000001,D60,S
+776,0,3,"Brown, Dr. Walter",Male,22.2,0,2,SC/PARIS 229625,47.3363,Unknown,S
+136,0,3,"Evans, Dr. Thomas",Male,16.6,0,0,SC/PARIS 117155,28.7607,Unknown,S
+848,1,1,"Hall, Mrs. Anna",Female,23.2,0,0,195459,78.38742500000001,E11,S
+581,0,2,"Green, Major. Thomas",Male,23.2,1,1,PC 298114,0.1992,Unknown,C
+502,0,2,"Clark, Mlle. Clara",Female,38.2,0,0,PC 244637,25.0856,Unknown,S
+539,0,3,"Parker, Dr. Henry",Male,23.2,0,0,PC 121170,5.5968,Unknown,S
+598,1,2,"Young, Mr. Arthur",Male,11.6,0,0,A/5 362611,7.0758,Unknown,S
+344,0,1,"Campbell, Major. Arthur",Male,12.2,0,2,C.A. 44215,21.8104,Unknown,S
+770,1,3,"Morris, Major. Frank",Male,20.9,0,0,SC/PARIS 314490,6.2722,Unknown,S
+570,1,3,"Young, Mlle. Annie",Female,23.2,1,0,C.A. 366394,25.0086,Unknown,S
+294,0,1,"Edwards, Mlle. Sarah",Female,23.2,0,0,328697,12.72,E51,S
+365,0,1,"Anderson, Rev. Henry",Male,38.1,0,1,C.A. 270200,67.5815,C67,S
+575,0,3,"Hall, Mr. Alfred",Male,2.7,1,0,A/5 350540,23.512,Unknown,S
+15,0,3,"Parker, Mr. Harry",Male,25.3,1,2,PC 267171,5.2434,Unknown,S
+87,0,3,"Rogers, Dr. Samuel",Male,0.4,0,2,STON/O 299125,24.3258,Unknown,Q
+371,0,2,"Johnson, Master. Harry",Male,7.0,0,0,STON/O 262562,3.9535,Unknown,Q
+166,0,3,"Turner, Lady. Margaret",Female,35.5,0,0,C.A. 275762,32.8424,Unknown,S
+809,0,3,"Phillips, Col. Samuel",Male,18.4,1,0,A/5 15757,11.1195,Unknown,S
+336,1,3,"Morris, Rev. Fred",Male,31.2,0,2,356014,4.7019,Unknown,S
+60,1,3,"Allen, Rev. Walter",Male,14.0,1,0,PC 201820,4.5188,Unknown,Q
+355,0,3,"Young, Master. Albert",Male,2.7,0,0,PC 244231,17.9,Unknown,Q
+425,0,2,"Clark, Mme. Ellen",Female,48.8,0,0,STON/O 137608,0.6452,Unknown,S
+293,0,3,"Young, Rev. Charles",Male,23.2,0,0,C.A. 145683,15.4875,Unknown,S
+42,0,3,"Morris, Col. Albert",Male,14.8,0,0,PC 125118,8.7879,Unknown,S
+330,0,3,"Stewart, Col. Charles",Male,23.2,0,1,A/5 25087,22.5484,Unknown,S
+430,1,1,"Mitchell, Master. James",Male,23.2,0,3,C.A. 201968,78.38742500000001,E52,Q
+80,0,3,"Adams, Col. Thomas",Male,35.5,0,0,STON/O 185450,6.18,Unknown,S
+29,1,3,"Johnson, Master. Arthur",Male,5.2,0,0,STON/O 30971,4.52,Unknown,S
+255,0,3,"Stewart, Major. Charles",Male,27.9,1,0,C.A. 278265,20.473,Unknown,Q
+686,0,3,"Morris, Mlle. Helen",Female,17.7,0,0,SC/PARIS 95265,25.0073,Unknown,C
+459,0,1,"Baker, Miss. Anna",Female,5.3,0,0,C.A. 57078,76.1496,B49,S
+384,1,3,"Johnson, Col. Samuel",Male,23.2,0,0,PC 336359,6.2962,Unknown,C
+314,1,3,"Anderson, Major. James",Male,11.8,0,3,PC 196719,12.6733,Unknown,S
+85,0,1,"Taylor, Dr. Walter",Male,37.3,0,0,SC/PARIS 331010,63.886,Unknown,S
+137,0,3,"Young, Lady. Anna",Female,27.7,0,0,C.A. 211563,1.25,Unknown,S
+112,0,2,"Phillips, Major. Edward",Male,7.7,2,1,A/5 228526,3.0191,Unknown,C
+195,0,3,"Turner, Rev. Robert",Male,23.2,0,2,335240,2.9185,Unknown,S
+179,0,3,"Scott, Mr. Albert",Male,28.2,0,0,C.A. 43784,28.8792,Unknown,S
+813,0,1,"Hall, Dr. Alfred",Male,18.4,0,0,STON/O 199043,71.3408,C147,S
+497,1,3,"Scott, Rev. Albert",Male,2.5,1,0,388876,16.1496,Unknown,S
+130,0,2,"Green, Dr. Henry",Male,44.3,1,0,193589,2.3413,Unknown,S
+338,0,3,"Phillips, Col. Robert",Male,51.2,0,1,PC 395498,8.4333,Unknown,S
+125,1,3,"Parker, Major. Albert",Male,23.2,2,3,STON/O 57804,39.5543,Unknown,S
+877,0,3,"Anderson, Major. Thomas",Male,23.2,0,0,SC/PARIS 101094,22.9505,Unknown,S
+227,0,3,"Adams, Master. Thomas",Male,5.3,1,0,PC 357896,20.5241,Unknown,S
+269,0,3,"Rogers, Dr. Henry",Male,17.0,1,2,C.A. 245449,4.5012,Unknown,C
+104,0,3,"Hall, Mr. Charles",Male,9.6,1,0,SC/PARIS 141075,2.9,Unknown,S
+782,1,3,"Moore, Mrs. Florence",Female,23.2,1,0,SC/PARIS 322613,28.3099,Unknown,S
+766,0,3,"Moore, Rev. Edward",Male,40.0,0,0,353089,14.4898,Unknown,S
+228,1,3,"Campbell, Lady. Anna",Female,44.9,2,0,C.A. 80393,2.4674,Unknown,S
+811,1,1,"King, Dr. Albert",Male,38.8,0,2,164630,26.17,F17,S
+302,1,3,"Turner, Col. Herbert",Male,4.5,1,0,349491,21.6584,Unknown,S
+276,1,3,"Evans, Mrs. Margaret",Female,23.2,0,0,A/5 371760,13.6698,Unknown,S
+127,0,1,"Turner, Mme. Ida",Female,45.3,0,0,STON/O 259277,65.1356,B138,C
+406,1,3,"Wright, Mrs. Edith",Female,32.7,0,0,A/5 391987,15.24,Unknown,S
+820,0,2,"Nelson, Major. Walter",Male,29.6,0,0,SC/PARIS 381955,6.8835,Unknown,C
+37,1,3,"Hall, Master. Herbert",Male,3.8,0,0,PC 361446,10.6574,Unknown,S
+140,1,3,"Edwards, Mrs. Helen",Female,17.1,0,1,SC/PARIS 378927,27.6688,Unknown,S
+304,1,1,"Smith, Mrs. Helen",Female,28.6,0,0,SC/PARIS 293549,56.9448,E57,S
+268,1,3,"Parker, Miss. Emily",Female,26.3,0,0,PC 365708,8.1172,Unknown,S
+534,0,2,"Allen, Rev. Alfred",Male,15.5,0,0,SC/PARIS 302409,36.5452,Unknown,S
+546,0,3,"Campbell, Dr. Henry",Male,45.2,0,0,STON/O 237311,9.0593,Unknown,S
+213,0,2,"Brown, Dr. Arthur",Male,33.0,1,0,C.A. 244501,10.76,Unknown,S
+469,1,3,"Young, Master. Walter",Male,0.5,0,0,155738,48.5758,Unknown,S
+199,1,1,"Allen, Dr. Albert",Male,27.6,1,0,A/5 386705,78.38742500000001,E100,C
+528,0,3,"Campbell, Rev. Alfred",Male,0.4,4,0,260191,23.072,Unknown,S
+787,1,1,"Taylor, Master. John",Male,23.2,3,0,A/5 246934,5.52,C12,S
+242,0,3,"Edwards, Master. Walter",Male,0.7,1,0,135880,9.0372,Unknown,S
+343,0,3,"Carter, Mrs. Margaret",Female,33.4,0,0,A/5 209653,11.4067,Unknown,C
+550,1,1,"Campbell, Mr. Samuel",Male,28.5,0,0,C.A. 331229,2.036,F86,S
+387,0,1,"Green, Dr. John",Male,22.6,0,0,C.A. 199554,14.5949,D26,S
+847,0,3,"Allen, Mrs. Anna",Female,19.1,1,0,SC/PARIS 352687,19.1425,Unknown,S
+207,1,1,"Adams, Dr. Charles",Male,15.2,0,0,SC/PARIS 81224,2.1967,B83,S
+296,1,3,"Collins, Dr. Fred",Male,22.6,1,0,PC 158514,42.7676,Unknown,S
+873,1,3,"Rogers, Rev. Walter",Male,33.9,1,0,A/5 392658,13.5924,Unknown,S
+74,0,2,"Turner, Rev. Robert",Male,38.4,0,0,C.A. 93346,12.3526,Unknown,S
+682,0,2,"Smith, Mr. Herbert",Male,39.9,0,1,A/5 148958,24.1796,Unknown,S
+105,0,3,"Young, Major. Arthur",Male,23.2,0,0,C.A. 78906,7.0157,Unknown,S
+881,1,3,"Johnson, Rev. Herbert",Male,18.8,1,3,321599,26.8698,Unknown,S
+17,1,1,"Smith, Dr. Fred",Male,23.2,0,0,PC 31369,37.9659,E21,Q
+440,1,2,"Collins, Rev. Henry",Male,6.3,0,1,C.A. 155849,6.7293,Unknown,Q
+92,0,3,"Mitchell, Rev. Frank",Male,21.2,0,0,C.A. 66197,21.646,Unknown,S
+89,0,1,"Wilson, Miss. Florence",Female,22.7,0,1,C.A. 362429,78.38742500000001,C9,S
+451,1,3,"King, Dr. Edward",Male,14.7,0,0,SC/PARIS 322343,44.6195,Unknown,S
+103,0,3,"Baker, Dr. Robert",Male,20.5,0,3,PC 315246,9.5564,Unknown,S
+239,1,3,"Clark, Lady. Margaret",Female,10.7,0,1,PC 220092,1.7254,Unknown,S
+247,1,1,"King, Mme. Elizabeth",Female,29.9,2,0,C.A. 81313,45.5825,E96,S
+653,1,1,"Edwards, Rev. Arthur",Male,29.6,0,0,STON/O 4214,50.2097,C88,S
+158,1,1,"Clark, Mr. Robert",Male,25.3,1,0,C.A. 163673,78.38742500000001,Unknown,S
+480,1,1,"Green, Mme. Elizabeth",Female,40.1,0,0,PC 21907,21.16,Unknown,S
+774,1,3,"Green, Major. Herbert",Male,23.2,0,0,STON/O 158375,4.6205,Unknown,S
+754,1,1,"Adams, Master. Charles",Male,1.9,0,0,284867,78.38742500000001,Unknown,S
+19,1,1,"Rogers, Master. Robert",Male,5.4,0,0,164429,78.38742500000001,F96,S
+646,1,3,"Green, Master. Herbert",Male,3.1,1,3,A/5 157916,0.7052,Unknown,S
+122,1,1,"Allen, Mme. Margaret",Female,23.2,0,2,SC/PARIS 192814,49.6105,C43,S
+645,0,3,"Rogers, Rev. Arthur",Male,17.7,2,0,PC 353368,60.7354,Unknown,S
+275,1,3,"Wilson, Mlle. Nellie",Female,26.5,0,0,A/5 275697,5.2222,Unknown,S
+434,1,3,"Smith, Dr. Frank",Male,0.8,0,0,PC 385867,8.4312,Unknown,S
+312,0,2,"Moore, Rev. Albert",Male,22.0,0,1,SC/PARIS 336076,24.5576,Unknown,S
+695,1,3,"Baker, Mme. Mary",Female,29.1,0,0,STON/O 70488,15.7579,Unknown,S
+889,0,1,"Hall, Dr. Edward",Male,23.2,2,1,SC/PARIS 141242,78.38742500000001,Unknown,S
+547,0,3,"Phillips, Col. Charles",Male,22.7,0,0,PC 292158,3.2313,Unknown,C
+182,0,2,"Smith, Mr. William",Male,23.2,0,0,320228,22.0652,Unknown,S
+185,0,1,"Carter, Master. Albert",Male,8.3,0,2,SC/PARIS 190060,5.2214,E140,Q
+407,1,1,"Smith, Rev. Walter",Male,32.9,1,0,STON/O 258750,76.3731,Unknown,S
+521,0,3,"Turner, Mlle. Mary",Female,29.2,0,0,STON/O 56880,12.6152,Unknown,S
+381,1,1,"Taylor, Lady. Edith",Female,18.8,0,0,230044,5.4236,Unknown,S
+411,0,3,"Moore, Master. William",Male,2.5,0,0,PC 18338,3.38,Unknown,S
+635,0,3,"Green, Miss. Rose",Female,31.7,1,0,SC/PARIS 60334,6.7096,Unknown,S
+370,0,3,"Wright, Mrs. Kate",Female,1.8,0,0,PC 145169,7.4235,Unknown,C
+744,1,1,"King, Master. Henry",Male,3.9,1,0,A/5 252544,69.6789,Unknown,S
+762,0,3,"Green, Master. Thomas",Male,10.0,0,1,SC/PARIS 267028,30.7436,Unknown,Q
+690,0,3,"Parker, Major. Charles",Male,27.8,0,0,C.A. 272030,15.4076,Unknown,S
+79,1,1,"Green, Mlle. Kate",Female,50.9,1,0,C.A. 363695,7.6383,F149,S
+574,0,3,"Young, Major. Samuel",Male,23.2,0,0,A/5 391450,55.6129,Unknown,S
+638,0,1,"Campbell, Mr. James",Male,23.2,0,0,202372,36.808,Unknown,S
+608,0,2,"Wright, Dr. Henry",Male,33.1,0,0,275856,0.8011,Unknown,Q
+857,1,1,"Evans, Lady. Mary",Female,15.3,0,0,PC 262153,74.0337,Unknown,S
+846,0,3,"Wright, Major. Henry",Male,23.2,0,1,A/5 50953,27.6541,Unknown,S
+417,1,1,"Green, Master. Walter",Male,7.9,1,0,C.A. 307439,78.38742500000001,E96,S
+803,1,1,"Young, Miss. Annie",Female,23.2,0,0,395059,78.38742500000001,D120,Q
+562,1,2,"Baker, Rev. Arthur",Male,26.6,1,2,STON/O 192775,9.2481,Unknown,C
+68,0,3,"Baker, Mr. Walter",Male,9.4,1,0,PC 341862,11.28,Unknown,C
+537,1,2,"Smith, Col. Alfred",Male,23.2,0,0,A/5 210154,5.64,Unknown,S
+78,0,2,"Smith, Col. Walter",Male,30.0,0,0,214085,7.77,Unknown,S
+106,1,1,"King, Mlle. Nellie",Female,48.6,2,0,C.A. 169704,26.5214,Unknown,S
+84,0,2,"Taylor, Mlle. Alice",Female,35.8,0,0,C.A. 231932,11.0829,Unknown,S
+714,1,1,"Wright, Dr. Thomas",Male,46.0,0,1,SC/PARIS 119408,22.664,F124,S
+639,0,3,"Nelson, Mlle. Florence",Female,28.0,0,0,SC/PARIS 346783,16.5446,Unknown,S
+560,1,3,"Nelson, Mme. Nellie",Female,23.2,3,0,SC/PARIS 93818,1.9192,Unknown,S
+796,0,1,"Scott, Lady. Ellen",Female,40.0,1,3,A/5 250391,14.22,Unknown,S
+858,0,3,"Phillips, Rev. William",Male,19.4,0,0,SC/PARIS 56611,14.93,Unknown,C
+806,0,3,"Phillips, Col. Frank",Male,19.6,0,0,PC 258676,22.545,Unknown,S
+750,1,3,"Evans, Major. Henry",Male,15.5,1,0,SC/PARIS 357634,6.1498,Unknown,S
+491,1,3,"Anderson, Lady. Nellie",Female,11.0,0,0,SC/PARIS 45630,78.38742500000001,Unknown,C
+882,0,2,"Johnson, Major. Edward",Male,16.3,0,0,SC/PARIS 34297,15.6999,Unknown,S
+606,1,3,"Anderson, Master. Samuel",Male,5.6,1,0,A/5 288389,3.1268,Unknown,S
+364,1,3,"Brown, Mr. Walter",Male,35.0,0,0,317304,23.2759,Unknown,S
+70,1,3,"Hall, Major. Harry",Male,41.8,0,2,377626,5.865,Unknown,S
+549,0,3,"Parker, Col. Alfred",Male,9.5,0,0,SC/PARIS 298708,12.5292,Unknown,S
+161,1,2,"Baker, Major. Frank",Male,21.8,3,0,C.A. 358110,4.0207,Unknown,C
+12,0,3,"Clark, Mme. Edith",Female,41.6,0,0,A/5 397247,7.6421,Unknown,S
+145,0,1,"Taylor, Mme. Sarah",Female,23.2,0,0,C.A. 118568,5.86,Unknown,S
+518,0,3,"Stewart, Rev. Robert",Male,40.0,0,0,C.A. 200877,47.7336,Unknown,S
+428,1,3,"Allen, Miss. Ida",Female,15.8,0,0,C.A. 175393,0.9503,Unknown,Q
+640,1,1,"Wilson, Miss. Florence",Female,23.2,0,0,STON/O 383815,38.578,Unknown,Q
+177,0,3,"Nelson, Rev. Thomas",Male,23.2,0,2,A/5 150455,16.0243,Unknown,S
+441,1,3,"Campbell, Master. Thomas",Male,9.7,0,0,A/5 353129,11.1477,Unknown,C
+522,0,2,"Carter, Major. Robert",Male,27.7,0,0,SC/PARIS 192702,26.5127,Unknown,S
+799,0,3,"Clark, Mr. Samuel",Male,12.7,0,0,306092,2.1371,Unknown,S
+862,0,3,"Wright, Col. Herbert",Male,23.2,0,0,C.A. 47760,7.7597,Unknown,S
+689,0,3,"Johnson, Mrs. Clara",Female,40.5,0,0,SC/PARIS 253461,12.4286,Unknown,S
+232,0,1,"Clark, Master. Thomas",Male,3.4,1,0,STON/O 370571,0.4404,F126,C
+211,0,2,"Turner, Mr. James",Male,21.0,0,3,SC/PARIS 219411,33.637,Unknown,S
+641,0,3,"Taylor, Miss. Sarah",Female,32.0,1,1,SC/PARIS 133703,8.363,Unknown,S
+144,1,1,"Scott, Mrs. Annie",Female,23.2,0,2,27972,35.1419,Unknown,S
+520,0,3,"Smith, Master. Walter",Male,3.1,0,0,SC/PARIS 62776,7.9934,Unknown,S
+299,1,1,"Phillips, Master. Herbert",Male,23.2,0,0,C.A. 372388,49.3135,G75,S
+429,0,3,"Smith, Mrs. Annie",Female,21.3,0,0,SC/PARIS 84065,3.5694,Unknown,S
+613,1,1,"Campbell, Rev. William",Male,23.2,0,1,A/5 174998,78.38742500000001,E55,S
+850,0,3,"Anderson, Dr. Alfred",Male,23.2,0,0,C.A. 148325,7.3064,Unknown,S
+9,1,1,"Wilson, Miss. Nellie",Female,20.2,0,1,293002,78.38742500000001,C15,C
+157,0,1,"Wright, Mr. Arthur",Male,16.0,0,0,C.A. 362554,78.38742500000001,Unknown,S
+540,0,3,"King, Col. Edward",Male,23.2,1,0,348825,6.8427,Unknown,S
+507,1,2,"Hall, Major. Walter",Male,41.2,2,0,199452,14.4499,Unknown,S
+437,0,3,"Hall, Col. George",Male,40.2,0,1,331464,7.15,Unknown,S
+267,0,1,"Edwards, Master. James",Male,7.5,1,1,PC 252340,78.38742500000001,C78,S
+462,0,1,"Collins, Dr. Herbert",Male,32.8,0,0,304329,78.38742500000001,G33,S
+577,1,2,"Johnson, Mrs. Ellen",Female,20.0,0,0,SC/PARIS 82260,4.9599,Unknown,S
+339,1,1,"Scott, Rev. Samuel",Male,10.5,0,1,45170,78.38742500000001,E73,C
+256,0,3,"Evans, Mr. Edward",Male,14.2,1,0,286446,13.792,Unknown,C
+738,1,1,"King, Major. Henry",Male,37.7,0,0,A/5 363917,78.38742500000001,C35,S
+779,0,1,"Adams, Rev. Arthur",Male,38.5,3,1,97074,77.0808,Unknown,S
+666,0,3,"Campbell, Master. Walter",Male,5.4,0,0,A/5 164251,3.7373,Unknown,S
+561,0,3,"Parker, Major. Harry",Male,0.4,0,0,336296,18.7325,Unknown,S
+209,0,3,"Young, Major. Charles",Male,43.9,0,0,PC 311278,20.7911,Unknown,S
+288,0,1,"Scott, Dr. Herbert",Male,23.2,0,0,A/5 325332,55.9048,B19,S
+2,0,3,"Scott, Col. James",Male,23.2,3,1,SC/PARIS 316631,3.27,Unknown,S
+342,0,3,"Stewart, Mlle. Alice",Female,6.3,3,0,91581,51.8646,Unknown,C
+270,0,3,"Hall, Mme. Clara",Female,22.8,1,0,A/5 379752,45.0966,Unknown,C
+266,0,3,"Collins, Major. Herbert",Male,39.4,0,0,SC/PARIS 317104,9.8473,Unknown,S
+747,0,3,"Brown, Major. Henry",Male,36.0,0,3,SC/PARIS 354712,4.2189,Unknown,S
+753,0,1,"Brown, Dr. Henry",Male,20.1,0,0,A/5 58338,43.9529,A38,Q
+96,1,2,"Scott, Col. Frank",Male,14.0,1,0,C.A. 183431,10.2449,Unknown,S
+887,0,3,"Young, Dr. Robert",Male,25.8,0,0,STON/O 137738,7.7053,Unknown,C
+43,1,2,"Smith, Dr. Frank",Male,20.3,0,0,386381,13.9888,Unknown,C
+815,1,2,"Scott, Mme. Sarah",Female,23.2,0,0,SC/PARIS 113239,21.3095,Unknown,S
+629,1,2,"Clark, Mlle. Bertha",Female,23.2,0,0,A/5 93839,7.4123,Unknown,S
+46,0,1,"King, Rev. James",Male,23.2,0,0,STON/O 15470,78.38742500000001,C46,S
+162,1,3,"Allen, Major. Fred",Male,29.5,1,0,159765,76.8382,Unknown,Q
+728,1,2,"Campbell, Mrs. Florence",Female,23.4,1,0,250567,58.8071,Unknown,S
+630,0,3,"Stewart, Mme. Kate",Female,23.2,0,0,A/5 319730,19.3504,Unknown,S
+289,1,1,"Wright, Master. Walter",Male,9.8,0,1,C.A. 167030,78.38742500000001,A2,S
+590,0,1,"Parker, Col. Albert",Male,15.8,0,1,31566,78.38742500000001,Unknown,S
+821,0,3,"Green, Rev. Henry",Male,13.5,0,0,STON/O 229269,44.64,Unknown,C
+872,1,3,"Morris, Mlle. Margaret",Female,35.2,0,2,C.A. 398071,30.2672,Unknown,S
+576,1,3,"Turner, Master. George",Male,0.6,1,0,SC/PARIS 63730,5.3008,Unknown,S
+316,1,3,"Baker, Miss. Nellie",Female,23.2,1,0,SC/PARIS 29107,10.0602,Unknown,S
+231,1,1,"Allen, Col. Harry",Male,23.2,1,0,338279,68.0292,Unknown,C
+699,0,1,"Turner, Major. Harry",Male,26.7,1,0,A/5 337729,11.729,G30,S
+757,1,3,"Green, Mlle. Nellie",Female,12.9,0,1,PC 137318,3.2174,Unknown,S
+712,0,2,"Brown, Mr. John",Male,36.2,0,0,A/5 261938,15.3057,F1,Q
+77,0,3,"Wilson, Mme. Kate",Female,31.5,0,0,STON/O 147621,1.5531,Unknown,S
+634,1,3,"Evans, Mme. Edith",Female,25.0,0,2,STON/O 322458,4.4164,Unknown,S
+891,1,1,"Johnson, Col. George",Male,36.4,0,2,PC 190602,78.38742500000001,C114,S
+248,1,3,"Evans, Dr. Herbert",Male,30.7,0,0,PC 357695,11.4144,Unknown,S
+477,0,3,"Brown, Rev. Herbert",Male,0.4,0,0,PC 273947,0.5488,Unknown,S
+671,1,1,"Clark, Miss. Kate",Female,38.8,0,0,STON/O 206561,70.5559,F85,S
+86,1,1,"Young, Col. Charles",Male,23.2,4,0,C.A. 318885,78.38742500000001,E58,S
+470,0,1,"King, Mr. Herbert",Male,20.4,0,0,295589,78.38742500000001,Unknown,S
+226,1,1,"Mitchell, Mrs. Sarah",Female,23.2,0,0,SC/PARIS 120298,78.38742500000001,Unknown,C
+332,0,3,"Brown, Mme. Florence",Female,44.1,0,2,341216,20.9442,Unknown,C
+234,0,2,"Morris, Dr. Herbert",Male,31.5,1,1,STON/O 23054,17.981,Unknown,S
+589,1,3,"Turner, Master. William",Male,3.0,0,0,C.A. 335976,10.7748,Unknown,S
+476,0,3,"Johnson, Col. Fred",Male,45.2,1,0,STON/O 258189,6.5279,Unknown,Q
+819,1,3,"Turner, Mr. Frank",Male,33.1,0,0,C.A. 112648,16.907,Unknown,C
+800,0,3,"Wright, Major. Walter",Male,23.9,0,1,C.A. 269128,17.102,Unknown,S
+600,1,3,"Hall, Miss. Ellen",Female,23.2,0,0,SC/PARIS 114999,2.9795,Unknown,S
+688,0,1,"Baker, Lady. Mary",Female,37.8,0,0,STON/O 216397,17.5174,Unknown,S
+183,1,2,"Young, Miss. Sarah",Female,0.4,0,0,SC/PARIS 240659,9.567,G128,S
+618,1,3,"Stewart, Dr. Fred",Male,23.2,0,0,SC/PARIS 241116,5.8387,Unknown,Q
+333,1,2,"Turner, Dr. John",Male,24.7,1,0,C.A. 344663,1.1917,A1,Q
+439,0,3,"Adams, Mr. Robert",Male,27.8,0,0,A/5 261958,2.0858,Unknown,S
+50,0,3,"Young, Col. Arthur",Male,21.4,1,0,STON/O 291671,30.9454,Unknown,S
+6,0,3,"Mitchell, Major. Arthur",Male,20.2,0,0,37466,10.0573,Unknown,S
+530,1,1,"Mitchell, Miss. Rose",Female,23.2,1,0,1150,36.5877,Unknown,C
+235,1,3,"Turner, Dr. Albert",Male,4.2,1,0,SC/PARIS 143151,12.155,Unknown,S
+830,1,3,"Morris, Rev. Edward",Male,12.2,0,0,193801,8.5526,Unknown,S
+498,0,3,"Anderson, Rev. Walter",Male,17.2,0,0,C.A. 234495,12.7601,Unknown,C
+826,0,1,"Wright, Mrs. Clara",Female,22.5,0,0,PC 59684,78.38742500000001,E31,S
+107,0,1,"Stewart, Master. Samuel",Male,8.8,0,0,C.A. 370742,22.072,Unknown,S
+444,1,3,"Stewart, Mrs. Elizabeth",Female,40.0,0,0,340318,3.1868,Unknown,S
+489,1,3,"Evans, Mme. Margaret",Female,16.1,0,0,A/5 249506,6.1372,Unknown,S
+647,1,2,"Collins, Dr. Albert",Male,23.2,0,0,A/5 154528,11.1846,Unknown,S
+13,0,1,"Turner, Master. George",Male,6.3,1,0,A/5 202728,44.3757,D136,C
+739,0,3,"Scott, Mlle. Ida",Female,32.4,0,0,SC/PARIS 83202,25.83,Unknown,S
+727,0,3,"Wright, Lady. Elizabeth",Female,23.2,1,0,A/5 4329,0.6288,Unknown,S
+191,0,3,"Stewart, Mr. Albert",Male,23.2,0,0,C.A. 210726,13.3958,Unknown,S
+868,0,3,"Young, Mlle. Margaret",Female,36.6,0,0,PC 275250,11.623,Unknown,C
+283,1,2,"Rogers, Col. George",Male,29.5,0,0,SC/PARIS 250299,34.7216,Unknown,Q
+30,1,1,"Rogers, Lady. Kate",Female,64.4,2,2,A/5 98425,38.8321,A61,S
+181,0,3,"Rogers, Rev. John",Male,9.7,0,0,246948,6.7395,Unknown,S
+101,0,2,"Wilson, Major. Edward",Male,36.7,0,0,A/5 118807,26.75,Unknown,S
+198,1,3,"Green, Major. Charles",Male,28.9,0,0,SC/PARIS 73191,43.3085,Unknown,S
+496,0,3,"Baker, Mme. Emily",Female,15.2,1,0,307273,15.4605,Unknown,S
+722,0,1,"Rogers, Dr. William",Male,16.8,2,0,69439,45.6013,F13,S
+648,1,1,"Adams, Mme. Bertha",Female,33.7,1,0,SC/PARIS 31505,64.4184,F136,S
+855,0,2,"Taylor, Mlle. Ida",Female,14.9,0,1,STON/O 50061,5.5243,Unknown,S
+711,0,1,"Nelson, Master. George",Male,6.0,1,0,A/5 232515,78.38742500000001,Unknown,C
+374,0,3,"Mitchell, Rev. William",Male,10.9,0,0,A/5 248298,13.3881,Unknown,S
+679,0,3,"Anderson, Major. Charles",Male,30.7,0,0,SC/PARIS 235440,4.4076,Unknown,S
+814,0,3,"Campbell, Mrs. Kate",Female,9.3,1,0,179016,18.691,Unknown,S
+649,0,3,"Rogers, Lady. Kate",Female,38.3,2,2,SC/PARIS 166931,9.7438,Unknown,S
+798,1,2,"Wright, Miss. Elizabeth",Female,20.7,1,0,89459,18.6775,B87,S
+461,1,3,"Carter, Major. Harry",Male,33.5,0,0,A/5 279063,0.1489,Unknown,C
+414,1,2,"Young, Mrs. Bertha",Female,23.2,4,1,PC 117051,37.27,Unknown,S
+132,0,1,"Edwards, Mr. William",Male,23.2,1,2,PC 36971,52.9189,Unknown,S
+40,0,3,"Brown, Mrs. Mary",Female,35.3,0,2,SC/PARIS 19889,18.3445,Unknown,S
+435,0,1,"Taylor, Master. Alfred",Male,11.2,0,0,C.A. 336712,78.38742500000001,E13,C
+216,0,3,"Wright, Rev. John",Male,31.5,0,0,STON/O 303874,8.8543,Unknown,S
+556,1,1,"Anderson, Mr. Frank",Male,23.8,1,0,394079,69.8434,B102,S
+567,1,3,"Moore, Mlle. Bertha",Female,22.2,1,0,A/5 334915,16.7266,Unknown,C
+763,0,3,"Morris, Mlle. Sarah",Female,31.6,0,1,78114,17.4451,Unknown,S
+475,0,3,"Carter, Master. Charles",Male,6.6,0,0,PC 21940,78.38742500000001,Unknown,C
+457,0,3,"Phillips, Major. Thomas",Male,23.2,0,1,117259,14.0686,Unknown,C
+812,0,3,"Wilson, Mme. Elizabeth",Female,32.5,1,0,222497,27.4335,Unknown,S
+261,1,3,"Phillips, Miss. Sarah",Female,23.2,0,1,A/5 292880,23.42,Unknown,S
+817,1,3,"Scott, Dr. Alfred",Male,37.3,0,0,STON/O 265576,14.85,Unknown,S
+36,0,3,"Rogers, Rev. Herbert",Male,20.9,0,1,STON/O 61517,6.1182,Unknown,S
+310,0,3,"Wright, Mlle. Florence",Female,23.2,0,0,C.A. 311485,9.1612,Unknown,S
+277,1,1,"Adams, Master. William",Male,5.3,0,0,324233,78.38742500000001,Unknown,S
+637,0,3,"Hall, Mr. Harry",Male,38.9,0,0,PC 377635,8.0559,Unknown,C
+655,0,3,"Anderson, Dr. Charles",Male,6.1,0,0,STON/O 243467,9.9181,Unknown,Q
+623,0,3,"Edwards, Major. Herbert",Male,17.3,0,0,275624,11.59,Unknown,S
+394,0,3,"Stewart, Dr. James",Male,35.9,0,0,C.A. 347575,3.4455,Unknown,S
+864,0,3,"Parker, Mlle. Kate",Female,37.3,0,0,SC/PARIS 69832,13.205,Unknown,S
+108,0,1,"Baker, Miss. Edith",Female,45.5,0,0,STON/O 53619,22.8521,Unknown,S
+870,1,3,"Green, Mrs. Helen",Female,0.4,0,0,STON/O 134620,18.3781,Unknown,C
+525,1,1,"Edwards, Mlle. Ellen",Female,35.6,1,0,SC/PARIS 211009,54.4207,Unknown,S
+785,1,1,"Collins, Major. William",Male,13.7,2,1,PC 361734,26.2388,B54,S
+48,0,3,"Morris, Dr. George",Male,35.0,0,0,C.A. 1886,22.5257,Unknown,Q
+204,1,3,"Anderson, Col. Harry",Male,56.4,1,0,C.A. 376879,28.8183,Unknown,C
+875,0,2,"Mitchell, Mme. Kate",Female,25.3,4,1,362912,4.7278,Unknown,S
+632,1,3,"Green, Mr. Alfred",Male,23.2,0,0,SC/PARIS 282998,0.48,Unknown,S
+22,0,1,"Anderson, Col. Henry",Male,21.6,0,0,C.A. 128400,41.0725,Unknown,Q
+131,1,2,"Hall, Dr. John",Male,25.5,0,0,A/5 348481,4.9245,Unknown,Q
+416,1,1,"Hall, Master. William",Male,23.2,0,1,337981,70.1507,D90,S
+742,0,3,"Johnson, Dr. William",Male,21.8,0,0,A/5 224188,10.7614,Unknown,S
+698,0,3,"Mitchell, Master. James",Male,7.1,2,0,C.A. 201889,4.9175,Unknown,S
+287,0,3,"Smith, Mme. Edith",Female,36.4,1,0,C.A. 120610,31.8857,Unknown,S
+124,0,3,"King, Lady. Edith",Female,38.1,0,0,SC/PARIS 65796,35.5321,Unknown,S
+34,1,3,"Moore, Col. James",Male,37.7,0,1,A/5 129075,14.3812,Unknown,S
+517,1,1,"Adams, Col. John",Male,15.7,0,0,PC 317394,78.38742500000001,A111,S
+20,0,3,"Taylor, Dr. Alfred",Male,27.9,1,0,SC/PARIS 291414,13.7069,Unknown,S
+853,1,3,"Anderson, Master. John",Male,7.9,0,0,STON/O 86749,0.5421,Unknown,S
+220,0,1,"Parker, Rev. Charles",Male,20.2,0,2,C.A. 27821,78.38742500000001,B93,S
+482,1,1,"Johnson, Mlle. Ida",Female,13.3,0,0,SC/PARIS 44172,22.3716,Unknown,S
+357,0,3,"Nelson, Master. William",Male,8.4,1,3,STON/O 1766,19.227,Unknown,S
+662,0,2,"Johnson, Major. Henry",Male,0.4,0,0,A/5 3154,7.7348,Unknown,S
+225,0,1,"Campbell, Dr. Herbert",Male,15.4,0,0,STON/O 174664,78.38742500000001,Unknown,S
+760,0,2,"Johnson, Mr. Edward",Male,25.9,0,1,STON/O 194814,24.5672,Unknown,S
+93,1,3,"Hall, Mlle. Sarah",Female,23.2,0,0,SC/PARIS 21898,0.4673,Unknown,S
+152,0,1,"Scott, Mme. Elizabeth",Female,34.9,0,1,C.A. 277265,55.1761,Unknown,S
+318,0,3,"Collins, Major. Robert",Male,18.7,0,0,A/5 116620,0.8869,Unknown,C
+449,1,3,"Taylor, Dr. Thomas",Male,18.6,1,0,STON/O 344394,19.0345,Unknown,S
+804,1,1,"Baker, Mlle. Sarah",Female,33.8,0,0,SC/PARIS 10264,4.2334,Unknown,S
+746,1,1,"Brown, Major. William",Male,25.8,0,0,A/5 156498,78.38742500000001,C139,Q
+523,0,3,"Nelson, Dr. Henry",Male,23.2,0,1,SC/PARIS 291933,10.65,Unknown,S
+280,1,1,"Collins, Rev. Alfred",Male,27.9,0,0,STON/O 213875,34.76,B58,C
+584,0,3,"Wilson, Major. Samuel",Male,40.9,0,0,SC/PARIS 126192,3.6443,Unknown,S
+765,0,3,"King, Dr. Edward",Male,24.0,4,0,PC 306886,4.9466,Unknown,S
+605,0,3,"Green, Mlle. Anna",Female,16.8,0,0,PC 227458,8.1991,Unknown,C
+350,0,3,"Adams, Dr. Thomas",Male,32.9,0,2,PC 193774,40.1035,Unknown,C
+375,1,1,"Clark, Lady. Clara",Female,39.5,1,0,PC 140736,31.524,G15,S
+401,0,3,"Anderson, Major. Henry",Male,13.6,0,1,A/5 46627,31.7906,Unknown,S
+705,0,2,"Taylor, Dr. William",Male,31.3,0,0,PC 381240,5.9453,Unknown,S
+258,0,3,"Scott, Major. John",Male,13.0,0,0,PC 109046,30.7458,Unknown,S
+852,0,3,"Parker, Rev. Frank",Male,23.2,0,2,SC/PARIS 345677,3.7726,Unknown,S
+73,0,1,"Nelson, Rev. John",Male,28.2,0,0,179903,17.9383,D126,S
+196,1,2,"Edwards, Col. Albert",Male,23.2,0,0,PC 319543,32.2244,Unknown,S
+484,0,2,"Nelson, Master. George",Male,4.9,0,0,C.A. 339984,30.9642,Unknown,S
+856,0,3,"Parker, Master. Frank",Male,4.2,1,2,SC/PARIS 112356,21.5557,Unknown,S
+138,0,2,"Campbell, Mlle. Elizabeth",Female,30.3,0,0,STON/O 319923,4.9739,B71,S
+495,0,3,"King, Rev. Thomas",Male,11.6,1,0,STON/O 325804,27.4912,Unknown,S
+773,0,3,"Nelson, Rev. Samuel",Male,15.5,0,0,SC/PARIS 160338,10.5818,Unknown,S
+551,0,1,"Nelson, Rev. Albert",Male,32.0,0,0,A/5 216881,61.8947,G51,C
+463,0,3,"Mitchell, Lady. Edith",Female,24.9,0,0,C.A. 320288,2.5944,Unknown,S
+202,0,2,"Brown, Major. Albert",Male,22.0,0,0,PC 374192,55.279,Unknown,S
+313,0,2,"Taylor, Col. Samuel",Male,16.0,1,2,PC 354154,10.3873,Unknown,C
+291,0,3,"Smith, Mr. Robert",Male,34.3,0,0,SC/PARIS 171094,16.7519,Unknown,S
+190,0,1,"Allen, Mr. Henry",Male,23.4,0,1,C.A. 133809,78.38742500000001,F49,S
+764,1,1,"Campbell, Rev. Harry",Male,47.4,0,0,PC 356471,67.0517,C7,S
+113,0,3,"Campbell, Miss. Ida",Female,19.3,0,0,A/5 154809,13.75,Unknown,S
+184,0,3,"Turner, Mr. Herbert",Male,53.8,1,1,STON/O 226044,17.3481,Unknown,Q
+153,0,3,"Mitchell, Dr. Edward",Male,23.5,0,0,PC 134965,4.2927,Unknown,C
+825,1,3,"Johnson, Mr. Thomas",Male,14.0,0,0,STON/O 34335,21.5674,Unknown,C
+326,0,2,"Campbell, Master. Edward",Male,23.2,0,0,C.A. 257617,4.44,F69,C
+704,1,2,"Allen, Lady. Emily",Female,23.2,2,2,SC/PARIS 6545,3.8421,Unknown,C
+45,0,2,"Collins, Rev. Albert",Male,53.7,2,0,102255,64.9818,Unknown,C
+445,1,3,"Morris, Rev. Fred",Male,16.1,0,0,A/5 196361,12.4478,Unknown,Q
+788,0,3,"Smith, Major. Arthur",Male,54.2,0,2,PC 309073,2.9079,Unknown,S
+7,0,3,"Brown, Mme. Ellen",Female,23.2,0,0,STON/O 238717,0.6341,Unknown,S
+251,0,1,"Morris, Mrs. Kate",Female,23.2,0,0,PC 270089,78.38742500000001,E15,S
+824,0,2,"Hall, Master. Henry",Male,6.6,0,0,289728,14.0686,Unknown,S
+76,0,3,"Clark, Dr. Walter",Male,23.2,0,0,C.A. 177368,9.0785,Unknown,S
+513,0,1,"Green, Miss. Margaret",Female,28.3,0,0,PC 116009,7.5566,Unknown,S
+392,1,3,"Johnson, Mr. Edward",Male,62.8,0,0,PC 29576,15.3409,Unknown,S
+69,0,1,"Clark, Mr. John",Male,23.2,1,0,PC 67176,12.3155,A145,S
+433,0,1,"Parker, Dr. Arthur",Male,36.5,1,0,71144,73.01,D92,S
+168,0,3,"Allen, Mr. Fred",Male,39.2,0,2,STON/O 380444,4.0906,Unknown,S
+731,1,1,"Mitchell, Mr. Alfred",Male,38.4,0,1,SC/PARIS 115963,1.1231,F54,S
+555,1,1,"Morris, Rev. Samuel",Male,45.1,0,0,308714,78.38742500000001,D106,C
+367,1,2,"Smith, Mr. Charles",Male,41.8,1,0,PC 104878,22.4184,Unknown,S
+346,0,2,"Campbell, Rev. James",Male,23.2,2,3,A/5 129177,0.919,D30,C
+585,0,3,"Nelson, Major. James",Male,0.4,1,2,C.A. 290127,9.3045,Unknown,S
+536,1,1,"Hall, Mr. Thomas",Male,53.7,0,0,368618,3.9192,C106,Q
+399,1,3,"Morris, Col. Alfred",Male,58.1,0,0,PC 64062,4.0012,Unknown,S
+186,1,1,"Smith, Col. Alfred",Male,32.7,0,0,C.A. 196717,30.8401,A92,C
+349,1,1,"Allen, Mr. George",Male,23.7,2,0,STON/O 374462,48.2,Unknown,S
+212,0,3,"Nelson, Major. Thomas",Male,23.2,0,0,PC 360132,29.8231,Unknown,S
+580,1,3,"Moore, Major. Harry",Male,23.2,0,0,PC 132437,0.5444,Unknown,S
+503,0,3,"Adams, Mme. Edith",Female,32.3,0,2,87949,4.805,Unknown,S
+538,0,3,"Rogers, Lady. Margaret",Female,22.9,0,0,SC/PARIS 142073,11.0844,Unknown,S
+176,1,2,"Adams, Mlle. Sarah",Female,12.5,0,0,SC/PARIS 73560,36.4174,Unknown,Q

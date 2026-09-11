@@ -1,0 +1,927 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
+21,1,1,"Brown, Mrs. Ellen",FEMALE,16.1,0,0,A/5 174239,95.0755,B72,S
+516,1,3,"Phillips, Col. Alfred",m,3.9,0,0,PC 250492,11.1378,,S
+427,1,1,"Stewart, Mrs. Rose",FEMALE,,4,0,A/5 80051,191.2331,B88,Southampton
+14,1,1,"Phillips, Mr. Herbert",Male,3.2,0,2,STON/O 337048,138.6745,C112,s
+147,0,3,"Mitchell, Mr. Herbert",M,44.4,1,0,A/5 95589,4.3798,,Queenstown
+64,1,3,"Clark, Mlle. Ellen",FEMALE,47.8,0,0,STON/O 351682,6.5688,,Queenstown
+692,1,3,"Johnson, Col. Arthur",m,29.4,1,0,C.A. 239044,24.6399,,S
+481,0,2,"Wright, Mr. Samuel",m,22.1,1,2,SC/PARIS 197586,1.7576,,S
+233,1,3,"Nelson, Rev. Thomas",m,22.4,0,0,STON/O 64897,4.9966,,Cherbourg
+110,1,1,"Allen, Rev. Thomas",MALE,44.1,0,0,STON/O 354557,73.4806,,S
+795,0,3,"Taylor, Mlle. Annie",FEMALE,29.7,0,1,STON/O 361210,25.5865,,c
+672,0,2,"Smith, Dr. Harry",M,28.6,1,0,C.A. 90549,,,Southampton
+54,0,1,"Young, Major. Edward",m,27.1,1,0,A/5 129368,144.9156,,S
+595,0,2,"Morris, Rev. Harry",MALE,42.1,0,0,STON/O 217186,4.3802,,Southampton
+871,0,3,"Smith, Col. James",male,,2,0,PC 207022,19.2028,,S
+160,0,3,"Taylor, Master. Charles",male,7.9 yrs,0,0,PC 399571,18.0188,,s
+284,1,1,"Carter, Col. Walter",male,35.6,0,0,A/5 109610,5.1551,G102,Southampton
+61,1,3,"Scott, Mr. Henry",MALE,13.1,0,0,A/5 109440,12.0045,,Southampton
+563,0,3,"Smith, Mr. Arthur",MALE,22.4,0,0,STON/O 151346,9.1224,,S
+389,0,2,"Wilson, Dr. Frank",MALE,64.3,0,0,STON/O 312443,35.2699,,C
+257,0,3,"Collins, Dr. Herbert",male,30.3,1,0,STON/O 99818,26.6625,,C
+99,1,3,"Johnson, Mlle. Ida",female,11.1,4,1,232756,1.8241,,Queenstown
+500,1,1,"Parker, Rev. Henry",m,28.5,0,0,A/5 266907,16.1233,,S
+736,0,2,"Clark, Mme. Elizabeth",female,27.3,0,0,C.A. 116690,2.1331,E125,S
+378,0,3,"Baker, Master. Arthur",m,9.5,1,0,PC 11448,15.2912,,q
+410,0,2,"Edwards, Lady. Anna",f,7.7,0,1,C.A. 72119,6.3476,,s
+492,0,3,"Parker, Major. Henry",Male,14.2,0,0,269725,6.1243,,Southampton
+664,1,1,"Allen, Miss. Sarah",F,9.3,0,0,STON/O 232271,113.019,,s
+464,0,3,"Allen, Mlle. Bertha",f,21.2,4,0,PC 217397,47.9142,,S
+845,0,3,"Phillips, Col. Albert",MALE,15.8,0,0,PC 170473,40.4054,,Southampton
+172,0,1,"Anderson, Master. Henry",m,,0,0,SC/PARIS 283995,231.704,,S
+707,1,3,"Anderson, Col. James",male,34.3,4,0,SC/PARIS 97871,4.2212,,s
+129,1,3,"Taylor, Major. Robert",M,17.3,0,0,A/5 362905,28.3441,,Queenstown
+740,0,3,"Nelson, Lady. Florence",f,,1,0,C.A. 114478,5.5542,,s
+885,0,2,"Morris, Miss. Ida",FEMALE,33.2,0,0,343098,25.486,,Southampton
+822,0,1,"Turner, Mrs. Annie",FEMALE,31.5,0,0,85192,$69.57,E61,
+352,1,1,"Clark, Mr. John",Male,,2,0,PC 19540,,F108,C
+337,0,3,"Carter, Col. James",Male,200.0,0,2,112702,10.3339,,Southampton
+366,1,3,"Stewart, Dr. William",male,29.5,0,0,A/5 243243,28.1009,,S
+26,0,3,"Nelson, Major. John",MALE,27.0,0,0,PC 214078,16.1292,,S
+854,0,3,"Morris, Mr. Robert",MALE,27.4,0,0,295049,0.0033,,Southampton
+25,0,3,"Hall, Miss. Helen",female,15.2,0,2,C.A. 289528,12.7752,,S
+759,0,2,"Nelson, Major. Frank",Male,,0,0,350362,29.642,,c
+254,1,3,"Morris, Mme. Helen",f,45.1,1,0,C.A. 43074,0.9238,,Southampton
+741,0,1,"Hall, Mlle. Kate",f,1.8,0,0,PC 172597,250.4425,B39,S
+676,1,1,"Phillips, Master. Edward",M,,0,0,SC/PARIS 256134,12.0285,E119,s
+205,1,3,"Evans, Dr. Alfred",male,21.7,0,0,STON/O 337770,5.8198,,Q
+583,0,3,"Young, Dr. Charles",m,11.3,0,0,A/5 335509,3.6656,,Cherbourg
+27,0,3,"Stewart, Master. Thomas",M,9.5,0,1,A/5 205693,14.6838,,Southampton
+47,1,3,"Taylor, Mr. Walter",m,16.3,0,0,C.A. 318828,13.5822,,Cherbourg
+665,0,1,"Hall, Miss. Alice",F,9.7,0,2,SC/PARIS 54674,6.337,C141,s
+786,0,3,"Campbell, Mlle. Margaret",FEMALE,21.1,0,1,C.A. 398061,11.3144,,S
+271,0,3,"King, Master. Fred",male,7.1,0,0,77505,0.171,,S
+454,1,2,"Green, Dr. James",male,45.1,1,2,C.A. 166707,4.1093,D5,Southampton
+615,1,2,"Morris, Col. Samuel",m,52.2 yrs,0,0,A/5 149904,19.2046,,Q
+400,1,3,"Moore, Miss. Florence",FEMALE,9.5,1,1,A/5 359154,9.0937,,Southampton
+579,0,2,"Nelson, Major. Charles",M,0.4,0,0,STON/O 293736,25.368,,S
+286,0,2,"Johnson, Mme. Rose",f,,0,0,STON/O 318282,8.9858,,S
+180,0,3,"Allen, Mrs. Ellen",Female,,1,1,STON/O 77571,7.8359,,c
+710,0,2,"Wilson, Rev. Walter",MALE,18.4,4,1,SC/PARIS 206853,6.6112,,S
+610,0,3,"Moore, Rev. Albert",M,26.2,0,0,STON/O 89738,31.1934,,S
+515,0,3,"Carter, Col. Harry",Male,35.9,1,1,A/5 9683,11.9872,,C
+485,0,3,"Green, Mr. Charles",M,24.5,0,0,A/5 94319,4.3396,,C
+720,1,1,"Allen, Mr. Fred",MALE,,0,2,PC 343805,34.3207,,Q
+506,0,2,"Wright, Mme. Rose",f,21.1,1,0,A/5 341013,0.0006,,S
+488,0,1,"Carter, Major. James",m,,0,0,SC/PARIS 56645,42.1529,F78,Southampton
+169,0,3,"Brown, Rev. Charles",MALE,23.4,0,0,STON/O 344961,2.5487,,Southampton
+767,1,3,"Moore, Dr. Alfred",M,27.1,1,0,A/5 350577,3.1863,,s
+849,1,3,"Wilson, Rev. Frank",M,25.7,0,0,PC 48001,,,Southampton
+526,0,3,"Wright, Master. John",MALE,,2,0,C.A. 315701,285.03,,Q
+839,0,3,"King, Dr. James",male,,0,0,PC 11870,39.2936,,q
+221,0,2,"Wright, Mrs. Sarah",Female,12.4,0,0,SC/PARIS 357724,21.594,,Cherbourg
+756,1,3,"Scott, Mme. Rose",f,10.8,0,0,C.A. 312090,2.1562,,Southampton
+217,0,3,"Baker, Miss. Emily",female,15.3,1,0,C.A. 13151,4.0268,,Cherbourg
+724,0,3,"Edwards, Mrs. Ellen",F,2.8,0,0,211768,30.5507,,s
+660,1,3,"Green, Mr. Henry",M,37.5,3,2,PC 100725,3.8981,,s
+777,0,3,"King, Mrs. Kate",female,23.2,0,0,PC 305954,$8.33,,Southampton
+159,0,3,"Brown, Miss. Annie",F,35.6,0,1,PC 184173,1.144,,c
+58,1,3,"Green, Col. Robert",Male,13.2,3,0,C.A. 136891,47.9846,,Southampton
+149,1,3,"Adams, Major. James",M,32.5,0,0,PC 195014,6.9435,,Southampton
+141,1,3,"Morris, Mlle. Helen",female,,0,1,C.A. 219098,28.1467,,Southampton
+644,1,3,"Wilson, Mrs. Emily",f,17.8,0,0,PC 18003,1.8933,,S
+335,1,1,"Campbell, Dr. George",male,45.7,0,0,A/5 384130,139.9997,,Southampton
+743,1,2,"Edwards, Mlle. Edith",FEMALE,,0,0,C.A. 127097,$28.50,G4,Southampton
+265,0,3,"Clark, Dr. Charles",male,,1,0,C.A. 195551,2.6335,,C
+62,0,3,"Campbell, Lady. Edith",female,16.2,0,0,C.A. 251074,23.0284,,s
+223,1,1,"Johnson, Mr. Alfred",M,46.3,0,0,SC/PARIS 240593,3.6,E36,Queenstown
+95,0,3,"Johnson, Col. Walter",M,,1,0,232855,$16.22,,s
+886,1,1,"Moore, Lady. Florence",female,4.2,0,1,C.A. 68683,6.9356,B126,s
+706,0,2,"Mitchell, Mr. John",male,23.0,0,1,PC 315250,5.3584,,s
+511,1,1,"Wilson, Col. Henry",m,43.3,1,1,A/5 68048,58.2175,B35,C
+650,1,3,"Mitchell, Col. Alfred",MALE,3.6,0,0,C.A. 273475,4.4816,,s
+552,1,1,"Evans, Miss. Nellie",f,19.2 yrs,0,2,C.A. 387151,76.3294,A98,c
+245,0,3,"Hall, Mr. Edward",m,35.9,0,1,STON/O 159306,0.9261,,Southampton
+505,0,3,"Evans, Master. John",Male,3.4,0,1,PC 23443,34.3308,,Southampton
+109,0,3,"Rogers, Lady. Elizabeth",female,19.3,0,0,81929,4.753,,Cherbourg
+867,1,1,"Phillips, Major. Edward",MALE,26.2,1,2,340332,44.0426,C120,s
+586,1,3,"Scott, Rev. Arthur",male,,0,0,35959,5.2917,,s
+680,1,3,"Morris, Major. Henry",M,34.7,0,2,STON/O 228922,0.3419,,s
+467,1,1,"Campbell, Col. Alfred",m,,1,0,SC/PARIS 252852,40.2894,F107,Cherbourg
+860,0,3,"Johnson, Mme. Mary",f,32.3,0,0,385994,1.7474,,Cherbourg
+701,1,3,"Anderson, Mme. Kate",F,6.0,0,0,C.A. 201280,$30.36,,Southampton
+35,0,3,"Green, Master. Arthur",male,,0,0,278317,8.5845,,s
+295,1,3,"Young, Miss. Elizabeth",FEMALE,,0,0,C.A. 173774,2.389,,s
+823,1,1,"Anderson, Mrs. Ellen",FEMALE,43.1,0,3,C.A. 255480,95.4953,D109,Southampton
+328,1,1,"Allen, Dr. Harry",M,16.0,0,0,A/5 384218,43.5121,,s
+797,0,3,"Phillips, Mr. Frank",male,37.4,0,2,SC/PARIS 346268,35.7063,,Southampton
+272,1,3,"Rogers, Col. Walter",M,,0,0,PC 103860,0.676,,Cherbourg
+587,0,1,"Stewart, Master. Charles",MALE,,0,2,A/5 17681,$23.83,G100,C
+880,1,3,"Smith, Rev. John",m,4.6,0,0,C.A. 260891,17.1828,,Queenstown
+100,0,3,"Nelson, Rev. Henry",male,22.4,0,0,C.A. 64662,5.5932,,c
+129,1,3,"Taylor, Major. Robert",M,17.3,0,0,A/5 362905,28.3441,,Queenstown
+238,0,3,"Turner, Dr. Thomas",male,24.0,0,0,STON/O 339636,7.798,,Southampton
+557,0,3,"Rogers, Mrs. Elizabeth",female,11.3,1,0,C.A. 275717,$3.60,,C
+532,0,3,"Young, Col. James",M,41.5,0,0,STON/O 183177,12.7033,,c
+466,0,3,"Campbell, Lady. Emily",Female,48.5 yrs,0,0,PC 373452,6.169,,c
+154,0,3,"Smith, Mr. Fred",Male,,0,0,C.A. 280226,8.9572,,S
+772,0,1,"Turner, Dr. William",Male,40.5,0,0,C.A. 373373,37.4125,B52,s
+592,0,1,"Wright, Col. Edward",m,5.7,0,2,SC/PARIS 328850,12.7863,,C
+636,0,3,"Wright, Master. Herbert",Male,4.2,1,3,C.A. 310495,6.4874,,C
+111,0,3,"Campbell, Major. Fred",male,14.8,0,0,A/5 324726,13.4063,,s
+681,1,3,"Smith, Lady. Margaret",F,30.3,0,0,STON/O 33721,14.3899,,Q
+438,0,3,"Phillips, Dr. Arthur",Male,23.2,0,2,SC/PARIS 368382,2.6437,,s
+535,0,1,"Baker, Col. Samuel",male,51.0,1,0,242550,269.9479,,Southampton
+685,0,1,"Smith, Miss. Alice",Female,,1,2,C.A. 345943,50.0715,B22,s
+281,0,3,"Stewart, Major. James",m,,0,0,C.A. 198745,$1.66,,Southampton
+126,0,3,"Mitchell, Mr. Thomas",male,37.7,1,0,PC 340556,12.426,,s
+869,0,3,"Johnson, Lady. Sarah",FEMALE,17.4,0,0,A/5 268728,$5.37,,q
+693,1,3,"Parker, Col. Thomas",male,5.9,2,0,STON/O 88822,11.878,,Southampton
+863,0,3,"Wright, Master. Henry",M,11.7,0,0,PC 64230,5.6017,,c
+865,0,1,"Adams, Mme. Elizabeth",FEMALE,19.2,0,0,C.A. 141760,151.6436,D24,Southampton
+135,0,3,"Wilson, Mr. Fred",male,42.5,1,0,SC/PARIS 60584,23.1792,,Southampton
+206,1,3,"Phillips, Dr. Harry",Male,14.2,1,2,309169,9.1461,,s
+659,1,1,"Baker, Mr. Robert",male,32.0 yrs,1,0,PC 276303,8.1485,A96,Southampton
+262,1,2,"Phillips, Major. Frank",m,,1,0,352976,8.8571,,Southampton
+165,1,3,"Mitchell, Mme. Emily",F,21.8,0,0,C.A. 55264,33.3534,,S
+725,0,2,"Nelson, Lady. Elizabeth",female,45.1,1,0,A/5 311947,5.4624,,S
+49,0,2,"King, Miss. Nellie",female,33.1,1,0,SC/PARIS 165582,27.7957,,Cherbourg
+75,1,3,"Green, Mlle. Nellie",female,14.9,1,2,STON/O 129710,0.8634,,Southampton
+620,1,1,"Phillips, Mme. Mary",F,24.8,0,0,SC/PARIS 145639,22.6788,,S
+616,0,3,"Green, Mrs. Bertha",F,40.8,0,0,STON/O 348593,225.7765,,s
+644,1,3,"Wilson, Mrs. Emily",f,17.8,0,0,PC 18003,1.8933,,S
+325,1,3,"Rogers, Mlle. Alice",Female,32.7,0,0,PC 368749,2.0122,,s
+879,0,3,"Smith, Dr. Thomas",MALE,16.7,0,1,STON/O 299545,8.3486,,S
+59,0,3,"Baker, Lady. Bertha",FEMALE,25.3,3,0,150803,$13.60,,S
+805,1,3,"Wright, Mr. Robert",MALE,37.4,1,0,C.A. 19864,1.7125,,Southampton
+329,1,1,"Wright, Col. James",m,29.3 yrs,0,0,C.A. 141790,124.9233,C87,C
+98,1,3,"Taylor, Mme. Bertha",f,25.7,0,0,A/5 345803,12.7851,,s
+529,0,2,"Stewart, Master. William",m,4.3 yrs,0,2,PC 18620,9.6647,,Southampton
+345,0,2,"Brown, Mme. Alice",f,19.9,0,0,PC 282222,$13.11,,S
+627,1,2,"Clark, Lady. Ellen",F,35.1,0,0,250876,66.3106,G121,
+128,0,3,"King, Mlle. Edith",Female,12.4,0,0,C.A. 308935,0.3384,,c
+319,1,2,"Clark, Mme. Anna",FEMALE,17.4,0,0,SC/PARIS 390293,36.9935,,Southampton
+603,0,3,"Stewart, Mr. Robert",MALE,0.4,1,0,A/5 333339,19.6762,,c
+861,0,3,"Stewart, Miss. Alice",female,24.4,0,1,A/5 390965,1.9239,,Southampton
+81,0,2,"Hall, Mme. Bertha",Female,7.8,0,0,A/5 390483,5.6461,,Southampton
+356,1,3,"Parker, Miss. Kate",FEMALE,9.9,1,0,PC 4343,4.9439,,S
+558,1,1,"Mitchell, Rev. George",Male,42.1,1,0,STON/O 121248,94.3825,C114,Southampton
+778,1,1,"Green, Rev. Charles",male,19.4,1,0,A/5 143957,34.6958,F92,Q
+448,0,1,"Phillips, Col. Thomas",Male,80.0,0,0,SC/PARIS 16108,4.2745,,Cherbourg
+807,0,1,"Campbell, Rev. Charles",m,26.7,1,1,258191,23.9206,,s
+479,1,3,"Young, Rev. Fred",male,14.8,4,0,C.A. 295301,12.6746,,s
+588,1,3,"Campbell, Col. Alfred",male,40.9,0,1,SC/PARIS 377357,37.4041,,C
+578,1,3,"Baker, Miss. Ellen",F,,0,0,A/5 32339,0.959,,c
+617,0,3,"Young, Mr. George",male,,0,1,C.A. 267621,2.8156,,S
+331,1,1,"Taylor, Mr. Harry",M,30.3,0,0,A/5 225290,$0.11,F34,Southampton
+512,0,1,"Anderson, Col. John",M,42.8,0,0,SC/PARIS 213575,80.6397,E5,C
+675,1,1,"Allen, Mr. Samuel",m,32.6,0,0,C.A. 298382,63.1912,,Southampton
+472,0,2,"Johnson, Col. Fred",M,21.6,0,0,C.A. 119252,1.4537,,s
+780,1,2,"Allen, Col. Frank",M,33.0,0,0,STON/O 143322,27.1453,,s
+810,1,1,"Collins, Miss. Anna",F,34.4 yrs,0,0,A/5 328760,34.649,A110,c
+643,0,2,"Scott, Mlle. Kate",f,32.8,0,0,PC 287964,71.4008,,S
+456,1,3,"King, Mme. Ida",f,9.1,1,0,STON/O 294680,11.8161,,Cherbourg
+243,1,3,"Allen, Major. William",MALE,,1,0,PC 321316,12.9079,,S
+553,0,3,"Turner, Mlle. Sarah",f,7.5,0,0,STON/O 222153,3.884,,s
+388,0,1,"Green, Miss. Ellen",F,,1,1,A/5 168099,97.0712,A19,Southampton
+432,0,1,"Anderson, Rev. Albert",M,15.5,1,0,PC 35229,35.2406,,
+385,1,3,"Anderson, Dr. George",male,6.6,1,0,STON/O 89021,8.0059,,Southampton
+16,0,2,"Mitchell, Lady. Sarah",f,38.6,1,0,SC/PARIS 279058,14.2975,,S
+363,1,2,"Green, Master. George",MALE,8.1,0,0,STON/O 109861,36.5267,,s
+726,0,1,"Anderson, Rev. George",Male,19.9,1,2,SC/PARIS 87510,35.1034,E11,Southampton
+455,0,1,"Johnson, Dr. Samuel",Male,33.2,0,2,SC/PARIS 335253,497.1802,E144,s
+733,1,3,"Turner, Mr. John",MALE,27.8,0,2,STON/O 324390,10.0088,,Southampton
+832,1,1,"Wright, Col. Walter",MALE,14.4,2,1,64991,103.9192,B114,Southampton
+309,1,3,"Nelson, Miss. Rose",Female,33.4,1,0,PC 213361,19.1814,,Cherbourg
+710,0,2,"Wilson, Rev. Walter",MALE,18.4,4,1,SC/PARIS 206853,6.6112,,S
+510,1,2,"Campbell, Col. Albert",MALE,0.4,0,0,STON/O 378621,7.5737,F123,Southampton
+633,1,3,"Wright, Col. John",MALE,,0,1,PC 153661,1.9662,,Q
+148,1,3,"King, Rev. Arthur",male,150.0,1,0,A/5 75383,$3.42,,Southampton
+187,0,2,"Parker, Master. Albert",male,3.0,0,0,397717,3.9971,,s
+465,0,1,"Collins, Rev. Alfred",Male,23.6,0,0,291236,24.486,,s
+298,0,3,"Wright, Mme. Ellen",Female,29.8,1,0,A/5 296620,4.9322,,Southampton
+300,0,2,"Anderson, Mlle. Helen",FEMALE,,1,0,PC 375989,16.8505,,s
+260,1,1,"Anderson, Mrs. Emily",Female,47.4,0,0,SC/PARIS 168197,1.0658,G83,s
+471,0,2,"Adams, Master. Samuel",MALE,9.5,1,0,349386,$9.35,D100,Southampton
+139,0,3,"Allen, Major. Herbert",m,,1,0,C.A. 266054,15.5256,,Southampton
+55,1,1,"Scott, Mlle. Margaret",female,10.2 yrs,1,2,202315,$358.58,B38,c
+327,0,2,"Brown, Dr. Samuel",M,,0,1,C.A. 271329,0.296,,S
+353,0,2,"Scott, Miss. Annie",Female,34.8 yrs,0,1,SC/PARIS 196458,15.4912,F14,S
+52,0,2,"Collins, Lady. Edith",FEMALE,-3.0,1,1,SC/PARIS 344254,31.1766,,s
+654,1,3,"Moore, Master. William",male,7.7,0,0,C.A. 249774,7.1278,,s
+278,0,3,"Nelson, Mr. William",m,,0,0,145043,6.1539,,s
+23,0,2,"Taylor, Mr. Henry",male,,1,0,C.A. 383245,15.0856,F26,Southampton
+840,0,2,"Mitchell, Major. Herbert",Male,,0,0,PC 138249,46.2043,,Queenstown
+559,1,3,"Collins, Col. Charles",MALE,6.5,3,0,STON/O 250642,37.3513,,Southampton
+628,1,1,"Baker, Mlle. Florence",female,65.6,2,0,A/5 215218,$11.32,,S
+835,1,1,"Campbell, Mme. Helen",FEMALE,,0,0,PC 367205,21.6018,A91,Q
+66,0,3,"Turner, Mrs. Mary",FEMALE,16.2,2,1,A/5 137396,3.8929,,S
+591,0,3,"Parker, Mr. Alfred",male,,0,0,SC/PARIS 51918,42.6841,,Q
+170,0,3,"Campbell, Col. Charles",Male,30.2,0,0,173216,$16.81,,Southampton
+297,0,3,"Allen, Mlle. Emily",FEMALE,22.6,0,0,STON/O 386285,10.6804,,Southampton
+490,0,1,"Anderson, Master. Herbert",male,7.4,0,0,STON/O 333422,18.0576,F96,s
+210,0,3,"Phillips, Master. Charles",male,9.7,1,3,SC/PARIS 22597,3.745,,Southampton
+609,1,3,"Allen, Mlle. Bertha",FEMALE,8.7,1,0,217836,18.0015,,C
+143,1,1,"Parker, Mr. Robert",m,31.5,0,0,A/5 308476,84.4316,,s
+51,0,3,"Phillips, Dr. Henry",M,28.2,2,0,SC/PARIS 299375,13.6895,,S
+730,0,1,"Baker, Major. Frank",male,,0,0,STON/O 220564,1.4376,B50,Queenstown
+493,1,1,"Clark, Miss. Florence",female,,1,0,PC 352785,52.9631,,S
+758,0,2,"Young, Mme. Kate",f,32.2,0,0,STON/O 240036,59.0751,,Southampton
+573,1,1,"Johnson, Major. Edward",MALE,34.5,0,0,SC/PARIS 350179,35.4257,,S
+884,1,1,"Parker, Mme. Florence",f,53.7,1,0,SC/PARIS 116187,140.5753,F87,C
+82,1,2,"Parker, Master. Henry",Male,7.7,1,0,SC/PARIS 149372,14.8682,,s
+419,0,3,"Campbell, Major. Walter",Male,,2,2,PC 272210,5.7322,,S
+548,1,2,"Anderson, Miss. Edith",Female,9.9,0,0,A/5 93593,23.7458,,Southampton
+651,1,1,"Morris, Master. Thomas",Male,7.5,0,0,A/5 62974,7.6426,F31,S
+834,1,1,"Turner, Dr. Frank",MALE,,2,2,C.A. 18763,14.2993,A126,s
+614,0,3,"Evans, Lady. Nellie",female,,0,0,PC 365417,0.7435,,c
+67,0,3,"Green, Master. Fred",MALE,8.1 yrs,0,0,STON/O 395269,1.6514,,Southampton
+656,1,2,"Young, Lady. Anna",F,32.8,0,0,SC/PARIS 10813,8.5223,,s
+866,0,3,"Wilson, Col. Albert",MALE,29.0,0,2,SC/PARIS 180172,13.0201,,S
+10,0,1,"Wright, Rev. John",MALE,37.0,0,1,165981,82.0093,D102,s
+663,0,3,"Green, Rev. James",male,51.2,4,0,164829,15.6653,,s
+229,0,3,"Adams, Dr. Henry",Male,40.1,1,0,33653,12.2265,,s
+836,1,3,"Allen, Major. Herbert",Male,0.4,0,0,337379,4.4093,,C
+509,0,1,"Morris, Lady. Mary",Female,47.4,1,3,SC/PARIS 338367,73.4147,B48,C
+816,0,2,"Wright, Lady. Sarah",female,35.4,0,0,304139,$8.67,C70,S
+677,1,1,"Collins, Mr. Herbert",M,0.4,0,0,A/5 314660,$170.10,G98,Cherbourg
+718,1,3,"Moore, Major. Harry",MALE,14.5,0,0,SC/PARIS 126034,13.5034,,s
+114,1,3,"Anderson, Mlle. Clara",Female,23.3,0,0,PC 90120,4.3549,,s
+508,0,2,"Wright, Rev. Alfred",MALE,27.7,0,0,STON/O 181896,1.9956,,Southampton
+670,1,2,"Collins, Mrs. Alice",FEMALE,21.6,0,0,C.A. 163734,25.967,,S
+442,0,1,"Phillips, Lady. Elizabeth",F,22.3,0,0,A/5 380355,174.0516,,s
+65,1,3,"Rogers, Dr. Frank",m,,0,1,C.A. 311322,22.9628,,Q
+596,0,3,"Clark, Col. Fred",M,28.9,1,0,134215,23.8004,,s
+673,0,1,"Taylor, Col. Charles",M,16.8,0,0,STON/O 292582,25.0783,,S
+827,0,2,"Baker, Rev. Alfred",MALE,21.7,4,0,STON/O 173640,8.7706,,S
+468,1,2,"Edwards, Dr. Arthur",Male,0.4,0,2,PC 28821,2.5259,,Queenstown
+348,0,2,"Adams, Col. Albert",M,39.1,2,0,STON/O 67548,14.1027,,S
+398,0,1,"Scott, Col. Samuel",male,30.1,1,0,SC/PARIS 124544,59.546,A102,Southampton
+544,0,3,"Campbell, Mme. Ida",F,200.0,0,0,A/5 171622,2.0661,,s
+21,1,1,"Brown, Mrs. Ellen",FEMALE,16.1,0,0,A/5 174239,95.0755,B72,S
+504,0,1,"Wilson, Mlle. Alice",F,42.8,0,0,PC 386833,1.3757,,c
+708,0,3,"Young, Rev. Frank",MALE,16.6,1,0,C.A. 145904,51.9435,,q
+420,0,3,"Wright, Lady. Anna",FEMALE,,0,1,A/5 344618,17.202,,s
+372,0,2,"Brown, Mrs. Kate",f,25.4,1,0,276678,8.509,,S
+317,0,2,"Anderson, Dr. William",MALE,17.0,0,0,SC/PARIS 343396,27.6178,,s
+358,0,3,"Moore, Mr. Arthur",M,20.7,0,0,A/5 75644,2.5086,,Cherbourg
+602,0,2,"Edwards, Major. John",MALE,41.5,0,0,STON/O 183415,50.3176,,S
+601,0,2,"Wilson, Dr. Fred",M,,2,0,SC/PARIS 50998,18.1977,,c
+423,1,3,"Stewart, Mme. Rose",female,19.6,0,1,PC 155027,12.8894,,s
+527,1,3,"Hall, Mr. James",MALE,29.7,0,2,202497,15.2824,,S
+761,1,1,"Allen, Major. John",MALE,22.3 yrs,0,2,SC/PARIS 86247,67.8434,A7,Southampton
+189,0,3,"Brown, Master. Frank",male,,2,0,STON/O 106691,23.4311,,C
+252,0,3,"Parker, Mme. Ida",f,35.8,0,0,115243,21.1402,,S
+783,0,2,"Nelson, Major. Herbert",MALE,,0,0,C.A. 41055,$38.84,B5,Southampton
+368,0,2,"Carter, Col. James",MALE,,0,0,A/5 104678,8.1308,,C
+324,1,1,"Hall, Lady. Clara",female,36.8,0,1,STON/O 152693,159.5532,G132,s
+541,0,1,"Johnson, Lady. Mary",FEMALE,35.6,0,2,C.A. 302213,6.3433,,Southampton
+716,0,3,"Evans, Dr. James",MALE,17.3,0,0,SC/PARIS 21620,$8.01,,C
+657,0,3,"Anderson, Mrs. Clara",Female,0.4,1,0,281113,3.4811,,Southampton
+859,1,3,"Brown, Mr. Charles",M,21.8,1,0,C.A. 330439,3.1462,,Southampton
+514,0,3,"Collins, Col. Charles",M,11.2,0,0,STON/O 88934,23.4979,,s
+631,0,3,"Mitchell, Dr. Fred",male,19.3,0,3,SC/PARIS 337275,3.2138,,s
+749,1,1,"Evans, Major. Herbert",m,46.6 yrs,0,0,SC/PARIS 60536,$1.53,,S
+452,1,2,"Rogers, Major. William",M,,0,0,PC 40250,37.6919,,Queenstown
+625,0,3,"Parker, Miss. Annie",FEMALE,35.2,0,0,C.A. 160041,19.4252,,Southampton
+415,1,1,"Scott, Major. Walter",Male,38.8,1,3,A/5 249563,23.2183,,s
+290,1,2,"Evans, Rev. Harry",m,14.7,1,0,C.A. 236323,32.0274,,C
+841,0,3,"Mitchell, Mlle. Anna",f,,0,0,STON/O 90193,0.5277,,S
+652,1,3,"Johnson, Dr. Robert",Male,0.4,0,2,PC 6923,0.085,,c
+219,1,1,"Morris, Col. Thomas",MALE,,0,0,SC/PARIS 5287,3.5756,,Southampton
+240,0,2,"Edwards, Dr. John",m,50.1,0,0,A/5 5858,8.9957,,Southampton
+453,0,3,"Hall, Rev. Edward",Male,35.4,4,0,C.A. 212433,$5.69,,s
+460,1,1,"Green, Master. Samuel",MALE,6.8,1,0,A/5 397964,110.9226,F32,Southampton
+193,1,3,"Collins, Col. Robert",M,,0,0,A/5 172924,60.3503,,S
+409,1,2,"Green, Master. James",M,,1,0,C.A. 399193,4.1631,,s
+192,1,1,"Wilson, Mme. Edith",female,,1,0,STON/O 44312,8.4513,,s
+828,1,2,"Moore, Mlle. Ellen",f,,1,2,C.A. 215106,32.7047,,Cherbourg
+745,0,1,"Parker, Lady. Ida",FEMALE,33.0,0,0,PC 369645,32.3,G95,Cherbourg
+133,0,3,"Moore, Col. Henry",M,26.2,0,0,SC/PARIS 2486,3.5926,,S
+376,1,3,"Rogers, Mme. Edith",F,,0,0,PC 311650,39.6702,,C
+253,0,1,"Scott, Mr. James",Male,30.6,0,1,A/5 248501,,D47,C
+619,0,3,"Clark, Mr. William",Male,0.4,2,0,C.A. 391275,11.0255,,Cherbourg
+264,1,3,"Edwards, Miss. Sarah",f,31.1,0,0,C.A. 293178,25.2309,,Southampton
+71,1,2,"Taylor, Rev. Frank",Male,3.9,0,3,197768,13.5698,,s
+273,1,3,"Carter, Dr. Edward",M,22.6,1,0,177980,11.9766,,q
+436,0,3,"Turner, Mrs. Anna",FEMALE,19.8,4,1,C.A. 233948,6.3618,,S
+116,1,3,"Morris, Mrs. Bertha",female,1.9,0,0,SC/PARIS 83824,14.9842,,s
+612,1,3,"Stewart, Major. Charles",M,0.4,0,0,SC/PARIS 78425,16.7994,,S
+306,0,2,"Young, Mrs. Kate",F,,1,0,75278,42.9912,,S
+572,0,3,"Collins, Rev. Henry",MALE,28.3,0,2,PC 202744,4.8527,,c
+713,0,3,"Anderson, Rev. Samuel",MALE,,1,0,A/5 271209,$12.70,,s
+373,0,1,"Edwards, Dr. William",Male,17.0,0,2,STON/O 297564,77.7357,D70,Southampton
+697,0,3,"Hall, Master. Albert",M,5.4,1,0,SC/PARIS 18348,$14.64,,C
+279,0,1,"Adams, Mr. Arthur",m,10.7,0,0,A/5 51496,19.4815,B50,S
+597,0,3,"Wright, Dr. Harry",Male,150.0,0,0,A/5 272376,5.2053,,s
+3,0,2,"Campbell, Master. Herbert",male,0.8 yrs,0,0,C.A. 309944,6.9103,,S
+230,0,3,"Nelson, Miss. Rose",Female,24.3,1,0,C.A. 165496,$19.62,,s
+678,1,1,"Phillips, Major. Thomas",male,55.5 yrs,0,0,SC/PARIS 396831,12.2464,,S
+569,0,2,"Young, Mr. Frank",Male,28.3,0,0,A/5 123059,14.3125,A127,s
+791,1,3,"Smith, Lady. Florence",FEMALE,10.6,0,0,SC/PARIS 372068,12.2985,,S
+200,1,1,"Evans, Rev. George",MALE,17.2,0,3,STON/O 364845,219.854,,s
+458,1,3,"Collins, Rev. Fred",male,46.7,0,0,SC/PARIS 197026,5.7364,,s
+533,0,1,"Moore, Lady. Ellen",female,27.6,0,0,STON/O 92768,18.9853,A144,S
+66,0,3,"Turner, Mrs. Mary",FEMALE,16.2,2,1,A/5 137396,3.8929,,S
+397,1,3,"King, Major. James",male,10.8,0,0,PC 291246,5.6347,,s
+473,1,1,"Moore, Lady. Nellie",female,27.8,0,1,C.A. 94022,68.3993,,Southampton
+684,0,3,"Anderson, Dr. Frank",M,31.9,1,0,C.A. 81880,17.2126,,Southampton
+404,1,3,"Evans, Lady. Elizabeth",F,,0,0,STON/O 216424,$0.12,,s
+361,0,3,"Phillips, Mlle. Anna",F,32.7,0,1,STON/O 207020,2.9758,,Southampton
+424,0,3,"Parker, Miss. Kate",female,28.5,0,0,176968,7.0415,,S
+443,0,1,,FEMALE,,1,0,A/5 153340,51.4993,F81,S
+274,1,3,"Turner, Major. Thomas",Male,21.8,1,0,STON/O 89743,1.6727,,s
+691,1,1,"Brown, Col. Alfred",m,40.1,3,0,41937,17.0911,,s
+412,1,3,"Campbell, Mme. Anna",female,12.4,1,1,SC/PARIS 209112,$2.85,,Southampton
+748,0,1,"Wright, Mr. John",male,15.3,4,1,STON/O 92890,129.7937,,Southampton
+178,0,3,"Green, Rev. Frank",MALE,,0,0,A/5 117411,14.6931,,Queenstown
+301,1,2,"Mitchell, Dr. James",M,,0,2,220310,48.0381,,c
+38,0,3,"Hall, Dr. Alfred",M,26.8,0,1,223075,4.3272,,S
+203,0,2,"Clark, Col. Albert",M,31.1,2,0,PC 260009,96.9653,E147,C
+237,1,2,"Taylor, Mrs. Ellen",FEMALE,15.4,0,0,73072,30.7328,E41,S
+150,0,2,"Mitchell, Lady. Annie",F,24.7,0,0,SC/PARIS 27089,0.6326,,S
+218,0,3,"Green, Col. Samuel",M,,0,0,A/5 27497,30.8924,,Southampton
+621,1,1,"Nelson, Mr. Samuel",m,22.7,0,0,C.A. 345421,122.9965,F98,Southampton
+340,1,2,"Adams, Miss. Sarah",FEMALE,22.5,0,2,STON/O 339779,$105.26,G62,Southampton
+715,0,2,"Allen, Rev. Herbert",M,44.7,0,0,48535,0.4035,,s
+721,0,3,"Parker, Master. Herbert",MALE,5.1,0,0,75234,8.1127,,C
+696,0,2,"Stewart, Rev. Walter",MALE,,0,3,PC 311257,6.9133,,s
+303,0,3,"Mitchell, Major. Frank",M,,0,1,210514,12.1726,,s
+790,1,1,"Carter, Lady. Ellen",F,14.4,1,0,SC/PARIS 114769,145.8813,,S
+844,1,1,"Wilson, Dr. Henry",Male,,0,0,STON/O 124462,$3.39,,Southampton
+558,1,1,"Mitchell, Rev. George",MALE,42.1,1,0,STON/O 121248,94.3825,C114,Southampton
+851,0,3,"Morris, Mme. Helen",FEMALE,,2,1,SC/PARIS 165107,25.3251,,Southampton
+351,0,3,"Morris, Mr. Walter",male,5.1,0,0,267770,5.5186,,C
+474,1,3,"Parker, Miss. Florence",F,17.1,0,1,STON/O 292817,37.3012,,Queenstown
+719,0,3,"Edwards, Mr. Samuel",male,34.6,1,0,C.A. 9607,17.3761,,s
+194,0,2,"Mitchell, Dr. Arthur",m,,1,0,STON/O 235424,94.7877,G91,Southampton
+236,1,1,"Taylor, Master. Walter",Male,,0,0,A/5 352185,,,S
+775,0,3,"Scott, Mme. Elizabeth",female,14.5,0,3,PC 15912,12.4256,,s
+769,0,3,"Brown, Lady. Ida",F,,1,0,C.A. 232999,20.9268,,s
+56,1,1,"Clark, Mlle. Elizabeth",FEMALE,10.7,0,0,C.A. 27328,198.932,G32,s
+391,1,1,"Scott, Master. Henry",M,6.5,0,1,SC/PARIS 140075,94.9132,,c
+97,1,1,"Allen, Master. George",M,13.3,0,1,C.A. 399720,225.959,D23,s
+142,1,1,"Allen, Dr. Fred",male,37.4,1,0,249652,143.0997,G22,C
+700,1,1,"Wright, Dr. Frank",MALE,17.1,2,1,PC 200124,36.7127,,s
+794,1,3,"Baker, Master. Alfred",male,4.7,0,0,22290,0.1373,,s
+486,0,3,"Carter, Mr. Herbert",MALE,29.8,0,1,C.A. 237519,$22.44,,Southampton
+524,0,3,"Carter, Rev. Walter",male,37.4,0,0,PC 346654,$2.25,,s
+121,0,3,"Turner, Major. George",Male,,1,0,SC/PARIS 192292,$4.35,,S
+658,1,1,"Mitchell, Miss. Edith",F,40.6,0,0,165888,286.4647,,Southampton
+63,0,3,"Evans, Mme. Clara",f,6.8,2,1,SC/PARIS 392913,0.6339,,Southampton
+843,1,1,"Parker, Rev. Walter",M,17.9,0,2,SC/PARIS 114018,80.2549,,S
+447,1,3,"Campbell, Miss. Elizabeth",f,30.6,0,0,A/5 219118,10.9749,,S
+4,0,3,"Scott, Major. Frank",MALE,16.7,0,0,A/5 49625,0.6516,,Southampton
+59,0,3,"Baker, Lady. Bertha",Female,25.3,3,0,150803,$13.60,,S
+224,1,2,"Wright, Miss. Annie",f,,0,0,SC/PARIS 177356,27.5723,,Cherbourg
+878,0,3,"Anderson, Mlle. Sarah",FEMALE,60.7,2,0,PC 388334,1.995,,S
+102,0,3,"Turner, Mr. Harry",M,25.0,0,0,STON/O 267795,7.4374,,q
+789,1,1,"King, Major. Frank",m,,2,0,STON/O 304956,140.152,B129,s
+222,1,1,"King, Dr. George",MALE,36.0,3,0,PC 105363,123.1695,,Southampton
+390,1,3,"Turner, Mlle. Mary",F,40.2,0,0,A/5 54088,9.6514,,Q
+5,0,1,"Stewart, Mme. Elizabeth",f,21.2,1,0,241870,10.9328,D21,S
+53,1,1,"Moore, Major. Harry",male,,0,0,PC 346427,12.9618,E86,c
+18,0,2,"Evans, Mr. Thomas",m,31.3,0,0,C.A. 289255,0.7517,,s
+683,0,2,"Carter, Major. Robert",Male,28.6,0,0,C.A. 201049,1.3668,,Queenstown
+307,0,3,"Adams, Miss. Ida",FEMALE,23.8,1,0,366304,16.1576,,Southampton
+156,0,3,"Rogers, Dr. William",MALE,23.4,0,0,SC/PARIS 213034,9.9902,,Southampton
+838,0,1,"Green, Rev. Robert",Male,33.0,0,1,PC 361430,47.9102,C73,Southampton
+622,1,1,"Clark, Dr. Edward",Male,37.2,0,1,SC/PARIS 173640,10.5447,B53,Southampton
+249,1,3,"Green, Col. James",m,,1,0,A/5 33379,10.1525,,s
+250,0,3,"Carter, Master. Alfred",Male,3.6,1,0,C.A. 61943,1.168,,s
+359,0,3,"Rogers, Mr. James",MALE,32.5,0,0,196293,19.4948,,Southampton
+734,1,2,"Parker, Mrs. Anna",female,38.5,1,3,A/5 255311,13.9379,,S
+751,0,3,"Brown, Mr. Walter",MALE,0.4,0,2,SC/PARIS 65335,11.8773,,s
+781,1,1,"Carter, Col. George",M,39.8,4,0,SC/PARIS 148543,57.9207,D106,S
+31,1,2,"Clark, Lady. Elizabeth",f,15.0,1,0,C.A. 345652,3.7144,,S
+450,0,1,"Evans, Lady. Mary",FEMALE,14.3,0,2,178366,41.153,F25,S
+888,1,1,"Collins, Miss. Florence",f,28.3,0,0,STON/O 226769,4.6255,B31,S
+118,0,2,"Taylor, Dr. Samuel",MALE,26.3,0,0,STON/O 367623,7.0514,,s
+594,1,3,"Edwards, Master. George",m,9.5,1,0,83930,$5.58,,Southampton
+117,0,2,"Carter, Rev. Harry",Male,17.9,0,0,STON/O 240513,$1.73,,s
+446,0,2,"Wright, Mrs. Florence",Female,,0,0,251738,4.5744,,Southampton
+611,1,3,"Anderson, Col. Harry",M,16.2,1,0,PC 360325,27.9142,,S
+292,0,1,"Scott, Rev. William",Male,6.3,0,2,PC 300871,35.6547,F98,s
+28,1,2,"Scott, Rev. Harry",Male,,0,3,377652,9.9877,,c
+382,1,3,"Campbell, Miss. Annie",f,15.0,0,2,STON/O 118040,24.9778,,c
+308,1,2,"Young, Mrs. Annie",Female,,0,0,STON/O 340722,63.1406,G43,S
+38,0,3,"Hall, Dr. Alfred",M,26.8,0,1,223075,4.3272,,S
+545,1,2,"Nelson, Master. Walter",MALE,3.1,0,0,STON/O 192849,59.626,,c
+201,0,3,"Anderson, Mr. Henry",M,26.5,0,1,C.A. 47027,20.8704,,s
+831,0,3,"Morris, Major. William",Male,7.9,1,0,A/5 363116,0.1768,,c
+386,1,1,"Smith, Mlle. Annie",female,38.0,0,0,STON/O 135562,1.8612,,S
+784,0,2,"Campbell, Rev. Albert",M,26.3,2,1,SC/PARIS 180330,14.0686,,q
+833,1,3,"Rogers, Mlle. Mary",Female,31.9,0,0,PC 156935,15.444,,S
+732,0,3,"Taylor, Master. John",Male,,1,0,C.A. 93444,19.8486,,Southampton
+735,0,1,"Green, Major. Edward",Male,17.7,0,1,355865,162.8768,,S
+315,0,1,"Scott, Mlle. Rose",Female,0.4,0,0,PC 256155,6.2565,,Southampton
+542,0,3,"Hall, Lady. Florence",FEMALE,49.2,0,1,A/5 276636,24.3261,,S
+281,0,3,"Stewart, Major. James",m,,0,0,C.A. 198745,$1.66,,Southampton
+874,1,1,"Scott, Mrs. Bertha",f,6.3,0,0,PC 344828,232.4795,F104,S
+354,0,1,"Johnson, Col. Edward",male,44.5,1,0,STON/O 163895,45.2612,E117,Southampton
+842,1,1,"Campbell, Mr. George",Male,5.9,1,1,260076,55.4266,F53,Southampton
+208,0,3,"Morris, Lady. Clara",F,20.0,0,0,289799,9.6654,,S
+380,0,1,"Carter, Master. William",M,4.9,0,0,SC/PARIS 192307,23.2765,,S
+703,0,2,"Hall, Mme. Annie",Female,,2,0,C.A. 242753,19.9194,,s
+607,0,3,"Wright, Mr. Walter",M,22.9,0,2,PC 253141,10.2003,,S
+729,0,3,"Adams, Mme. Alice",female,,1,1,SC/PARIS 363636,4.6757,,Q
+24,1,3,"Edwards, Mme. Edith",Female,8.0,0,0,SC/PARIS 236202,5.8851,,C
+341,1,3,"Clark, Mr. Samuel",M,50.3,0,0,A/5 190319,54.4263,,s
+729,0,3,"Adams, Mme. Alice",female,,1,1,SC/PARIS 363636,4.6757,,Q
+334,0,3,"Anderson, Mrs. Kate",F,2.6,0,2,A/5 5227,1.077,,Southampton
+155,0,3,"Collins, Lady. Rose",FEMALE,11.4,0,3,23178,2.1061,,Southampton
+792,1,1,"Carter, Major. Albert",MALE,,0,2,PC 187029,40.6454,,S
+669,1,3,"Allen, Rev. Albert",MALE,26.0,0,0,SC/PARIS 42180,5.4739,,s
+494,1,2,"Turner, Dr. Herbert",m,49.8,0,1,STON/O 52486,4.5011,,Q
+723,0,3,"Mitchell, Mlle. Elizabeth",f,,0,2,A/5 261646,2.6319,,S
+501,0,3,"Moore, Col. Samuel",Male,26.4,0,0,SC/PARIS 248518,0.9853,,s
+483,0,3,"Smith, Col. Herbert",MALE,30.4,2,0,PC 360349,0.7117,,s
+883,0,3,"Baker, Mrs. Kate",female,13.9,1,2,229710,1.7476,,Southampton
+403,0,2,"Taylor, Mlle. Rose",female,1.6,0,0,SC/PARIS 398608,9.3213,,s
+694,1,1,"Edwards, Major. Arthur",m,42.7,0,2,SC/PARIS 89646,19.9832,F75,Southampton
+263,0,2,"Scott, Major. Fred",Male,36.9,0,0,SC/PARIS 249260,3.0624,,S
+83,1,1,"King, Master. Arthur",M,4.3,0,0,PC 144818,222.6323,A142,s
+702,1,3,"Johnson, Major. Alfred",M,33.9,1,0,C.A. 321070,53.5642,,Queenstown
+408,0,3,"Young, Master. Edward",MALE,,0,0,STON/O 383100,17.2645,,Southampton
+890,1,3,"Johnson, Major. George",m,28.8,3,0,A/5 56517,9.157,,Southampton
+499,0,3,"Nelson, Dr. Arthur",m,34.1,0,0,STON/O 74401,$0.19,,S
+39,1,1,"Allen, Mrs. Anna",f,35.6,0,0,PC 389618,14.2901,F110,Southampton
+418,0,3,"Phillips, Mme. Sarah",F,,0,0,171465,64.0544,,Cherbourg
+164,1,2,"Mitchell, Lady. Margaret",f,4.3,0,1,22507,17.287,,s
+334,0,3,"Anderson, Mrs. Kate",F,2.6,0,2,A/5 5227,1.077,,Southampton
+11,1,2,"Anderson, Rev. Charles",m,36.6,1,0,307491,2.5474,,Southampton
+519,0,2,"Anderson, Dr. George",MALE,,4,0,STON/O 314677,8.7617,,S
+320,1,3,"Taylor, Col. Herbert",male,20.1,1,0,STON/O 285186,45.5719,,s
+33,1,3,"Rogers, Mme. Ida",female,38.1,0,0,SC/PARIS 296170,22.706,,Cherbourg
+604,1,2,"Adams, Mme. Anna",Female,,0,1,STON/O 264403,56.6018,,S
+808,0,3,"Nelson, Dr. Thomas",m,29.2,0,0,STON/O 260360,17.7098,,Southampton
+626,0,3,"Evans, Master. Walter",M,1.8,0,2,SC/PARIS 324457,12.9128,,S
+383,0,3,"Young, Dr. Frank",m,30.3,1,0,1942,10.0968,,S
+282,0,3,"Turner, Mr. Thomas",m,150.0,1,3,174681,1.9314,,Southampton
+554,0,3,"Brown, Mr. Samuel",M,27.7,0,0,153754,1.2588,,Southampton
+801,1,3,"Taylor, Mlle. Alice",female,14.0,0,0,71573,2.3048,,S
+829,0,3,"Nelson, Dr. John",MALE,2.8,0,0,SC/PARIS 223183,44.6619,,Southampton
+624,1,1,"Turner, Master. Robert",Male,5.7,0,1,A/5 293206,284.7176,F31,Queenstown
+837,1,1,"Smith, Miss. Ida",Female,,0,0,SC/PARIS 44113,,B133,Queenstown
+379,1,1,"Allen, Mr. Thomas",male,31.9,2,0,STON/O 376881,25.1467,G83,S
+568,1,2,"Campbell, Mme. Ida",female,30.4,0,0,PC 27021,25.2791,,S
+793,0,3,"Clark, Col. Henry",male,6.1,3,0,A/5 245266,6.3699,,Southampton
+90,0,3,"Young, Major. Arthur",m,18.4,1,0,PC 139702,6.4817,,s
+214,0,2,"Stewart, Mme. Alice",f,35.9,0,0,C.A. 69559,4.8466,,Southampton
+322,1,3,"King, Mme. Ida",f,36.0 yrs,1,0,PC 111036,1.5253,,C
+771,1,2,"Young, Master. Charles",male,2.4,0,2,A/5 310685,25.7134,,Southampton
+134,1,1,"Nelson, Miss. Alice",f,35.4,0,0,A/5 70102,292.0751,G61,c
+347,1,2,"Phillips, Mme. Anna",FEMALE,1.7,1,0,A/5 372143,16.6057,A42,S
+44,1,1,"Taylor, Major. Frank",MALE,,0,0,PC 105633,74.0332,,Queenstown
+8,1,2,"King, Mme. Florence",Female,28.2,0,0,38435,15.6481,,s
+565,0,1,"Nelson, Mrs. Ellen",FEMALE,30.9,0,0,C.A. 207963,87.1653,F100,s
+321,1,3,"Moore, Col. Harry",male,42.5,0,0,PC 157085,17.1035,,s
+717,1,3,"Campbell, Rev. Henry",male,15.3,0,1,STON/O 256067,7.3599,,s
+188,0,3,"Allen, Lady. Clara",FEMALE,36.2,0,0,C.A. 365584,4.0617,,q
+593,1,3,"Parker, Dr. Herbert",MALE,,0,0,241501,2.1625,,Queenstown
+123,0,3,"Parker, Mme. Kate",Female,31.3,1,1,A/5 74797,3.9352,,Southampton
+41,1,2,"Scott, Master. Herbert",male,9.8,0,0,STON/O 111140,0.9419,,S
+305,1,3,"Green, Dr. Albert",male,,0,2,PC 181862,3.0652,,s
+32,0,3,"Moore, Rev. Fred",M,,0,0,C.A. 69617,63.1648,,Southampton
+674,1,3,"Wright, Mlle. Nellie",FEMALE,16.7,1,0,SC/PARIS 84372,20.4892,,C
+173,0,3,"Morris, Mme. Anna",Female,25.0 yrs,0,0,PC 86064,59.1121,,Queenstown
+285,0,1,"Carter, Master. Arthur",male,,0,0,284410,116.8455,G36,Southampton
+431,1,2,"Evans, Mme. Mary",Female,10.4,0,0,A/5 329564,5.9267,,s
+818,1,2,"Nelson, Major. Robert",m,33.8,1,0,SC/PARIS 271201,7.2127,,Southampton
+241,1,1,"Young, Mme. Elizabeth",FEMALE,,0,2,C.A. 71359,25.213,,s
+667,0,3,"Green, Col. Fred",MALE,,3,2,A/5 56536,22.0587,,s
+175,1,1,"Edwards, Major. Arthur",MALE,,0,0,C.A. 102720,294.305,E113,Southampton
+566,1,2,"Brown, Mme. Ellen",f,,1,0,359948,60.8929,,s
+642,0,3,"Stewart, Mlle. Ida",Female,45.3,0,1,C.A. 125716,8.9736,,s
+246,1,1,"Turner, Mme. Mary",F,18.6,0,0,A/5 245001,44.4773,D129,s
+57,0,1,"Phillips, Dr. Charles",m,33.2,1,0,C.A. 322206,275.0765,,Southampton
+599,1,1,"Carter, Col. Alfred",m,24.2 yrs,2,0,C.A. 187466,283.6239,C94,S
+72,1,2,"Campbell, Col. James",male,25.3,0,0,STON/O 359748,3.2952,,s
+768,0,2,"Campbell, Miss. Edith",F,,0,0,A/5 150238,9.8674,,Queenstown
+146,0,3,"Taylor, Rev. Herbert",m,26.5,1,3,SC/PARIS 326962,47.5367,,Cherbourg
+91,0,3,"Taylor, Dr. Henry",male,28.3,0,0,PC 38439,32.4621,,Southampton
+167,0,3,"King, Rev. Frank",male,23.7,0,1,314464,$8.07,,Southampton
+393,0,1,"Brown, Dr. William",M,,0,0,C.A. 105687,7.3292,B44,s
+661,0,3,"Stewart, Major. Thomas",Male,27.8,1,0,A/5 271609,18.2703,,S
+171,0,1,"Turner, Mrs. Rose",FEMALE,24.8,1,1,STON/O 162934,73.9478,B88,C
+311,0,2,"Campbell, Mr. Samuel",Male,15.7,1,2,A/5 303696,1.5013,G138,q
+362,0,3,"Hall, Mlle. Annie",Female,,1,0,SC/PARIS 58133,11.3121,,Q
+360,0,3,"Taylor, Col. James",m,4.5,2,1,A/5 311323,16.3676,,Southampton
+94,0,3,"Hall, Col. Fred",male,13.0,1,0,SC/PARIS 308821,25.6703,,s
+323,0,1,"Mitchell, Major. Albert",m,29.0,0,0,PC 109497,19.682,,S
+421,1,3,"Rogers, Mme. Sarah",f,10.2,2,0,SC/PARIS 372232,9.506,,S
+413,1,2,"King, Master. William",Male,7.0,0,0,SC/PARIS 290057,7.8025,,Cherbourg
+752,1,1,"Collins, Major. Herbert",male,62.1,0,0,STON/O 354006,107.9342,,s
+802,1,3,"Johnson, Major. George",m,9.3,0,0,PC 201609,$0.08,,S
+687,0,3,"Nelson, Dr. Alfred",m,31.2,0,1,PC 223702,7.8957,,S
+377,1,1,"Smith, Col. Albert",m,42.6,0,0,SC/PARIS 75502,$73.46,B127,s
+396,0,2,"Hall, Dr. Harry",male,18.7,1,0,PC 395387,3.7675,,S
+244,0,3,"Allen, Lady. Helen",F,18.1,0,0,PC 251323,4.5422,,S
+755,0,3,"Green, Dr. Albert",Male,16.1,0,0,A/5 12553,1.6943,,Q
+88,1,3,"Parker, Lady. Anna",female,13.6,0,0,PC 139750,18.5141,,s
+215,0,3,"Allen, Mrs. Nellie",female,23.8,0,0,PC 74860,8.2998,,Cherbourg
+607,0,3,"Wright, Mr. Walter",m,22.9,0,2,PC 253141,10.2003,,S
+174,1,3,"Green, Major. Frank",m,,1,0,PC 233888,,,s
+426,1,3,"Johnson, Mlle. Elizabeth",Female,,1,0,A/5 248579,3.2508,,c
+709,1,2,"Wilson, Rev. Fred",male,36.5,0,0,C.A. 204733,8.3779,,Q
+119,0,3,"Carter, Mrs. Bertha",FEMALE,12.8,0,0,SC/PARIS 391684,12.3856,,S
+120,0,3,"Mitchell, Master. Arthur",Male,8.1 yrs,1,0,SC/PARIS 132400,1.0701,,C
+582,1,3,"Green, Major. Fred",m,,4,0,PC 37111,3.9158,,s
+1,1,2,"Parker, Mrs. Elizabeth",f,34.4,0,0,A/5 355785,1.1968,,c
+395,0,2,"Nelson, Major. James",M,8.1,0,2,STON/O 98823,19.1579,,Southampton
+402,0,3,"Nelson, Dr. Herbert",m,23.2,0,2,A/5 368217,0.9437,,Southampton
+405,1,3,"Baker, Major. Samuel",Male,31.8,0,0,STON/O 212274,19.9285,,S
+564,1,2,"Campbell, Mrs. Nellie",F,32.0,1,0,STON/O 5788,39.1371,,Cherbourg
+571,1,2,"Collins, Mrs. Annie",Female,18.6,0,1,C.A. 38426,0.9669,,Queenstown
+163,0,1,"Adams, Mme. Anna",female,25.7 yrs,1,0,A/5 194324,114.0332,,S
+115,0,1,"Stewart, Col. James",MALE,34.3,0,1,SC/PARIS 76034,19.421,F66,Southampton
+151,0,3,"Scott, Major. Harry",m,28.5,1,1,PC 396807,19.6101,,Southampton
+668,0,2,"Scott, Mr. John",m,,0,1,362824,39.0841,,c
+531,0,3,"King, Dr. Walter",male,30.1,0,2,SC/PARIS 9056,10.6717,,S
+369,1,1,"Morris, Mrs. Alice",FEMALE,22.0,1,0,A/5 242694,4.893,E111,S
+478,1,3,"Scott, Miss. Rose",F,25.9,0,0,PC 112858,5.8136,,Southampton
+487,1,3,"Smith, Mme. Helen",f,22.6,0,1,378637,1.1949,,S
+543,1,2,"Johnson, Lady. Kate",f,32.5,0,0,PC 240702,10.8949,,s
+876,0,2,"Anderson, Miss. Margaret",Female,14.0,1,0,99682,51.0783,,S
+259,1,2,"Johnson, Col. George",m,26.3,3,0,PC 389256,82.8417,D60,S
+776,0,3,"Brown, Dr. Walter",M,22.2,0,2,SC/PARIS 229625,47.3363,,Southampton
+136,0,3,"Evans, Dr. Thomas",m,16.6,0,0,SC/PARIS 117155,28.7607,,Southampton
+848,1,1,"Hall, Mrs. Anna",f,,0,0,195459,95.0069,E11,Southampton
+581,0,2,"Green, Major. Thomas",M,,1,1,PC 298114,0.1992,,Cherbourg
+703,0,2,"Hall, Mme. Annie",Female,,2,0,C.A. 242753,19.9194,,s
+502,0,2,"Clark, Mlle. Clara",female,38.2,0,0,PC 244637,25.0856,,Southampton
+539,0,3,"Parker, Dr. Henry",Male,,0,0,PC 121170,5.5968,,Southampton
+598,1,2,"Young, Mr. Arthur",m,11.6,0,0,A/5 362611,7.0758,,Southampton
+344,0,1,"Campbell, Major. Arthur",m,12.2,0,2,C.A. 44215,21.8104,,s
+770,1,3,"Morris, Major. Frank",male,20.9,0,0,SC/PARIS 314490,6.2722,,S
+570,1,3,"Young, Mlle. Annie",female,,1,0,C.A. 366394,25.0086,,Southampton
+294,0,1,"Edwards, Mlle. Sarah",FEMALE,,0,0,328697,$12.72,E51,S
+365,0,1,"Anderson, Rev. Henry",Male,38.1,0,1,C.A. 270200,67.5815,C67,Southampton
+575,0,3,"Hall, Mr. Alfred",Male,2.7,1,0,A/5 350540,23.512,,Southampton
+15,0,3,"Parker, Mr. Harry",male,25.3,1,2,PC 267171,5.2434,,s
+87,0,3,"Rogers, Dr. Samuel",m,0.4,0,2,STON/O 299125,24.3258,,Queenstown
+371,0,2,"Johnson, Master. Harry",m,7.0,0,0,STON/O 262562,3.9535,,q
+166,0,3,"Turner, Lady. Margaret",f,35.5,0,0,C.A. 275762,32.8424,,Southampton
+809,0,3,"Phillips, Col. Samuel",m,18.4,1,0,A/5 15757,11.1195,,Southampton
+336,1,3,"Morris, Rev. Fred",Male,31.2,0,2,356014,4.7019,,S
+60,1,3,"Allen, Rev. Walter",Male,14.0,1,0,PC 201820,4.5188,,Q
+355,0,3,"Young, Master. Albert",M,2.7,0,0,PC 244231,$17.90,,q
+425,0,2,"Clark, Mme. Ellen",FEMALE,48.8,0,0,STON/O 137608,0.6452,,Southampton
+293,0,3,"Young, Rev. Charles",MALE,,0,0,C.A. 145683,15.4875,,S
+42,0,3,"Morris, Col. Albert",Male,14.8,0,0,PC 125118,8.7879,,s
+330,0,3,"Stewart, Col. Charles",male,,0,1,A/5 25087,22.5484,,s
+430,1,1,"Mitchell, Master. James",M,,0,3,C.A. 201968,$119.63,E52,Queenstown
+80,0,3,"Adams, Col. Thomas",MALE,35.5,0,0,STON/O 185450,$6.18,,s
+29,1,3,"Johnson, Master. Arthur",male,5.2,0,0,STON/O 30971,$4.52,,s
+255,0,3,"Stewart, Major. Charles",Male,27.9,1,0,C.A. 278265,20.473,,q
+686,0,3,"Morris, Mlle. Helen",FEMALE,17.7,0,0,SC/PARIS 95265,25.0073,,Cherbourg
+459,0,1,"Baker, Miss. Anna",female,5.3,0,0,C.A. 57078,76.1496,B49,s
+384,1,3,"Johnson, Col. Samuel",m,,0,0,PC 336359,6.2962,,c
+314,1,3,"Anderson, Major. James",Male,11.8,0,3,PC 196719,12.6733,,S
+85,0,1,"Taylor, Dr. Walter",Male,37.3,0,0,SC/PARIS 331010,63.886,,S
+137,0,3,"Young, Lady. Anna",FEMALE,27.7 yrs,0,0,C.A. 211563,$1.25,,S
+112,0,2,"Phillips, Major. Edward",male,7.7,2,1,A/5 228526,3.0191,,c
+195,0,3,"Turner, Rev. Robert",MALE,,0,2,335240,2.9185,,S
+179,0,3,"Scott, Mr. Albert",M,28.2 yrs,0,0,C.A. 43784,28.8792,,S
+813,0,1,"Hall, Dr. Alfred",male,18.4 yrs,0,0,STON/O 199043,71.3408,C147,S
+497,1,3,"Scott, Rev. Albert",MALE,2.5,1,0,388876,16.1496,,S
+130,0,2,"Green, Dr. Henry",M,44.3,1,0,193589,2.3413,,S
+338,0,3,"Phillips, Col. Robert",male,51.2,0,1,PC 395498,8.4333,,S
+125,1,3,"Parker, Major. Albert",Male,,2,3,STON/O 57804,39.5543,,s
+877,0,3,"Anderson, Major. Thomas",male,,0,0,SC/PARIS 101094,22.9505,,s
+227,0,3,"Adams, Master. Thomas",Male,5.3,1,0,PC 357896,20.5241,,Southampton
+269,0,3,"Rogers, Dr. Henry",m,17.0,1,2,C.A. 245449,4.5012,,Cherbourg
+708,0,3,"Young, Rev. Frank",MALE,16.6,1,0,C.A. 145904,51.9435,,q
+104,0,3,"Hall, Mr. Charles",male,9.6,1,0,SC/PARIS 141075,$2.90,,Southampton
+782,1,3,"Moore, Mrs. Florence",f,,1,0,SC/PARIS 322613,28.3099,,S
+766,0,3,"Moore, Rev. Edward",male,40.0,0,0,353089,14.4898,,Southampton
+228,1,3,"Campbell, Lady. Anna",FEMALE,44.9,2,0,C.A. 80393,2.4674,,Southampton
+811,1,1,"King, Dr. Albert",M,38.8,0,2,164630,$26.17,F17,S
+302,1,3,"Turner, Col. Herbert",M,4.5,1,0,349491,21.6584,,S
+276,1,3,"Evans, Mrs. Margaret",Female,150.0,0,0,A/5 371760,13.6698,,S
+127,0,1,"Turner, Mme. Ida",Female,45.3 yrs,0,0,STON/O 259277,65.1356,B138,C
+406,1,3,"Wright, Mrs. Edith",FEMALE,32.7,0,0,A/5 391987,$15.24,,S
+820,0,2,"Nelson, Major. Walter",m,29.6 yrs,0,0,SC/PARIS 381955,6.8835,,Cherbourg
+37,1,3,"Hall, Master. Herbert",M,3.8,0,0,PC 361446,10.6574,,Southampton
+140,1,3,"Edwards, Mrs. Helen",Female,17.1,0,1,SC/PARIS 378927,27.6688,,s
+304,1,1,"Smith, Mrs. Helen",FEMALE,28.6,0,0,SC/PARIS 293549,56.9448,E57,s
+268,1,3,"Parker, Miss. Emily",f,26.3,0,0,PC 365708,8.1172,,Southampton
+534,0,2,"Allen, Rev. Alfred",MALE,15.5,0,0,SC/PARIS 302409,36.5452,,Southampton
+546,0,3,"Campbell, Dr. Henry",Male,45.2,0,0,STON/O 237311,9.0593,,Southampton
+213,0,2,"Brown, Dr. Arthur",m,33.0,1,0,C.A. 244501,$10.76,,Southampton
+469,1,3,"Young, Master. Walter",Male,0.5,0,0,155738,48.5758,,S
+199,1,1,"Allen, Dr. Albert",m,27.6,1,0,A/5 386705,91.8423,E100,C
+528,0,3,"Campbell, Rev. Alfred",MALE,0.4,4,0,260191,23.072,,S
+787,1,1,"Taylor, Master. John",male,,3,0,A/5 246934,5.52,C12,s
+242,0,3,"Edwards, Master. Walter",Male,0.7,1,0,135880,9.0372,,Southampton
+343,0,3,"Carter, Mrs. Margaret",f,33.4,0,0,A/5 209653,11.4067,,C
+550,1,1,"Campbell, Mr. Samuel",M,28.5,0,0,C.A. 331229,2.036,F86,Southampton
+387,0,1,"Green, Dr. John",MALE,22.6,0,0,C.A. 199554,14.5949,D26,Southampton
+847,0,3,"Allen, Mrs. Anna",f,19.1,1,0,SC/PARIS 352687,19.1425,,Southampton
+207,1,1,"Adams, Dr. Charles",Male,15.2,0,0,SC/PARIS 81224,2.1967,B83,S
+296,1,3,"Collins, Dr. Fred",M,22.6,1,0,PC 158514,42.7676,,s
+873,1,3,"Rogers, Rev. Walter",m,33.9,1,0,A/5 392658,13.5924,,S
+74,0,2,"Turner, Rev. Robert",M,38.4,0,0,C.A. 93346,12.3526,,S
+682,0,2,"Smith, Mr. Herbert",Male,39.9,0,1,A/5 148958,24.1796,,Southampton
+105,0,3,"Young, Major. Arthur",MALE,,0,0,C.A. 78906,7.0157,,s
+805,1,3,"Wright, Mr. Robert",male,37.4,1,0,C.A. 19864,1.7125,,Southampton
+881,1,3,"Johnson, Rev. Herbert",MALE,18.8,1,3,321599,26.8698,,s
+17,1,1,"Smith, Dr. Fred",male,,0,0,PC 31369,37.9659,E21,Queenstown
+440,1,2,"Collins, Rev. Henry",m,6.3,0,1,C.A. 155849,6.7293,,q
+92,0,3,"Mitchell, Rev. Frank",MALE,21.2,0,0,C.A. 66197,21.646,,Southampton
+89,0,1,"Wilson, Miss. Florence",Female,22.7,0,1,C.A. 362429,91.9139,C9,Southampton
+451,1,3,"King, Dr. Edward",male,14.7,0,0,SC/PARIS 322343,44.6195,,S
+103,0,3,"Baker, Dr. Robert",m,20.5,0,3,PC 315246,9.5564,,Southampton
+239,1,3,"Clark, Lady. Margaret",Female,10.7,0,1,PC 220092,1.7254,,S
+661,0,3,"Stewart, Major. Thomas",Male,27.8,1,0,A/5 271609,18.2703,,S
+247,1,1,"King, Mme. Elizabeth",FEMALE,29.9,2,0,C.A. 81313,45.5825,E96,S
+653,1,1,"Edwards, Rev. Arthur",MALE,29.6,0,0,STON/O 4214,50.2097,C88,s
+158,1,1,"Clark, Mr. Robert",Male,25.3,1,0,C.A. 163673,231.1843,,S
+480,1,1,"Green, Mme. Elizabeth",F,40.1,0,0,PC 21907,$21.16,,s
+774,1,3,"Green, Major. Herbert",MALE,,0,0,STON/O 158375,4.6205,,S
+754,1,1,"Adams, Master. Charles",MALE,1.9,0,0,284867,152.0882,,Southampton
+19,1,1,"Rogers, Master. Robert",MALE,5.4,0,0,164429,356.4991,F96,S
+646,1,3,"Green, Master. Herbert",M,3.1,1,3,A/5 157916,0.7052,,S
+122,1,1,"Allen, Mme. Margaret",F,,0,2,SC/PARIS 192814,49.6105,C43,S
+645,0,3,"Rogers, Rev. Arthur",M,17.7,2,0,PC 353368,60.7354,,S
+275,1,3,"Wilson, Mlle. Nellie",female,26.5,0,0,A/5 275697,5.2222,,s
+434,1,3,"Smith, Dr. Frank",male,0.8,0,0,PC 385867,8.4312,,S
+823,1,1,"Anderson, Mrs. Ellen",female,43.1,0,3,C.A. 255480,95.4953,D109,Southampton
+312,0,2,"Moore, Rev. Albert",MALE,22.0,0,1,SC/PARIS 336076,24.5576,,Southampton
+695,1,3,"Baker, Mme. Mary",f,29.1,0,0,STON/O 70488,15.7579,,Southampton
+889,0,1,"Hall, Dr. Edward",m,,2,1,SC/PARIS 141242,107.6442,,S
+547,0,3,"Phillips, Col. Charles",MALE,22.7,0,0,PC 292158,3.2313,,Cherbourg
+182,0,2,"Smith, Mr. William",male,,0,0,320228,22.0652,,s
+185,0,1,"Carter, Master. Albert",m,8.3,0,2,SC/PARIS 190060,5.2214,E140,Q
+407,1,1,"Smith, Rev. Walter",male,32.9,1,0,STON/O 258750,76.3731,,Southampton
+607,0,3,"Wright, Mr. Walter",m,22.9,0,2,PC 253141,10.2003,,S
+521,0,3,"Turner, Mlle. Mary",Female,29.2,0,0,STON/O 56880,12.6152,,Southampton
+381,1,1,"Taylor, Lady. Edith",FEMALE,18.8 yrs,0,0,230044,5.4236,,S
+411,0,3,"Moore, Master. William",MALE,2.5,0,0,PC 18338,$3.38,,S
+635,0,3,"Green, Miss. Rose",Female,31.7,1,0,SC/PARIS 60334,6.7096,,s
+370,0,3,"Wright, Mrs. Kate",F,1.8,0,0,PC 145169,7.4235,,C
+744,1,1,"King, Master. Henry",Male,3.9,1,0,A/5 252544,69.6789,,S
+762,0,3,"Green, Master. Thomas",M,10.0,0,1,SC/PARIS 267028,30.7436,,q
+690,0,3,"Parker, Major. Charles",male,27.8,0,0,C.A. 272030,15.4076,,Southampton
+79,1,1,"Green, Mlle. Kate",F,50.9,1,0,C.A. 363695,7.6383,F149,S
+574,0,3,"Young, Major. Samuel",m,,0,0,A/5 391450,55.6129,,s
+638,0,1,"Campbell, Mr. James",m,,0,0,202372,36.808,,s
+608,0,2,"Wright, Dr. Henry",male,33.1,0,0,275856,0.8011,,q
+786,0,3,"Campbell, Mlle. Margaret",FEMALE,21.1,0,1,C.A. 398061,11.3144,,S
+193,1,3,"Collins, Col. Robert",M,,0,0,A/5 172924,60.3503,,S
+857,1,1,"Evans, Lady. Mary",F,15.3,0,0,PC 262153,74.0337,,S
+846,0,3,"Wright, Major. Henry",m,,0,1,A/5 50953,27.6541,,Southampton
+417,1,1,"Green, Master. Walter",m,7.9,1,0,C.A. 307439,152.4381,E96,s
+803,1,1,"Young, Miss. Annie",Female,,0,0,395059,179.307,D120,Q
+562,1,2,"Baker, Rev. Arthur",Male,26.6,1,2,STON/O 192775,9.2481,,Cherbourg
+68,0,3,"Baker, Mr. Walter",male,9.4,1,0,PC 341862,$11.28,,Cherbourg
+537,1,2,"Smith, Col. Alfred",M,,0,0,A/5 210154,$5.64,,Southampton
+78,0,2,"Smith, Col. Walter",Male,30.0,0,0,214085,$7.77,,S
+106,1,1,"King, Mlle. Nellie",Female,48.6,2,0,C.A. 169704,26.5214,,Southampton
+84,0,2,"Taylor, Mlle. Alice",FEMALE,35.8,0,0,C.A. 231932,11.0829,,Southampton
+714,1,1,"Wright, Dr. Thomas",male,46.0,0,1,SC/PARIS 119408,22.664,F124,S
+639,0,3,"Nelson, Mlle. Florence",Female,28.0,0,0,SC/PARIS 346783,16.5446,,Southampton
+560,1,3,"Nelson, Mme. Nellie",f,,3,0,SC/PARIS 93818,1.9192,,s
+796,0,1,"Scott, Lady. Ellen",F,40.0,1,3,A/5 250391,$14.22,,S
+858,0,3,"Phillips, Rev. William",M,19.4,0,0,SC/PARIS 56611,$14.93,,Cherbourg
+806,0,3,"Phillips, Col. Frank",MALE,19.6,0,0,PC 258676,22.545,,s
+750,1,3,"Evans, Major. Henry",MALE,15.5,1,0,SC/PARIS 357634,6.1498,,Southampton
+491,1,3,"Anderson, Lady. Nellie",F,11.0,0,0,SC/PARIS 45630,229.32,,c
+506,0,2,"Wright, Mme. Rose",f,21.1,1,0,A/5 341013,0.0006,,S
+882,0,2,"Johnson, Major. Edward",MALE,16.3,0,0,SC/PARIS 34297,15.6999,,Southampton
+606,1,3,"Anderson, Master. Samuel",MALE,5.6,1,0,A/5 288389,3.1268,,s
+364,1,3,"Brown, Mr. Walter",male,35.0,0,0,317304,23.2759,,s
+70,1,3,"Hall, Major. Harry",male,41.8,0,2,377626,5.865,,s
+549,0,3,"Parker, Col. Alfred",male,9.5,0,0,SC/PARIS 298708,12.5292,,Southampton
+161,1,2,"Baker, Major. Frank",m,21.8,3,0,C.A. 358110,4.0207,,c
+12,0,3,"Clark, Mme. Edith",female,41.6 yrs,0,0,A/5 397247,7.6421,,Southampton
+145,0,1,"Taylor, Mme. Sarah",F,23.2,0,0,C.A. 118568,$5.86,,s
+518,0,3,"Stewart, Rev. Robert",M,40.0,0,0,C.A. 200877,47.7336,,S
+428,1,3,"Allen, Miss. Ida",Female,15.8,0,0,C.A. 175393,0.9503,,Q
+640,1,1,"Wilson, Miss. Florence",FEMALE,,0,0,STON/O 383815,38.578,,Queenstown
+177,0,3,"Nelson, Rev. Thomas",male,,0,2,A/5 150455,16.0243,,s
+441,1,3,"Campbell, Master. Thomas",male,9.7,0,0,A/5 353129,11.1477,,C
+522,0,2,"Carter, Major. Robert",MALE,27.7,0,0,SC/PARIS 192702,26.5127,,Southampton
+799,0,3,"Clark, Mr. Samuel",m,12.7,0,0,306092,2.1371,,Southampton
+862,0,3,"Wright, Col. Herbert",male,,0,0,C.A. 47760,7.7597,,S
+689,0,3,"Johnson, Mrs. Clara",female,40.5,0,0,SC/PARIS 253461,12.4286,,S
+232,0,1,"Clark, Master. Thomas",M,3.4,1,0,STON/O 370571,0.4404,F126,Cherbourg
+211,0,2,"Turner, Mr. James",male,21.0,0,3,SC/PARIS 219411,33.637,,S
+641,0,3,"Taylor, Miss. Sarah",female,32.0,1,1,SC/PARIS 133703,8.363,,S
+144,1,1,"Scott, Mrs. Annie",f,,0,2,27972,35.1419,,Southampton
+520,0,3,"Smith, Master. Walter",m,3.1,0,0,SC/PARIS 62776,7.9934,,s
+467,1,1,"Campbell, Col. Alfred",M,,1,0,SC/PARIS 252852,40.2894,F107,Cherbourg
+299,1,1,"Phillips, Master. Herbert",male,,0,0,C.A. 372388,49.3135,G75,s
+429,0,3,"Smith, Mrs. Annie",FEMALE,21.3,0,0,SC/PARIS 84065,3.5694,,S
+613,1,1,"Campbell, Rev. William",Male,,0,1,A/5 174998,92.3492,E55,Southampton
+850,0,3,"Anderson, Dr. Alfred",M,,0,0,C.A. 148325,7.3064,,S
+9,1,1,"Wilson, Miss. Nellie",Female,20.2,0,1,293002,103.0761,C15,c
+157,0,1,"Wright, Mr. Arthur",male,16.0,0,0,C.A. 362554,135.4396,,s
+540,0,3,"King, Col. Edward",MALE,,1,0,348825,6.8427,,S
+507,1,2,"Hall, Major. Walter",male,41.2,2,0,199452,14.4499,,Southampton
+437,0,3,"Hall, Col. George",male,40.2,0,1,331464,$7.15,,s
+267,0,1,"Edwards, Master. James",male,7.5,1,1,PC 252340,130.4756,C78,s
+462,0,1,"Collins, Dr. Herbert",male,32.8,0,0,304329,331.031,G33,S
+577,1,2,"Johnson, Mrs. Ellen",female,20.0,0,0,SC/PARIS 82260,4.9599,,s
+339,1,1,"Scott, Rev. Samuel",male,10.5,0,1,45170,333.7741,E73,Cherbourg
+256,0,3,"Evans, Mr. Edward",MALE,14.2,1,0,286446,13.792,,c
+738,1,1,"King, Major. Henry",male,37.7,0,0,A/5 363917,119.4826,C35,S
+779,0,1,"Adams, Rev. Arthur",m,38.5,3,1,97074,77.0808,,S
+666,0,3,"Campbell, Master. Walter",m,5.4,0,0,A/5 164251,3.7373,,S
+561,0,3,"Parker, Major. Harry",m,0.4,0,0,336296,18.7325,,s
+209,0,3,"Young, Major. Charles",m,43.9,0,0,PC 311278,20.7911,,s
+288,0,1,"Scott, Dr. Herbert",male,,0,0,A/5 325332,55.9048,B19,Southampton
+2,0,3,"Scott, Col. James",male,,3,1,SC/PARIS 316631,3.27,,S
+342,0,3,"Stewart, Mlle. Alice",FEMALE,6.3,3,0,91581,51.8646,,c
+270,0,3,"Hall, Mme. Clara",FEMALE,22.8,1,0,A/5 379752,45.0966,,Cherbourg
+266,0,3,"Collins, Major. Herbert",male,39.4,0,0,SC/PARIS 317104,9.8473,,s
+747,0,3,"Brown, Major. Henry",M,36.0,0,3,SC/PARIS 354712,4.2189,,S
+753,0,1,"Brown, Dr. Henry",MALE,20.1,0,0,A/5 58338,43.9529,A38,Queenstown
+96,1,2,"Scott, Col. Frank",M,14.0,1,0,C.A. 183431,10.2449,,S
+887,0,3,"Young, Dr. Robert",M,25.8,0,0,STON/O 137738,7.7053,,C
+43,1,2,"Smith, Dr. Frank",M,20.3,0,0,386381,13.9888,,Cherbourg
+737,0,3,,MALE,2.2,1,1,STON/O 72515,1.8576,,Cherbourg
+144,1,1,"Scott, Mrs. Annie",f,,0,2,27972,35.1419,,Southampton
+815,1,2,"Scott, Mme. Sarah",female,,0,0,SC/PARIS 113239,21.3095,,S
+629,1,2,"Clark, Mlle. Bertha",FEMALE,,0,0,A/5 93839,7.4123,,S
+46,0,1,"King, Rev. James",m,,0,0,STON/O 15470,96.5055,C46,s
+162,1,3,"Allen, Major. Fred",M,29.5,1,0,159765,76.8382,,Queenstown
+728,1,2,"Campbell, Mrs. Florence",Female,23.4,1,0,250567,58.8071,,Southampton
+630,0,3,"Stewart, Mme. Kate",FEMALE,,0,0,A/5 319730,19.3504,,
+289,1,1,"Wright, Master. Walter",M,9.8,0,1,C.A. 167030,99.0576,A2,s
+590,0,1,"Parker, Col. Albert",M,15.8,0,1,31566,112.9829,,Southampton
+821,0,3,"Green, Rev. Henry",MALE,13.5,0,0,STON/O 229269,$44.64,,c
+872,1,3,"Morris, Mlle. Margaret",FEMALE,35.2,0,2,C.A. 398071,30.2672,,s
+576,1,3,"Turner, Master. George",MALE,0.6,1,0,SC/PARIS 63730,5.3008,,Southampton
+316,1,3,"Baker, Miss. Nellie",F,,1,0,SC/PARIS 29107,10.0602,,Southampton
+231,1,1,"Allen, Col. Harry",M,,1,0,338279,68.0292,,c
+699,0,1,"Turner, Major. Harry",male,26.7,1,0,A/5 337729,11.729,G30,Southampton
+757,1,3,"Green, Mlle. Nellie",Female,12.9,0,1,PC 137318,3.2174,,Southampton
+712,0,2,"Brown, Mr. John",male,36.2,0,0,A/5 261938,15.3057,F1,Queenstown
+77,0,3,"Wilson, Mme. Kate",f,31.5,0,0,STON/O 147621,1.5531,,Southampton
+634,1,3,"Evans, Mme. Edith",female,25.0,0,2,STON/O 322458,4.4164,,Southampton
+891,1,1,"Johnson, Col. George",m,36.4,0,2,PC 190602,150.337,C114,S
+248,1,3,"Evans, Dr. Herbert",m,30.7,0,0,PC 357695,11.4144,,S
+477,0,3,"Brown, Rev. Herbert",male,0.4,0,0,PC 273947,0.5488,,S
+671,1,1,"Clark, Miss. Kate",F,38.8,0,0,STON/O 206561,70.5559,F85,Southampton
+86,1,1,"Young, Col. Charles",m,,4,0,C.A. 318885,139.4459,E58,s
+470,0,1,"King, Mr. Herbert",m,20.4,0,0,295589,234.228,,s
+226,1,1,"Mitchell, Mrs. Sarah",f,,0,0,SC/PARIS 120298,142.1726,,c
+332,0,3,"Brown, Mme. Florence",Female,44.1,0,2,341216,20.9442,,Cherbourg
+234,0,2,"Morris, Dr. Herbert",male,31.5,1,1,STON/O 23054,17.981,,S
+589,1,3,"Turner, Master. William",male,3.0,0,0,C.A. 335976,10.7748,,S
+476,0,3,"Johnson, Col. Fred",m,45.2,1,0,STON/O 258189,6.5279,,q
+819,1,3,"Turner, Mr. Frank",MALE,33.1,0,0,C.A. 112648,16.907,,c
+800,0,3,"Wright, Major. Walter",M,23.9,0,1,C.A. 269128,17.102,,Southampton
+600,1,3,"Hall, Miss. Ellen",female,,0,0,SC/PARIS 114999,2.9795,,Southampton
+422,1,3,,M,43.3,0,0,C.A. 353252,12.5293,,s
+688,0,1,"Baker, Lady. Mary",f,37.8,0,0,STON/O 216397,17.5174,,s
+183,1,2,"Young, Miss. Sarah",f,0.4,0,0,SC/PARIS 240659,9.567,G128,s
+618,1,3,"Stewart, Dr. Fred",m,,0,0,SC/PARIS 241116,5.8387,,Q
+333,1,2,"Turner, Dr. John",Male,24.7,1,0,C.A. 344663,1.1917,A1,Q
+439,0,3,"Adams, Mr. Robert",Male,27.8,0,0,A/5 261958,2.0858,,S
+50,0,3,"Young, Col. Arthur",Male,21.4,1,0,STON/O 291671,30.9454,,s
+6,0,3,"Mitchell, Major. Arthur",male,20.2,0,0,37466,10.0573,,S
+530,1,1,"Mitchell, Miss. Rose",female,,1,0,1150,36.5877,,C
+235,1,3,"Turner, Dr. Albert",m,4.2,1,0,SC/PARIS 143151,12.155,,S
+487,1,3,"Smith, Mme. Helen",f,22.6,0,1,378637,1.1949,,S
+830,1,3,"Morris, Rev. Edward",M,12.2,0,0,193801,8.5526,,Southampton
+498,0,3,"Anderson, Rev. Walter",M,17.2,0,0,C.A. 234495,12.7601,,Cherbourg
+826,0,1,"Wright, Mrs. Clara",f,22.5,0,0,PC 59684,171.3947,E31,S
+107,0,1,"Stewart, Master. Samuel",MALE,8.8,0,0,C.A. 370742,22.072,,s
+444,1,3,"Stewart, Mrs. Elizabeth",Female,40.0,0,0,340318,3.1868,,S
+489,1,3,"Evans, Mme. Margaret",Female,16.1,0,0,A/5 249506,6.1372,,s
+647,1,2,"Collins, Dr. Albert",male,,0,0,A/5 154528,11.1846,,s
+13,0,1,"Turner, Master. George",M,6.3,1,0,A/5 202728,44.3757,D136,c
+739,0,3,"Scott, Mlle. Ida",f,32.4,0,0,SC/PARIS 83202,$25.83,,Southampton
+727,0,3,"Wright, Lady. Elizabeth",female,,1,0,A/5 4329,0.6288,,Southampton
+191,0,3,"Stewart, Mr. Albert",MALE,,0,0,C.A. 210726,13.3958,,Southampton
+868,0,3,"Young, Mlle. Margaret",FEMALE,36.6,0,0,PC 275250,11.623,,Cherbourg
+283,1,2,"Rogers, Col. George",male,29.5,0,0,SC/PARIS 250299,34.7216,,q
+30,1,1,"Rogers, Lady. Kate",FEMALE,64.4,2,2,A/5 98425,38.8321,A61,s
+170,0,3,"Campbell, Col. Charles",Male,30.2,0,0,173216,$16.81,,Southampton
+181,0,3,"Rogers, Rev. John",MALE,9.7,0,0,246948,6.7395,,S
+101,0,2,"Wilson, Major. Edward",male,36.7,0,0,A/5 118807,$26.75,,Southampton
+198,1,3,"Green, Major. Charles",m,28.9,0,0,SC/PARIS 73191,43.3085,,S
+496,0,3,"Baker, Mme. Emily",Female,15.2,1,0,307273,15.4605,,Southampton
+722,0,1,"Rogers, Dr. William",M,16.8,2,0,69439,45.6013,F13,s
+648,1,1,"Adams, Mme. Bertha",female,33.7,1,0,SC/PARIS 31505,64.4184,F136,S
+598,1,2,"Young, Mr. Arthur",m,11.6,0,0,A/5 362611,7.0758,,Southampton
+855,0,2,"Taylor, Mlle. Ida",F,14.9,0,1,STON/O 50061,5.5243,,S
+711,0,1,"Nelson, Master. George",male,6.0,1,0,A/5 232515,103.5722,,c
+374,0,3,"Mitchell, Rev. William",m,10.9 yrs,0,0,A/5 248298,13.3881,,Southampton
+679,0,3,"Anderson, Major. Charles",Male,30.7,0,0,SC/PARIS 235440,4.4076,,s
+814,0,3,"Campbell, Mrs. Kate",Female,9.3,1,0,179016,18.691,,s
+649,0,3,"Rogers, Lady. Kate",F,38.3,2,2,SC/PARIS 166931,9.7438,,Southampton
+798,1,2,"Wright, Miss. Elizabeth",Female,20.7,1,0,89459,18.6775,B87,S
+461,1,3,"Carter, Major. Harry",male,33.5,0,0,A/5 279063,0.1489,,Cherbourg
+414,1,2,"Young, Mrs. Bertha",Female,,4,1,PC 117051,37.27,,s
+132,0,1,"Edwards, Mr. William",m,,1,2,PC 36971,52.9189,,s
+40,0,3,"Brown, Mrs. Mary",F,35.3,0,2,SC/PARIS 19889,18.3445,,S
+435,0,1,"Taylor, Master. Alfred",m,11.2,0,0,C.A. 336712,$126.07,E13,C
+216,0,3,"Wright, Rev. John",M,31.5,0,0,STON/O 303874,8.8543,,S
+556,1,1,"Anderson, Mr. Frank",male,23.8,1,0,394079,69.8434,B102,s
+567,1,3,"Moore, Mlle. Bertha",FEMALE,22.2,1,0,A/5 334915,16.7266,,Cherbourg
+763,0,3,"Morris, Mlle. Sarah",f,31.6,0,1,78114,17.4451,,s
+475,0,3,"Carter, Master. Charles",Male,6.6,0,0,PC 21940,270.2101,,c
+457,0,3,"Phillips, Major. Thomas",male,,0,1,117259,,,C
+812,0,3,"Wilson, Mme. Elizabeth",f,32.5,1,0,222497,27.4335,,Southampton
+261,1,3,"Phillips, Miss. Sarah",f,,0,1,A/5 292880,$23.42,,Southampton
+817,1,3,"Scott, Dr. Alfred",M,37.3,0,0,STON/O 265576,$14.85,,s
+36,0,3,"Rogers, Rev. Herbert",male,20.9,0,1,STON/O 61517,6.1182,,S
+310,0,3,"Wright, Mlle. Florence",FEMALE,,0,0,C.A. 311485,9.1612,,S
+277,1,1,"Adams, Master. William",MALE,5.3,0,0,324233,252.5385,,s
+637,0,3,"Hall, Mr. Harry",male,38.9,0,0,PC 377635,8.0559,,c
+655,0,3,"Anderson, Dr. Charles",MALE,6.1,0,0,STON/O 243467,9.9181,,q
+623,0,3,"Edwards, Major. Herbert",Male,17.3 yrs,0,0,275624,$11.59,,s
+394,0,3,"Stewart, Dr. James",M,35.9,0,0,C.A. 347575,3.4455,,Southampton
+864,0,3,"Parker, Mlle. Kate",F,37.3,0,0,SC/PARIS 69832,13.205,,s
+108,0,1,"Baker, Miss. Edith",FEMALE,45.5,0,0,STON/O 53619,22.8521,,s
+870,1,3,"Green, Mrs. Helen",f,0.4,0,0,STON/O 134620,18.3781,,Cherbourg
+525,1,1,"Edwards, Mlle. Ellen",f,35.6,1,0,SC/PARIS 211009,54.4207,,S
+785,1,1,"Collins, Major. William",Male,13.7,2,1,PC 361734,26.2388,B54,s
+48,0,3,"Morris, Dr. George",m,35.0,0,0,C.A. 1886,22.5257,,q
+204,1,3,"Anderson, Col. Harry",MALE,56.4,1,0,C.A. 376879,28.8183,,Cherbourg
+875,0,2,"Mitchell, Mme. Kate",F,25.3,4,1,362912,4.7278,,s
+632,1,3,"Green, Mr. Alfred",MALE,,0,0,SC/PARIS 282998,0.48,,S
+22,0,1,"Anderson, Col. Henry",MALE,21.6,0,0,C.A. 128400,41.0725,,q
+403,0,2,"Taylor, Mlle. Rose",female,1.6,0,0,SC/PARIS 398608,9.3213,,s
+84,0,2,"Taylor, Mlle. Alice",female,35.8,0,0,C.A. 231932,11.0829,,Southampton
+131,1,2,"Hall, Dr. John",m,25.5,0,0,A/5 348481,4.9245,,Queenstown
+416,1,1,"Hall, Master. William",MALE,,0,1,337981,70.1507,D90,s
+742,0,3,"Johnson, Dr. William",m,21.8,0,0,A/5 224188,10.7614,,s
+698,0,3,"Mitchell, Master. James",Male,7.1,2,0,C.A. 201889,4.9175,,Southampton
+287,0,3,"Smith, Mme. Edith",F,36.4,1,0,C.A. 120610,31.8857,,Southampton
+124,0,3,"King, Lady. Edith",FEMALE,38.1,0,0,SC/PARIS 65796,35.5321,,Southampton
+34,1,3,"Moore, Col. James",M,37.7,0,1,A/5 129075,14.3812,,Southampton
+631,0,3,"Mitchell, Dr. Fred",male,19.3,0,3,SC/PARIS 337275,3.2138,,s
+517,1,1,"Adams, Col. John",m,15.7,0,0,PC 317394,118.5767,A111,s
+20,0,3,"Taylor, Dr. Alfred",Male,27.9,1,0,SC/PARIS 291414,13.7069,,S
+853,1,3,"Anderson, Master. John",MALE,7.9,0,0,STON/O 86749,0.5421,,Southampton
+220,0,1,"Parker, Rev. Charles",m,20.2 yrs,0,2,C.A. 27821,112.353,B93,S
+428,1,3,"Allen, Miss. Ida",FEMALE,15.8,0,0,C.A. 175393,0.9503,,Q
+482,1,1,"Johnson, Mlle. Ida",Female,13.3,0,0,SC/PARIS 44172,22.3716,,Southampton
+357,0,3,"Nelson, Master. William",MALE,8.4,1,3,STON/O 1766,19.227,,S
+662,0,2,"Johnson, Major. Henry",male,0.4,0,0,A/5 3154,7.7348,,s
+225,0,1,"Campbell, Dr. Herbert",MALE,15.4 yrs,0,0,STON/O 174664,240.747,,S
+760,0,2,"Johnson, Mr. Edward",m,25.9 yrs,0,1,STON/O 194814,24.5672,,Southampton
+93,1,3,"Hall, Mlle. Sarah",FEMALE,,0,0,SC/PARIS 21898,0.4673,,S
+152,0,1,"Scott, Mme. Elizabeth",female,34.9,0,1,C.A. 277265,55.1761,,s
+16,0,2,"Mitchell, Lady. Sarah",f,38.6,1,0,SC/PARIS 279058,14.2975,,S
+318,0,3,"Collins, Major. Robert",M,18.7,0,0,A/5 116620,0.8869,,c
+449,1,3,"Taylor, Dr. Thomas",M,18.6,1,0,STON/O 344394,19.0345,,S
+804,1,1,"Baker, Mlle. Sarah",female,33.8,0,0,SC/PARIS 10264,4.2334,,s
+746,1,1,"Brown, Major. William",m,25.8,0,0,A/5 156498,$241.77,C139,q
+523,0,3,"Nelson, Dr. Henry",MALE,,0,1,SC/PARIS 291933,$10.65,,Southampton
+280,1,1,"Collins, Rev. Alfred",M,27.9,0,0,STON/O 213875,$34.76,B58,C
+584,0,3,"Wilson, Major. Samuel",M,40.9 yrs,0,0,SC/PARIS 126192,3.6443,,Southampton
+765,0,3,"King, Dr. Edward",m,24.0,4,0,PC 306886,4.9466,,s
+605,0,3,"Green, Mlle. Anna",F,16.8,0,0,PC 227458,8.1991,,C
+350,0,3,"Adams, Dr. Thomas",Male,32.9 yrs,0,2,PC 193774,40.1035,,c
+375,1,1,"Clark, Lady. Clara",Female,39.5,1,0,PC 140736,31.524,G15,s
+401,0,3,"Anderson, Major. Henry",MALE,13.6,0,1,A/5 46627,31.7906,,s
+705,0,2,"Taylor, Dr. William",Male,31.3,0,0,PC 381240,5.9453,,Southampton
+258,0,3,"Scott, Major. John",male,13.0,0,0,PC 109046,30.7458,,S
+852,0,3,"Parker, Rev. Frank",MALE,,0,2,SC/PARIS 345677,3.7726,,S
+73,0,1,"Nelson, Rev. John",male,28.2,0,0,179903,17.9383,D126,s
+196,1,2,"Edwards, Col. Albert",MALE,,0,0,PC 319543,32.2244,,S
+484,0,2,"Nelson, Master. George",male,4.9,0,0,C.A. 339984,30.9642,,s
+856,0,3,"Parker, Master. Frank",m,4.2,1,2,SC/PARIS 112356,21.5557,,s
+138,0,2,"Campbell, Mlle. Elizabeth",f,30.3,0,0,STON/O 319923,4.9739,B71,S
+495,0,3,"King, Rev. Thomas",male,11.6 yrs,1,0,STON/O 325804,27.4912,,S
+773,0,3,"Nelson, Rev. Samuel",MALE,15.5,0,0,SC/PARIS 160338,10.5818,,Southampton
+551,0,1,"Nelson, Rev. Albert",m,32.0,0,0,A/5 216881,61.8947,G51,Cherbourg
+463,0,3,"Mitchell, Lady. Edith",Female,24.9,0,0,C.A. 320288,2.5944,,Southampton
+202,0,2,"Brown, Major. Albert",Male,22.0,0,0,PC 374192,55.279,,Southampton
+313,0,2,"Taylor, Col. Samuel",M,16.0,1,2,PC 354154,10.3873,,c
+291,0,3,"Smith, Mr. Robert",MALE,34.3,0,0,SC/PARIS 171094,16.7519,,s
+190,0,1,"Allen, Mr. Henry",M,23.4,0,1,C.A. 133809,193.4366,F49,s
+764,1,1,"Campbell, Rev. Harry",MALE,47.4,0,0,PC 356471,67.0517,C7,S
+113,0,3,"Campbell, Miss. Ida",F,19.3 yrs,0,0,A/5 154809,$13.75,,Southampton
+184,0,3,"Turner, Mr. Herbert",male,53.8,1,1,STON/O 226044,17.3481,,Q
+153,0,3,"Mitchell, Dr. Edward",M,23.5,0,0,PC 134965,4.2927,,C
+825,1,3,"Johnson, Mr. Thomas",MALE,14.0,0,0,STON/O 34335,21.5674,,c
+326,0,2,"Campbell, Master. Edward",MALE,,0,0,C.A. 257617,$4.44,F69,c
+704,1,2,"Allen, Lady. Emily",female,,2,2,SC/PARIS 6545,3.8421,,Cherbourg
+45,0,2,"Collins, Rev. Albert",M,53.7,2,0,102255,64.9818,,C
+445,1,3,"Morris, Rev. Fred",M,16.1,0,0,A/5 196361,12.4478,,q
+788,0,3,"Smith, Major. Arthur",Male,54.2,0,2,PC 309073,2.9079,,s
+7,0,3,"Brown, Mme. Ellen",F,,0,0,STON/O 238717,0.6341,,Southampton
+251,0,1,"Morris, Mrs. Kate",f,,0,0,PC 270089,88.419,E15,Southampton
+824,0,2,"Hall, Master. Henry",male,6.6,0,0,289728,,,Southampton
+76,0,3,"Clark, Dr. Walter",male,,0,0,C.A. 177368,9.0785,,s
+513,0,1,"Green, Miss. Margaret",f,28.3,0,0,PC 116009,7.5566,,Southampton
+392,1,3,"Johnson, Mr. Edward",M,62.8,0,0,PC 29576,15.3409,,Southampton
+69,0,1,"Clark, Mr. John",Male,,1,0,PC 67176,12.3155,A145,S
+433,0,1,"Parker, Dr. Arthur",Male,36.5,1,0,71144,73.01,D92,Southampton
+69,0,1,"Clark, Mr. John",Male,,1,0,PC 67176,12.3155,A145,S
+168,0,3,"Allen, Mr. Fred",m,39.2,0,2,STON/O 380444,4.0906,,Southampton
+693,1,3,"Parker, Col. Thomas",male,5.9,2,0,STON/O 88822,11.878,,Southampton
+731,1,1,"Mitchell, Mr. Alfred",M,38.4,0,1,SC/PARIS 115963,1.1231,F54,s
+555,1,1,"Morris, Rev. Samuel",Male,45.1,0,0,308714,92.8422,D106,Cherbourg
+367,1,2,"Smith, Mr. Charles",M,41.8,1,0,PC 104878,22.4184,,S
+346,0,2,"Campbell, Rev. James",MALE,,2,3,A/5 129177,0.919,D30,C
+585,0,3,"Nelson, Major. James",Male,0.4,1,2,C.A. 290127,9.3045,,s
+536,1,1,"Hall, Mr. Thomas",M,53.7,0,0,368618,3.9192,C106,Q
+399,1,3,"Morris, Col. Alfred",MALE,58.1,0,0,PC 64062,4.0012,,s
+186,1,1,"Smith, Col. Alfred",male,32.7,0,0,C.A. 196717,30.8401,A92,c
+349,1,1,"Allen, Mr. George",male,23.7,2,0,STON/O 374462,$48.20,,S
+616,0,3,"Green, Mrs. Bertha",F,40.8,0,0,STON/O 348593,225.7765,,s
+228,1,3,"Campbell, Lady. Anna",FEMALE,44.9,2,0,C.A. 80393,2.4674,,Southampton
+212,0,3,"Nelson, Major. Thomas",MALE,,0,0,PC 360132,29.8231,,Southampton
+580,1,3,"Moore, Major. Harry",male,,0,0,PC 132437,0.5444,,s
+503,0,3,"Adams, Mme. Edith",f,32.3,0,2,87949,4.805,,s
+538,0,3,"Rogers, Lady. Margaret",Female,22.9,0,0,SC/PARIS 142073,11.0844,,S
+197,0,3,,female,,0,0,C.A. 298399,70.4111,,Southampton
+176,1,2,"Adams, Mlle. Sarah",female,12.5,0,0,SC/PARIS 73560,36.4174,,Q
