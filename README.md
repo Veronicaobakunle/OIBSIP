@@ -1,14 +1,38 @@
 # OIBSIP - Task 1
 
 ## Description
-This notebook analyzes the sales dataset to explore trends and generate insights.
+Exploratory Data Analysis (EDA) on a retail sales dataset. The project examines sales trends over time, customer demographics, product performance, and profitability, using statistical summaries and visualizations to surface actionable insights.
+
+## Dataset
+- **Sales (1)_053146.csv**
+- Fields include Date, Customer_Age, Age_Group, Customer_Gender, Country, State, Product_Category, Sub_Category, Product, Order_Quantity, Revenue, Profit, and Cost.
+
+## Analysis Steps
+1. **Data inspection** - checked shape, column data types, missing values, and duplicate rows
+2. **Descriptive statistics** - computed mean, median, mode, and standard deviation for all numerical columns
+3. **Time series analysis** - converted dates and tracked monthly and quarterly sales trends
+4. **Customer demographics** - visualized age group distribution and gender breakdown
+5. **Product performance** - identified top 10 best-selling products by quantity, and revenue by product category
+6. **Correlation analysis** - built a correlation heatmap across numerical variables
+7. **Profitability analysis** - calculated profit margin (%) by product category to compare category-level profitability
+
+## Key Visualizations
+- Monthly sales trend (line chart)
+- Customer age group distribution (bar chart)
+- Customer gender breakdown (pie chart)
+- Top 10 best-selling products (horizontal bar chart)
+- Revenue by product category (bar chart)
+- Correlation matrix heatmap
+- Average profit margin by product category (bar chart)
 
 ## Files
-- Veronica Obakunle task 1.ipynb
-- Sales (1)_053146.csv
+- Veronica Obakunle task 1.ipynb - Jupyter notebook with full EDA
+- Sales (1)_053146.csv - Dataset used for this task
 
 ## Tools Used
-- Python, Pandas, NumPy, Matplotlib
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
 
 ## Author
 Veronica Obakunle
